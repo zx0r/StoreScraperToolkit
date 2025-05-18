@@ -1,0 +1,422 @@
+{
+  "vino-tikhoe": {
+    "uuid": "a7f7f111-5001-11ef-bba3-3cecef676e4f",
+    "name": "Вино тихое",
+    "background_color": "#ffe6b3",
+    "slug": "vino-tikhoe",
+    "parent_uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+      "name": "Вино",
+      "slug": "vino"
+    }
+  },
+  "vino-igristoe": {
+    "uuid": "9944ae52-5002-11ef-bba3-3cecef676e4f",
+    "name": "Вино игристое",
+    "background_color": "#ffe6b3",
+    "slug": "vino-igristoe",
+    "parent_uuid": "505436ef-5002-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "505436ef-5002-11ef-bba3-3cecef676e4f",
+      "name": "Шампанское и игристое",
+      "slug": "shampanskoe-i-igristoe"
+    }
+  },
+  "shampanskoe-1": {
+    "uuid": "7a665e01-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Шампанское",
+    "background_color": "#fff5c8",
+    "slug": "shampanskoe-1",
+    "parent_uuid": "505436ef-5002-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "505436ef-5002-11ef-bba3-3cecef676e4f",
+      "name": "Шампанское и игристое",
+      "slug": "shampanskoe-i-igristoe"
+    }
+  },
+  "rom-1": {
+    "uuid": "7a665d26-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Ром",
+    "background_color": "#f5e275",
+    "slug": "rom-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "pivo-1": {
+    "uuid": "7a665e02-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Пиво",
+    "background_color": "#ffe6b3",
+    "slug": "pivo-1",
+    "parent_uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+      "name": "Слабоалкогольные напитки",
+      "slug": "slaboalkogolnye-napitki-2"
+    }
+  },
+  "viski-1": {
+    "uuid": "7a665c76-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Виски",
+    "background_color": "#cd853f",
+    "slug": "viski-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "konyak-brendi": {
+    "uuid": "acc77dc9-4fde-11ef-bba3-3cecef676e4f",
+    "name": "Коньяк, бренди",
+    "background_color": "#ffcc66",
+    "slug": "konyak-brendi",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "shokolad-1": {
+    "uuid": "7a665ecb-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Шоколад",
+    "background_color": "#d2b48c",
+    "slug": "shokolad-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "vodka-1": {
+    "uuid": "7a665c9b-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Водка",
+    "background_color": "#f0f0ff",
+    "slug": "vodka-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "konfety-v-korobkakh-1": {
+    "uuid": "7a665e56-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Конфеты в коробках",
+    "background_color": "#ffefd5",
+    "slug": "konfety-v-korobkakh-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "sneki-1": {
+    "uuid": "7a665e80-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Снеки",
+    "background_color": "#ffefd5",
+    "slug": "sneki-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "likery": {
+    "uuid": "4ff08528-4ff8-11ef-bba3-3cecef676e4f",
+    "name": "Ликеры",
+    "background_color": "#ffff99",
+    "slug": "likery",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "myasnaya-gastronomiya-1": {
+    "uuid": "7a665e6c-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Мясная гастрономия",
+    "background_color": "#f5f5dc",
+    "slug": "myasnaya-gastronomiya-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "sidr-medovukha-1": {
+    "uuid": "7a665e03-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Сидр, медовуха",
+    "background_color": "#ffdf00",
+    "slug": "sidr-medovukha-1",
+    "parent_uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+      "name": "Слабоалкогольные напитки",
+      "slug": "slaboalkogolnye-napitki-2"
+    }
+  },
+  "vino-kreplenoe-1": {
+    "uuid": "7a665db1-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Вино крепленое",
+    "background_color": "#b37535",
+    "slug": "vino-kreplenoe-1",
+    "parent_uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+      "name": "Вино",
+      "slug": "vino"
+    }
+  },
+  "voda-1": {
+    "uuid": "7a665e17-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Вода",
+    "background_color": "#add8e6",
+    "slug": "voda-1",
+    "parent_uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Безалкогольные напитки",
+      "slug": "bezalkogolnye-napitki-1"
+    }
+  },
+  "prochee-1": {
+    "uuid": "33a62afb-fd8b-11ef-bba5-3cecef676e4f",
+    "name": "Прочее",
+    "background_color": "#fafacd",
+    "slug": "prochee-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "syry-1": {
+    "uuid": "7a665e93-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Сыры",
+    "background_color": "#daa520",
+    "slug": "syry-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "konservaciya-1": {
+    "uuid": "7a665e55-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Консервация",
+    "background_color": "#f5f5dc",
+    "slug": "konservaciya-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "napitki-so-vkusom-1": {
+    "uuid": "7a665e18-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Напитки со вкусом",
+    "background_color": "#ffe6b3",
+    "slug": "napitki-so-vkusom-1",
+    "parent_uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Безалкогольные напитки",
+      "slug": "bezalkogolnye-napitki-1"
+    }
+  },
+  "energetiki-1": {
+    "uuid": "7a665e1b-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Энергетики",
+    "background_color": "#ffa500",
+    "slug": "energetiki-1",
+    "parent_uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Безалкогольные напитки",
+      "slug": "bezalkogolnye-napitki-1"
+    }
+  },
+  "sok-nektar-kompot-1": {
+    "uuid": "7a665e1a-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Сок, нектар, компот",
+    "background_color": "#f5deb3",
+    "slug": "sok-nektar-kompot-1",
+    "parent_uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Безалкогольные напитки",
+      "slug": "bezalkogolnye-napitki-1"
+    }
+  },
+  "vermut-1": {
+    "uuid": "7a665d78-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Вермут",
+    "background_color": "#e6d991",
+    "slug": "vermut-1",
+    "parent_uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+      "name": "Вино",
+      "slug": "vino"
+    }
+  },
+  "bokaly-i-aksessuary-dlya-napitkov-1": {
+    "uuid": "7a665ece-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Бокалы и аксессуары для напитков",
+    "background_color": "#eedfad",
+    "slug": "bokaly-i-aksessuary-dlya-napitkov-1",
+    "parent_uuid": "2ef96875-50c5-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "2ef96875-50c5-11ef-bba3-3cecef676e4f",
+      "name": "Аксессуары",
+      "slug": "aksessuary-2"
+    }
+  },
+  "bakaleya-1": {
+    "uuid": "7a665e2e-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Бакалея",
+    "background_color": "#f5f5dc",
+    "slug": "bakaleya-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "tekila-1": {
+    "uuid": "7a665d73-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Текила",
+    "background_color": "#ffffe0",
+    "slug": "tekila-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "dzhin-1": {
+    "uuid": "7a665caf-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Джин",
+    "background_color": "#ade6ad",
+    "slug": "dzhin-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "prochee-3": {
+    "uuid": "f9e8bb81-fd8b-11ef-bba5-3cecef676e4f",
+    "name": "Прочее",
+    "background_color": "#ffe6b3",
+    "slug": "prochee-3",
+    "parent_uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "056966f6-5003-11ef-bba3-3cecef676e4f",
+      "name": "Слабоалкогольные напитки",
+      "slug": "slaboalkogolnye-napitki-2"
+    }
+  },
+  "bezalkogolnoe-shampanskoe-1": {
+    "uuid": "7a665e16-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Безалкогольное шампанское",
+    "background_color": "#ffffc8",
+    "slug": "bezalkogolnoe-shampanskoe-1",
+    "parent_uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "129efcab-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Безалкогольные напитки",
+      "slug": "bezalkogolnye-napitki-1"
+    }
+  },
+  "chay-kofe-1": {
+    "uuid": "7a665eb8-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Чай, кофе",
+    "background_color": "#ffefd5",
+    "slug": "chay-kofe-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "nastoyki-1": {
+    "uuid": "7a665d25-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Настойки",
+    "background_color": "#ffff99",
+    "slug": "nastoyki-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "distillyaty-1": {
+    "uuid": "7a665cb0-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Дистилляты",
+    "background_color": "#fffacd",
+    "slug": "distillyaty-1",
+    "parent_uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "a42f622a-4fde-11ef-bba3-3cecef676e4f",
+      "name": "Крепкий алкоголь",
+      "slug": "krepkiy-alkogol"
+    }
+  },
+  "muchnye-konditerskie-izdeliya-1": {
+    "uuid": "7a665e6b-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Мучные кондитерские изделия",
+    "background_color": "#ffefd5",
+    "slug": "muchnye-konditerskie-izdeliya-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  },
+  "prochee-2": {
+    "uuid": "df8394b0-fd8b-11ef-bba5-3cecef676e4f",
+    "name": "Прочее",
+    "background_color": "#e6d991",
+    "slug": "prochee-2",
+    "parent_uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "95ef1b33-5001-11ef-bba3-3cecef676e4f",
+      "name": "Вино",
+      "slug": "vino"
+    }
+  },
+  "zhevatelnaya-rezinka-1": {
+    "uuid": "7a665e41-4f0a-11ef-bba3-3cecef676e4f",
+    "name": "Жевательная резинка",
+    "background_color": "#ffe6b3",
+    "slug": "zhevatelnaya-rezinka-1",
+    "parent_uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+    "parent": {
+      "uuid": "5038b90a-50c4-11ef-bba3-3cecef676e4f",
+      "name": "Продукты",
+      "slug": "produkty-1"
+    }
+  }
+}

@@ -1,0 +1,9666 @@
+{
+  "categories": [
+    {
+      "name": "Бакалея",
+      "slug": "bakaleya"
+    },
+    {
+      "name": "Безалкогольное шампанское",
+      "slug": "bezalkogolnoe-shampanskoe"
+    },
+    {
+      "name": "Бокалы и аксессуары для напитков",
+      "slug": "bokaly-i-aksessuary-dlya-napitkov"
+    },
+    {
+      "name": "Вермут",
+      "slug": "vermut"
+    },
+    {
+      "name": "Вино игристое",
+      "slug": "vino-igristoe"
+    },
+    {
+      "name": "Вино крепленое",
+      "slug": "vino-kreplenoe"
+    },
+    {
+      "name": "Вино тихое",
+      "slug": "vino-tikhoe"
+    },
+    {
+      "name": "Виски",
+      "slug": "viski"
+    },
+    {
+      "name": "Вода",
+      "slug": "voda"
+    },
+    {
+      "name": "Водка",
+      "slug": "vodka"
+    },
+    {
+      "name": "Джин",
+      "slug": "dzhin"
+    },
+    {
+      "name": "Дистилляты",
+      "slug": "distillyaty"
+    },
+    {
+      "name": "Жевательная резинка",
+      "slug": "zhevatelnaya-rezinka"
+    },
+    {
+      "name": "Консервация",
+      "slug": "konservaciya"
+    },
+    {
+      "name": "Конфеты в коробках",
+      "slug": "konfety-v-korobkakh"
+    },
+    {
+      "name": "Коньяк, бренди",
+      "slug": "konyak-brendi"
+    },
+    {
+      "name": "Лед",
+      "slug": "led"
+    },
+    {
+      "name": "Ликеры",
+      "slug": "likery"
+    },
+    {
+      "name": "Мучные кондитерские изделия",
+      "slug": "muchnye-konditerskie-izdeliya"
+    },
+    {
+      "name": "Мясная гастрономия",
+      "slug": "myasnaya-gastronomiya"
+    },
+    {
+      "name": "Напитки со вкусом",
+      "slug": "napitki-so-vkusom"
+    },
+    {
+      "name": "Настойки",
+      "slug": "nastoyki"
+    },
+    {
+      "name": "Пиво",
+      "slug": "pivo"
+    },
+    {
+      "name": "Подарочная карта",
+      "slug": "podarochnaya-karta"
+    },
+    {
+      "name": "Прочее",
+      "slug": "prochee"
+    },
+    {
+      "name": "Ром",
+      "slug": "rom"
+    },
+    {
+      "name": "Сидр, медовуха",
+      "slug": "sidr-medovukha"
+    },
+    {
+      "name": "Сиропы",
+      "slug": "siropy"
+    },
+    {
+      "name": "Снеки",
+      "slug": "sneki"
+    },
+    {
+      "name": "Сок, нектар, компот",
+      "slug": "sok-nektar-kompot"
+    },
+    {
+      "name": "Сыры",
+      "slug": "syry"
+    },
+    {
+      "name": "Текила",
+      "slug": "tekila"
+    },
+    {
+      "name": "Чай, кофе",
+      "slug": "chay-kofe"
+    },
+    {
+      "name": "Шампанское",
+      "slug": "shampanskoe"
+    },
+    {
+      "name": "Шоколад",
+      "slug": "shokolad"
+    },
+    {
+      "name": "Энергетики",
+      "slug": "energetiki"
+    }
+  ],
+  "v-nalicii": [
+    {
+      "name": "п. Березовый, ул. Целиноградская, д. 6/1",
+      "slug": "p-berezovyy-ul-celinogradskaya-d-6-1"
+    },
+    {
+      "name": "п. Знаменский, ул. Светлая, д. 5/9",
+      "slug": "p-znamenskiy-ul-svetlaya-d-5-9"
+    },
+    {
+      "name": "п. Южный, ул. Советская, д. 29",
+      "slug": "p-yuzhnyy-ul-sovetskaya-d-29"
+    },
+    {
+      "name": "пгт Афипский, ул. Суворова, д. 110",
+      "slug": "pgt-afipskiy-ul-suvorova-d-110"
+    },
+    {
+      "name": "пгт Энем, ул. Чкалова, д. 6",
+      "slug": "pgt-enem-ul-chkalova-d-6"
+    },
+    {
+      "name": "пгт Яблоновский, ул. Гагарина, д. 150А",
+      "slug": "pgt-yablonovskiy-ul-gagarina-d-150a"
+    },
+    {
+      "name": "пгт Яблоновский, ул. Дорожная, д. 214/6",
+      "slug": "pgt-yablonovskiy-ul-dorozhnaya-d-214-6"
+    },
+    {
+      "name": "пгт Яблоновский, ул. Промышленная, д. 2В/1",
+      "slug": "pgt-yablonovskiy-ul-promyshlennaya-d-2v-1"
+    },
+    {
+      "name": "пгт Яблоновский, ул. Тургеневское шоссе, д. 31",
+      "slug": "pgt-yablonovskiy-ul-turgenevskoe-shosse-d-31"
+    },
+    {
+      "name": "пгт Яблоновский, ул. Шоссейная, д. 75",
+      "slug": "pgt-yablonovskiy-ul-shosseynaya-d-75"
+    },
+    {
+      "name": "пос. Энем, ул. Красная, д. 16/1А",
+      "slug": "pos-enem-ul-krasnaya-d-16-1a"
+    },
+    {
+      "name": "пр-кт Константина Образцова, д. 25 к.1",
+      "slug": "pr-kt-konstantina-obrazcova-d-25-k-1"
+    },
+    {
+      "name": "пр-кт Чекистов, д. 17",
+      "slug": "pr-kt-chekistov-d-17"
+    },
+    {
+      "name": "пр-кт Чекистов, д. 3/4",
+      "slug": "pr-kt-chekistov-d-3-4"
+    },
+    {
+      "name": "пр-кт Чекистов, д. 35/1",
+      "slug": "pr-kt-chekistov-d-35-1"
+    },
+    {
+      "name": "пр-кт Чекистов, д. 36, ТЦ 5 Звезд",
+      "slug": "pr-kt-chekistov-d-36-tc-5-zvezd"
+    },
+    {
+      "name": "пр. 3-й Звенигородский, д. 41",
+      "slug": "pr-3-y-zvenigorodskiy-d-41"
+    },
+    {
+      "name": "ст-ца Динская, ул. Красная, д. 117",
+      "slug": "st-ca-dinskaya-ul-krasnaya-d-117"
+    },
+    {
+      "name": "ст-ца Динская, ул. Красная, д. 74",
+      "slug": "st-ca-dinskaya-ul-krasnaya-d-74"
+    },
+    {
+      "name": "ст-ца Новотитаровская, ул. Широкая, д. 111",
+      "slug": "st-ca-novotitarovskaya-ul-shirokaya-d-111"
+    },
+    {
+      "name": "тер. СНТ Кубань, ул. Сливовая, д. 7",
+      "slug": "ter-snt-kuban-ul-slivovaya-d-7"
+    },
+    {
+      "name": "ул. 1 Мая, д. 493",
+      "slug": "ul-1-maya-d-493"
+    },
+    {
+      "name": "ул. 3-я Трудовая, д. 39",
+      "slug": "ul-3-ya-trudovaya-d-39"
+    },
+    {
+      "name": "ул. 40-летия Победы, д. 146/2",
+      "slug": "ul-40-letiya-pobedy-d-146-2"
+    },
+    {
+      "name": "ул. 40-летия Победы, д. 178",
+      "slug": "ul-40-letiya-pobedy-d-178"
+    },
+    {
+      "name": "ул. 40-летия Победы, д. 60",
+      "slug": "ul-40-letiya-pobedy-d-60"
+    },
+    {
+      "name": "ул. 70-летия Октября, д. 8",
+      "slug": "ul-70-letiya-oktyabrya-d-8"
+    },
+    {
+      "name": "ул. 9-я Тихая, д. 11/1",
+      "slug": "ul-9-ya-tikhaya-d-11-1"
+    },
+    {
+      "name": "ул. Адмирала Крузенштерна, д. 4",
+      "slug": "ul-admirala-kruzenshterna-d-4"
+    },
+    {
+      "name": "ул. Адмирала Серебрякова, д. 4./2",
+      "slug": "ul-admirala-serebryakova-d-4-2"
+    },
+    {
+      "name": "ул. Адыгейская Набережная, д. 245",
+      "slug": "ul-adygeyskaya-naberezhnaya-d-245"
+    },
+    {
+      "name": "ул. Артюшкова, д. 2, ТЦ Московский, 1 этаж",
+      "slug": "ul-artyushkova-d-2-tc-moskovskiy-1-etazh"
+    },
+    {
+      "name": "ул. Атарбекова, д. 38",
+      "slug": "ul-atarbekova-d-38"
+    },
+    {
+      "name": "ул. Атарбекова, д. 5",
+      "slug": "ul-atarbekova-d-5"
+    },
+    {
+      "name": "ул. Бабушкина, д. 295",
+      "slug": "ul-babushkina-d-295"
+    },
+    {
+      "name": "ул. Баварская, д. 8",
+      "slug": "ul-bavarskaya-d-8"
+    },
+    {
+      "name": "ул. Бородинская, д. 10",
+      "slug": "ul-borodinskaya-d-10"
+    },
+    {
+      "name": "ул. Бородинская, д. 137",
+      "slug": "ul-borodinskaya-d-137"
+    },
+    {
+      "name": "ул. Буденного, д. 129, ЖК Центральный",
+      "slug": "ul-budennogo-d-129-zhk-centralnyy"
+    },
+    {
+      "name": "ул. Бургасская, д. 56",
+      "slug": "ul-burgasskaya-d-56"
+    },
+    {
+      "name": "ул. Валерия Гассия, д. 2А",
+      "slug": "ul-valeriya-gassiya-d-2a"
+    },
+    {
+      "name": "ул. Восточно-Кругликовская, д. 22",
+      "slug": "ul-vostochno-kruglikovskaya-d-22"
+    },
+    {
+      "name": "ул. Восточно-Кругликовская, д. 32",
+      "slug": "ul-vostochno-kruglikovskaya-d-32"
+    },
+    {
+      "name": "ул. Восточно-Кругликовская, д. 48/5",
+      "slug": "ul-vostochno-kruglikovskaya-d-48-5"
+    },
+    {
+      "name": "ул. Гагарина, д. 75/3",
+      "slug": "ul-gagarina-d-75-3"
+    },
+    {
+      "name": "ул. Гаражная, д. 87",
+      "slug": "ul-garazhnaya-d-87"
+    },
+    {
+      "name": "ул. Гаражная, д. 92",
+      "slug": "ul-garazhnaya-d-92"
+    },
+    {
+      "name": "ул. Генерала Шифрина, д. 1",
+      "slug": "ul-generala-shifrina-d-1"
+    },
+    {
+      "name": "ул. Героев Разведчиков, д. 48",
+      "slug": "ul-geroev-razvedchikov-d-48"
+    },
+    {
+      "name": "ул. Героев Разведчиков, д. 8",
+      "slug": "ul-geroev-razvedchikov-d-8"
+    },
+    {
+      "name": "ул. Героя Николая Шевелёва, д. 2",
+      "slug": "ul-geroya-nikolaya-sheveleva-d-2"
+    },
+    {
+      "name": "ул. Головатого, д. 317",
+      "slug": "ul-golovatogo-d-317"
+    },
+    {
+      "name": "ул. Дальняя, д. 39/2",
+      "slug": "ul-dalnyaya-d-39-2"
+    },
+    {
+      "name": "ул. Дзержинского, д. 100, ТРК Красная Площадь, 1 этаж",
+      "slug": "ul-dzerzhinskogo-d-100-trk-krasnaya-ploshchad-1-etazh"
+    },
+    {
+      "name": "ул. Дзержинского, д. 215",
+      "slug": "ul-dzerzhinskogo-d-215"
+    },
+    {
+      "name": "ул. Дзержинского, д. 64/2",
+      "slug": "ul-dzerzhinskogo-d-64-2"
+    },
+    {
+      "name": "ул. Домбайская, д. 8",
+      "slug": "ul-dombayskaya-d-8"
+    },
+    {
+      "name": "ул. Душистая, д. 49",
+      "slug": "ul-dushistaya-d-49"
+    },
+    {
+      "name": "ул. Евгении Жигуленко, д. 4",
+      "slug": "ul-evgenii-zhigulenko-d-4"
+    },
+    {
+      "name": "ул. Евдокии Бершанской, д. 343",
+      "slug": "ul-evdokii-bershanskoy-d-343"
+    },
+    {
+      "name": "ул. Западный обход, д. 31, ТЦ ВЕСТ МОЛЛ",
+      "slug": "ul-zapadnyy-obkhod-d-31-tc-vest-moll"
+    },
+    {
+      "name": "ул. Западный Обход, д. 40/2, стр. Б",
+      "slug": "ul-zapadnyy-obkhod-d-40-2-str-b"
+    },
+    {
+      "name": "ул. Западный обход, д. 41",
+      "slug": "ul-zapadnyy-obkhod-d-41"
+    },
+    {
+      "name": "ул. Зиповская, д. 11",
+      "slug": "ul-zipovskaya-d-11"
+    },
+    {
+      "name": "ул. Зиповская, д. 34/2",
+      "slug": "ul-zipovskaya-d-34-2"
+    },
+    {
+      "name": "ул. Знаменского, д. 2",
+      "slug": "ul-znamenskogo-d-2"
+    },
+    {
+      "name": "ул. Ивана Беличенко, д. 89",
+      "slug": "ul-ivana-belichenko-d-89"
+    },
+    {
+      "name": "ул. Индустриальная, д. 80",
+      "slug": "ul-industrialnaya-d-80"
+    },
+    {
+      "name": "ул. Каляева, д. 121",
+      "slug": "ul-kalyaeva-d-121"
+    },
+    {
+      "name": "ул. Карасунская, д. 82/2",
+      "slug": "ul-karasunskaya-d-82-2"
+    },
+    {
+      "name": "ул. Карякина, д. 20",
+      "slug": "ul-karyakina-d-20"
+    },
+    {
+      "name": "ул. Кирова, д. 269",
+      "slug": "ul-kirova-d-269"
+    },
+    {
+      "name": "ул. Ковалева, д. 46",
+      "slug": "ul-kovaleva-d-46"
+    },
+    {
+      "name": "ул. Колхозная, д. 5/2к1",
+      "slug": "ul-kolkhoznaya-d-5-2k1"
+    },
+    {
+      "name": "ул. Коммунаров, д. 268",
+      "slug": "ul-kommunarov-d-268"
+    },
+    {
+      "name": "ул. Комсомольская, д. 50",
+      "slug": "ul-komsomolskaya-d-50"
+    },
+    {
+      "name": "ул. Конгрессная, д. 31",
+      "slug": "ul-kongressnaya-d-31"
+    },
+    {
+      "name": "ул. Константина Гондаря, д. 103к1",
+      "slug": "ul-konstantina-gondarya-d-103k1"
+    },
+    {
+      "name": "ул. Кореновская, д. 26",
+      "slug": "ul-korenovskaya-d-26"
+    },
+    {
+      "name": "ул. Красная, д. 149",
+      "slug": "ul-krasnaya-d-149"
+    },
+    {
+      "name": "ул. Красная, д. 170",
+      "slug": "ul-krasnaya-d-170"
+    },
+    {
+      "name": "ул. Красная, д. 176",
+      "slug": "ul-krasnaya-d-176"
+    },
+    {
+      "name": "ул. Красных Партизан, д. 111/3",
+      "slug": "ul-krasnykh-partizan-d-111-3"
+    },
+    {
+      "name": "ул. Кубанская Набережная, д. 23",
+      "slug": "ul-kubanskaya-naberezhnaya-d-23"
+    },
+    {
+      "name": "ул. Мачуги, д. 142",
+      "slug": "ul-machugi-d-142"
+    },
+    {
+      "name": "ул. Мачуги, д. 166",
+      "slug": "ul-machugi-d-166"
+    },
+    {
+      "name": "ул. Мачуги, д. 18",
+      "slug": "ul-machugi-d-18"
+    },
+    {
+      "name": "ул. Московская, д. 124",
+      "slug": "ul-moskovskaya-d-124"
+    },
+    {
+      "name": "ул. Московская, д. 162, ТЦ Стрелки, 1 этаж",
+      "slug": "ul-moskovskaya-d-162-tc-strelki-1-etazh"
+    },
+    {
+      "name": "ул. Промышленная, д. 29А",
+      "slug": "ul-promyshlennaya-d-29a"
+    },
+    {
+      "name": "ул. Промышленная, д. 50",
+      "slug": "ul-promyshlennaya-d-50"
+    },
+    {
+      "name": "ул. Репина, д. 2Ж",
+      "slug": "ul-repina-d-2zh"
+    },
+    {
+      "name": "ул. Российская, д. 414",
+      "slug": "ul-rossiyskaya-d-414"
+    },
+    {
+      "name": "ул. Российская, д. 69/1",
+      "slug": "ul-rossiyskaya-d-69-1"
+    },
+    {
+      "name": "ул. Садовая, д. 2",
+      "slug": "ul-sadovaya-d-2"
+    },
+    {
+      "name": "ул. Северная, д. 446",
+      "slug": "ul-severnaya-d-446"
+    },
+    {
+      "name": "ул. Селезнёва, д. 68А",
+      "slug": "ul-selezneva-d-68a"
+    },
+    {
+      "name": "ул. Селезнева, д. 2",
+      "slug": "ul-selezneva-d-2"
+    },
+    {
+      "name": "ул. Скорняжная, д. 81",
+      "slug": "ul-skornyazhnaya-d-81"
+    },
+    {
+      "name": "ул. Соколова, д. 54/1",
+      "slug": "ul-sokolova-d-54-1"
+    },
+    {
+      "name": "ул. Сормовская, д. 12Е",
+      "slug": "ul-sormovskaya-d-12e"
+    },
+    {
+      "name": "ул. Сормовская, д. 204/1",
+      "slug": "ul-sormovskaya-d-204-1"
+    },
+    {
+      "name": "ул. Спортивная, д. 4",
+      "slug": "ul-sportivnaya-d-4"
+    },
+    {
+      "name": "ул. Ставропольская, д. 109/2",
+      "slug": "ul-stavropolskaya-d-109-2"
+    },
+    {
+      "name": "ул. Ставропольская, д. 124А",
+      "slug": "ul-stavropolskaya-d-124a"
+    },
+    {
+      "name": "ул. Ставропольская, д. 159/2",
+      "slug": "ul-stavropolskaya-d-159-2"
+    },
+    {
+      "name": "ул. Ставропольская, д. 18",
+      "slug": "ul-stavropolskaya-d-18"
+    },
+    {
+      "name": "ул. Ставропольская, д. 218/1",
+      "slug": "ul-stavropolskaya-d-218-1"
+    },
+    {
+      "name": "ул. Ставропольская, д. 252А",
+      "slug": "ul-stavropolskaya-d-252a"
+    },
+    {
+      "name": "ул. Ставропольская, д. 336/3",
+      "slug": "ul-stavropolskaya-d-336-3"
+    },
+    {
+      "name": "ул. Старокубанская, д. 137",
+      "slug": "ul-starokubanskaya-d-137"
+    },
+    {
+      "name": "ул. Стасова, д. 186, ТЦ УРОВНИ, 1 этаж",
+      "slug": "ul-stasova-d-186-tc-urovni-1-etazh"
+    },
+    {
+      "name": "ул. Суворова, д. 151",
+      "slug": "ul-suvorova-d-151"
+    },
+    {
+      "name": "ул. Тепличная, д. 17Б",
+      "slug": "ul-teplichnaya-d-17b"
+    },
+    {
+      "name": "ул. Трудовой Славы, д. 1/1",
+      "slug": "ul-trudovoy-slavy-d-1-1"
+    },
+    {
+      "name": "ул. Трудовой Славы, д. 46/1",
+      "slug": "ul-trudovoy-slavy-d-46-1"
+    },
+    {
+      "name": "ул. Тургенева, д. 102",
+      "slug": "ul-turgeneva-d-102"
+    },
+    {
+      "name": "ул. Тургенева, д. 138/4",
+      "slug": "ul-turgeneva-d-138-4"
+    },
+    {
+      "name": "ул. Тургенева, д. 213",
+      "slug": "ul-turgeneva-d-213"
+    },
+    {
+      "name": "ул. Тюляева, д. 16А",
+      "slug": "ul-tyulyaeva-d-16a"
+    },
+    {
+      "name": "ул. Уральская, д. 13",
+      "slug": "ul-uralskaya-d-13"
+    },
+    {
+      "name": "ул. Федора Лузана, д. 23",
+      "slug": "ul-fedora-luzana-d-23"
+    },
+    {
+      "name": "ул. Цезаря Куникова, д. 24, к. 2",
+      "slug": "ul-cezarya-kunikova-d-24-k-2"
+    },
+    {
+      "name": "ул. Черкасская, д. 57/2",
+      "slug": "ul-cherkasskaya-d-57-2"
+    },
+    {
+      "name": "ул. Школьная, д. 66/1",
+      "slug": "ul-shkolnaya-d-66-1"
+    },
+    {
+      "name": "ул. Яна Полуяна, д. 39",
+      "slug": "ul-yana-poluyana-d-39"
+    },
+    {
+      "name": "ул. Яркая, д. 40",
+      "slug": "ul-yarkaya-d-40"
+    },
+    {
+      "name": "х. Ленина, кв-л Буренка, д. 240А",
+      "slug": "kh-lenina-kv-l-burenka-d-240a"
+    },
+    {
+      "name": "х. Ленина, пер. Буковый, д. 13",
+      "slug": "kh-lenina-per-bukovyy-d-13"
+    }
+  ],
+  "soderzanie-saxara": [
+    {
+      "name": "Брют",
+      "slug": "bryut"
+    },
+    {
+      "name": "Брют натюр",
+      "slug": "bryut-natyur"
+    },
+    {
+      "name": "Полусладкое",
+      "slug": "polusladkoe"
+    },
+    {
+      "name": "Полусухое",
+      "slug": "polusukhoe"
+    },
+    {
+      "name": "Сладкое",
+      "slug": "sladkoe"
+    },
+    {
+      "name": "Сухое",
+      "slug": "sukhoe"
+    },
+    {
+      "name": "Экстра брют",
+      "slug": "ekstra-bryut"
+    },
+    {
+      "name": "Экстра драй",
+      "slug": "ekstra-dray"
+    }
+  ],
+  "cvet": [
+    {
+      "name": "Белое",
+      "slug": "beloe"
+    },
+    {
+      "name": "Красное",
+      "slug": "krasnoe"
+    },
+    {
+      "name": "Розовое",
+      "slug": "rozovoe"
+    },
+    {
+      "name": "Светлое",
+      "slug": "svetloe"
+    },
+    {
+      "name": "Тёмное",
+      "slug": "temnoe"
+    }
+  ],
+  "sortovoi-sostav": [
+    {
+      "name": "Августин",
+      "slug": "avgustin"
+    },
+    {
+      "name": "Азаль",
+      "slug": "azal"
+    },
+    {
+      "name": "Азаль Бранко",
+      "slug": "azal-branko"
+    },
+    {
+      "name": "Айрен",
+      "slug": "ayren"
+    },
+    {
+      "name": "Аладастури",
+      "slug": "aladasturi"
+    },
+    {
+      "name": "Александроули",
+      "slug": "aleksandrouli"
+    },
+    {
+      "name": "Алиготе",
+      "slug": "aligote"
+    },
+    {
+      "name": "Аликанте",
+      "slug": "alikante"
+    },
+    {
+      "name": "Альбанелло",
+      "slug": "albanello"
+    },
+    {
+      "name": "Альбариньо",
+      "slug": "albarino"
+    },
+    {
+      "name": "Альби́льо",
+      "slug": "albi-lo"
+    },
+    {
+      "name": "Альвариньо",
+      "slug": "alvarino"
+    },
+    {
+      "name": "Альянико",
+      "slug": "alyaniko"
+    },
+    {
+      "name": "Арагонеш",
+      "slug": "aragonesh"
+    },
+    {
+      "name": "Арени",
+      "slug": "areni"
+    },
+    {
+      "name": "Аринто",
+      "slug": "arinto"
+    },
+    {
+      "name": "Арнеис",
+      "slug": "arneis"
+    },
+    {
+      "name": "Ахтанак",
+      "slug": "akhtanak"
+    },
+    {
+      "name": "Бага",
+      "slug": "baga"
+    },
+    {
+      "name": "Бананц",
+      "slug": "bananc"
+    },
+    {
+      "name": "Барбера",
+      "slug": "barbera"
+    },
+    {
+      "name": "Баста́рдо Магара́чский",
+      "slug": "basta-rdo-magara-chskiy"
+    },
+    {
+      "name": "Бастардо",
+      "slug": "bastardo"
+    },
+    {
+      "name": "Бианка",
+      "slug": "bianka"
+    },
+    {
+      "name": "Бикал",
+      "slug": "bikal"
+    },
+    {
+      "name": "Блауфранкиш",
+      "slug": "blaufrankish"
+    },
+    {
+      "name": "Бракетто",
+      "slug": "braketto"
+    },
+    {
+      "name": "Брунелло",
+      "slug": "brunello"
+    },
+    {
+      "name": "Бурбуленк",
+      "slug": "burbulenk"
+    },
+    {
+      "name": "Бьянка",
+      "slug": "byanka"
+    },
+    {
+      "name": "Бьянкетта",
+      "slug": "byanketta"
+    },
+    {
+      "name": "Вайсбургундер",
+      "slug": "vaysburgunder"
+    },
+    {
+      "name": "Вельшрислинг",
+      "slug": "velshrisling"
+    },
+    {
+      "name": "Вердека",
+      "slug": "verdeka"
+    },
+    {
+      "name": "Вердельо",
+      "slug": "verdelo"
+    },
+    {
+      "name": "Вердехо",
+      "slug": "verdekho"
+    },
+    {
+      "name": "Верментино",
+      "slug": "vermentino"
+    },
+    {
+      "name": "Виньяо",
+      "slug": "vinyao"
+    },
+    {
+      "name": "Вионье",
+      "slug": "vione"
+    },
+    {
+      "name": "Виура",
+      "slug": "viura"
+    },
+    {
+      "name": "Воскеат",
+      "slug": "voskeat"
+    },
+    {
+      "name": "Вранац",
+      "slug": "vranac"
+    },
+    {
+      "name": "Гамэ",
+      "slug": "game"
+    },
+    {
+      "name": "Гаран Дмак",
+      "slug": "garan-dmak"
+    },
+    {
+      "name": "Гарганега",
+      "slug": "garganega"
+    },
+    {
+      "name": "Гарнача Тинта",
+      "slug": "garnacha-tinta"
+    },
+    {
+      "name": "Гарс Левелю",
+      "slug": "gars-levelyu"
+    },
+    {
+      "name": "Гевюрцтраминер",
+      "slug": "gevyurctraminer"
+    },
+    {
+      "name": "Глера",
+      "slug": "glera"
+    },
+    {
+      "name": "Горули Мцване",
+      "slug": "goruli-mcvane"
+    },
+    {
+      "name": "Грасиано",
+      "slug": "grasiano"
+    },
+    {
+      "name": "Граубургундер",
+      "slug": "grauburgunder"
+    },
+    {
+      "name": "Грекетто",
+      "slug": "greketto"
+    },
+    {
+      "name": "Грекетто Джентиле",
+      "slug": "greketto-dzhentile"
+    },
+    {
+      "name": "Греко",
+      "slug": "greko"
+    },
+    {
+      "name": "Гренаш Блан",
+      "slug": "grenash-blan"
+    },
+    {
+      "name": "Гренаш Нуар",
+      "slug": "grenash-nuar"
+    },
+    {
+      "name": "Грилло",
+      "slug": "grillo"
+    },
+    {
+      "name": "Гро Мансан",
+      "slug": "gro-mansan"
+    },
+    {
+      "name": "Гролло",
+      "slug": "grollo"
+    },
+    {
+      "name": "Грюнер Вельтлинер",
+      "slug": "gryuner-veltliner"
+    },
+    {
+      "name": "Грюнер Таманский",
+      "slug": "gryuner-tamanskiy"
+    },
+    {
+      "name": "Джеват Кара",
+      "slug": "dzhevat-kara"
+    },
+    {
+      "name": "Дольчетто",
+      "slug": "dolchetto"
+    },
+    {
+      "name": "Зелен",
+      "slug": "zelen"
+    },
+    {
+      "name": "Зета",
+      "slug": "zeta"
+    },
+    {
+      "name": "Зинфандель",
+      "slug": "zinfandel"
+    },
+    {
+      "name": "Инкрочо Манзони",
+      "slug": "inkrocho-manzoni"
+    },
+    {
+      "name": "Каберне Совиньон",
+      "slug": "kaberne-sovinon"
+    },
+    {
+      "name": "Каберне Фран",
+      "slug": "kaberne-fran"
+    },
+    {
+      "name": "Канайоло",
+      "slug": "kanayolo"
+    },
+    {
+      "name": "Кангун",
+      "slug": "kangun"
+    },
+    {
+      "name": "Каннонау",
+      "slug": "kannonau"
+    },
+    {
+      "name": "Кариньян",
+      "slug": "karinyan"
+    },
+    {
+      "name": "Карменер",
+      "slug": "karmener"
+    },
+    {
+      "name": "Кармрают",
+      "slug": "karmrayut"
+    },
+    {
+      "name": "Карриканте",
+      "slug": "karrikante"
+    },
+    {
+      "name": "Кахет",
+      "slug": "kakhet"
+    },
+    {
+      "name": "Каштелау",
+      "slug": "kashtelau"
+    },
+    {
+      "name": "Кефесия",
+      "slug": "kefesiya"
+    },
+    {
+      "name": "Киси",
+      "slug": "kisi"
+    },
+    {
+      "name": "Клерет Блан",
+      "slug": "kleret-blan"
+    },
+    {
+      "name": "Кодега",
+      "slug": "kodega"
+    },
+    {
+      "name": "Кокур",
+      "slug": "kokur"
+    },
+    {
+      "name": "Коломбар",
+      "slug": "kolombar"
+    },
+    {
+      "name": "Колорино",
+      "slug": "kolorino"
+    },
+    {
+      "name": "Корвина",
+      "slug": "korvina"
+    },
+    {
+      "name": "Корвиноне",
+      "slug": "korvinone"
+    },
+    {
+      "name": "Кортезе",
+      "slug": "korteze"
+    },
+    {
+      "name": "Косю",
+      "slug": "kosyu"
+    },
+    {
+      "name": "Красностоп",
+      "slug": "krasnostop"
+    },
+    {
+      "name": "Красностоп Золотовский",
+      "slug": "krasnostop-zolotovskiy"
+    },
+    {
+      "name": "Кроатина",
+      "slug": "kroatina"
+    },
+    {
+      "name": "Кунуаз",
+      "slug": "kunuaz"
+    },
+    {
+      "name": "Лагрейн",
+      "slug": "lagreyn"
+    },
+    {
+      "name": "Лалвари",
+      "slug": "lalvari"
+    },
+    {
+      "name": "Ламбруско",
+      "slug": "lambrusko"
+    },
+    {
+      "name": "Левокумский",
+      "slug": "levokumskiy"
+    },
+    {
+      "name": "Лоурейру",
+      "slug": "loureyru"
+    },
+    {
+      "name": "Макабео",
+      "slug": "makabeo"
+    },
+    {
+      "name": "Мальбек",
+      "slug": "malbek"
+    },
+    {
+      "name": "Мальвазия",
+      "slug": "malvaziya"
+    },
+    {
+      "name": "Мальвазия Фина",
+      "slug": "malvaziya-fina"
+    },
+    {
+      "name": "Манзони Бьянко",
+      "slug": "manzoni-byanko"
+    },
+    {
+      "name": "Мариновский",
+      "slug": "marinovskiy"
+    },
+    {
+      "name": "Марсан",
+      "slug": "marsan"
+    },
+    {
+      "name": "Марселан",
+      "slug": "marselan"
+    },
+    {
+      "name": "Марцемино",
+      "slug": "marcemino"
+    },
+    {
+      "name": "Масуэло",
+      "slug": "masuelo"
+    },
+    {
+      "name": "Матаро",
+      "slug": "mataro"
+    },
+    {
+      "name": "Мелон де Бургонь",
+      "slug": "melon-de-burgon"
+    },
+    {
+      "name": "Мерло",
+      "slug": "merlo"
+    },
+    {
+      "name": "Милаг",
+      "slug": "milag"
+    },
+    {
+      "name": "Минутоло",
+      "slug": "minutolo"
+    },
+    {
+      "name": "Мозак",
+      "slug": "mozak"
+    },
+    {
+      "name": "Молдова",
+      "slug": "moldova"
+    },
+    {
+      "name": "Молинара",
+      "slug": "molinara"
+    },
+    {
+      "name": "Монастрель",
+      "slug": "monastrel"
+    },
+    {
+      "name": "Монтепульчано",
+      "slug": "montepulchano"
+    },
+    {
+      "name": "Москатель де Александрия",
+      "slug": "moskatel-de-aleksandriya"
+    },
+    {
+      "name": "Москато Бьянко",
+      "slug": "moskato-byanko"
+    },
+    {
+      "name": "Муджуретули",
+      "slug": "mudzhuretuli"
+    },
+    {
+      "name": "Мурведр",
+      "slug": "murvedr"
+    },
+    {
+      "name": "Мускат",
+      "slug": "muskat"
+    },
+    {
+      "name": "Мускат Александрийский",
+      "slug": "muskat-aleksandriyskiy"
+    },
+    {
+      "name": "Мускат Бейли А",
+      "slug": "muskat-beyli-a"
+    },
+    {
+      "name": "Мускат Белый",
+      "slug": "muskat-belyy"
+    },
+    {
+      "name": "Мускат Вардабуйр",
+      "slug": "muskat-vardabuyr"
+    },
+    {
+      "name": "Мускат Гамбургский",
+      "slug": "muskat-gamburgskiy"
+    },
+    {
+      "name": "Мускат Люнель",
+      "slug": "muskat-lyunel"
+    },
+    {
+      "name": "Мускат Оттонель",
+      "slug": "muskat-ottonel"
+    },
+    {
+      "name": "Мускат Розовый",
+      "slug": "muskat-rozovyy"
+    },
+    {
+      "name": "Мускат Янтарный",
+      "slug": "muskat-yantarnyy"
+    },
+    {
+      "name": "Мцване",
+      "slug": "mcvane"
+    },
+    {
+      "name": "Мцване Кахури",
+      "slug": "mcvane-kakhuri"
+    },
+    {
+      "name": "Мюллер-Туграу",
+      "slug": "myuller-tugrau"
+    },
+    {
+      "name": "Мюскадель",
+      "slug": "myuskadel"
+    },
+    {
+      "name": "Неббиоло",
+      "slug": "nebbiolo"
+    },
+    {
+      "name": "Негроамаро",
+      "slug": "negroamaro"
+    },
+    {
+      "name": "Неро д'Авола",
+      "slug": "nero-d-avola"
+    },
+    {
+      "name": "Одесский Чёрный",
+      "slug": "odesskiy-chernyy"
+    },
+    {
+      "name": "Оджалеши",
+      "slug": "odzhaleshi"
+    },
+    {
+      "name": "Оксеруа Блан",
+      "slug": "okserua-blan"
+    },
+    {
+      "name": "Оселета",
+      "slug": "oseleta"
+    },
+    {
+      "name": "Падейро",
+      "slug": "padeyro"
+    },
+    {
+      "name": "Паломино Фино",
+      "slug": "palomino-fino"
+    },
+    {
+      "name": "Парельяда",
+      "slug": "parelyada"
+    },
+    {
+      "name": "Пассерина",
+      "slug": "passerina"
+    },
+    {
+      "name": "Первенец Магарача",
+      "slug": "pervenec-magaracha"
+    },
+    {
+      "name": "Перера",
+      "slug": "perera"
+    },
+    {
+      "name": "Пино Блан",
+      "slug": "pino-blan"
+    },
+    {
+      "name": "Пино Бьянко",
+      "slug": "pino-byanko"
+    },
+    {
+      "name": "Пино Гри",
+      "slug": "pino-gri"
+    },
+    {
+      "name": "Пино Гриджио",
+      "slug": "pino-gridzhio"
+    },
+    {
+      "name": "Пино Гриджо",
+      "slug": "pino-gridzho"
+    },
+    {
+      "name": "Пино Менье",
+      "slug": "pino-mene"
+    },
+    {
+      "name": "Пино Неро",
+      "slug": "pino-nero"
+    },
+    {
+      "name": "Пино Нуар",
+      "slug": "pino-nuar"
+    },
+    {
+      "name": "Пино Серый",
+      "slug": "pino-seryy"
+    },
+    {
+      "name": "Пинотаж",
+      "slug": "pinotazh"
+    },
+    {
+      "name": "Примитиво",
+      "slug": "primitivo"
+    },
+    {
+      "name": "Проканико",
+      "slug": "prokaniko"
+    },
+    {
+      "name": "Пти Вердо",
+      "slug": "pti-verdo"
+    },
+    {
+      "name": "Пти Мансан",
+      "slug": "pti-mansan"
+    },
+    {
+      "name": "Пти Сира",
+      "slug": "pti-sira"
+    },
+    {
+      "name": "Рабигато",
+      "slug": "rabigato"
+    },
+    {
+      "name": "Рабозо",
+      "slug": "rabozo"
+    },
+    {
+      "name": "Ребо",
+      "slug": "rebo"
+    },
+    {
+      "name": "Ребула",
+      "slug": "rebula"
+    },
+    {
+      "name": "Рефоско даль Педунколо",
+      "slug": "refosko-dal-pedunkolo"
+    },
+    {
+      "name": "Риболла Джалла",
+      "slug": "ribolla-dzhalla"
+    },
+    {
+      "name": "Риванер",
+      "slug": "rivaner"
+    },
+    {
+      "name": "Рислинг",
+      "slug": "risling"
+    },
+    {
+      "name": "Ритон",
+      "slug": "riton"
+    },
+    {
+      "name": "Ркацетели",
+      "slug": "rkaceteli"
+    },
+    {
+      "name": "Ркацители",
+      "slug": "rkaciteli"
+    },
+    {
+      "name": "Родитис",
+      "slug": "roditis"
+    },
+    {
+      "name": "Ролль",
+      "slug": "roll"
+    },
+    {
+      "name": "Рондинелла",
+      "slug": "rondinella"
+    },
+    {
+      "name": "Русан",
+      "slug": "rusan"
+    },
+    {
+      "name": "Санджовезе",
+      "slug": "sandzhoveze"
+    },
+    {
+      "name": "Саперави",
+      "slug": "saperavi"
+    },
+    {
+      "name": "Семийон",
+      "slug": "semiyon"
+    },
+    {
+      "name": "Семильон",
+      "slug": "semilon"
+    },
+    {
+      "name": "Сенсо",
+      "slug": "senso"
+    },
+    {
+      "name": "Серсиаль",
+      "slug": "sersial"
+    },
+    {
+      "name": "Сира",
+      "slug": "sira"
+    },
+    {
+      "name": "Скьява",
+      "slug": "skyava"
+    },
+    {
+      "name": "Смедеревка",
+      "slug": "smederevka"
+    },
+    {
+      "name": "Совиньон Блан",
+      "slug": "sovinon-blan"
+    },
+    {
+      "name": "Совиньон Зеленый",
+      "slug": "sovinon-zelenyy"
+    },
+    {
+      "name": "Сумоль Блан",
+      "slug": "sumol-blan"
+    },
+    {
+      "name": "Сумоль Негре",
+      "slug": "sumol-negre"
+    },
+    {
+      "name": "Таннат",
+      "slug": "tannat"
+    },
+    {
+      "name": "Темпранильо",
+      "slug": "tempranilo"
+    },
+    {
+      "name": "Темпранильо Бланко",
+      "slug": "tempranilo-blanko"
+    },
+    {
+      "name": "Терольдего",
+      "slug": "teroldego"
+    },
+    {
+      "name": "Тетра",
+      "slug": "tetra"
+    },
+    {
+      "name": "Тиграни",
+      "slug": "tigrani"
+    },
+    {
+      "name": "Тинта Барокко",
+      "slug": "tinta-barokko"
+    },
+    {
+      "name": "Тинта де Торо",
+      "slug": "tinta-de-toro"
+    },
+    {
+      "name": "Тинта Као",
+      "slug": "tinta-kao"
+    },
+    {
+      "name": "Тинта Рориш",
+      "slug": "tinta-rorish"
+    },
+    {
+      "name": "Торронтес",
+      "slug": "torrontes"
+    },
+    {
+      "name": "Тражадура",
+      "slug": "trazhadura"
+    },
+    {
+      "name": "Траминер",
+      "slug": "traminer"
+    },
+    {
+      "name": "Траминер Розовый",
+      "slug": "traminer-rozovyy"
+    },
+    {
+      "name": "Треббьяно",
+      "slug": "trebbyano"
+    },
+    {
+      "name": "Треббьяно ди Соаве",
+      "slug": "trebbyano-di-soave"
+    },
+    {
+      "name": "Трежадура",
+      "slug": "trezhadura"
+    },
+    {
+      "name": "Трепат",
+      "slug": "trepat"
+    },
+    {
+      "name": "Турбиана",
+      "slug": "turbiana"
+    },
+    {
+      "name": "Турига Насьональ",
+      "slug": "turiga-nasonal"
+    },
+    {
+      "name": "Турига Франка",
+      "slug": "turiga-franka"
+    },
+    {
+      "name": "Уни Блан",
+      "slug": "uni-blan"
+    },
+    {
+      "name": "Фалангина",
+      "slug": "falangina"
+    },
+    {
+      "name": "Фернау Пиреш",
+      "slug": "fernau-piresh"
+    },
+    {
+      "name": "Фиано",
+      "slug": "fiano"
+    },
+    {
+      "name": "Франкония",
+      "slug": "frankoniya"
+    },
+    {
+      "name": "Фрейза",
+      "slug": "freyza"
+    },
+    {
+      "name": "Фриулано",
+      "slug": "friulano"
+    },
+    {
+      "name": "Фурминт",
+      "slug": "furmint"
+    },
+    {
+      "name": "Харшлевелю",
+      "slug": "kharshlevelyu"
+    },
+    {
+      "name": "Цвайгельт",
+      "slug": "cvaygelt"
+    },
+    {
+      "name": "Цветочный",
+      "slug": "cvetochnyy"
+    },
+    {
+      "name": "Цимлянский Черный",
+      "slug": "cimlyanskiy-chernyy"
+    },
+    {
+      "name": "Цитронный Магарача",
+      "slug": "citronnyy-magaracha"
+    },
+    {
+      "name": "Цоликаури",
+      "slug": "colikauri"
+    },
+    {
+      "name": "Шабаш",
+      "slug": "shabash"
+    },
+    {
+      "name": "Шардоне",
+      "slug": "shardone"
+    },
+    {
+      "name": "Шарелло",
+      "slug": "sharello"
+    },
+    {
+      "name": "Шенен Блан",
+      "slug": "shenen-blan"
+    },
+    {
+      "name": "Шираз",
+      "slug": "shiraz"
+    },
+    {
+      "name": "Шпетбургундер",
+      "slug": "shpetburgunder"
+    },
+    {
+      "name": "Щарелло",
+      "slug": "shcharello"
+    },
+    {
+      "name": "Эким Кара",
+      "slug": "ekim-kara"
+    },
+    {
+      "name": "Эспадейро",
+      "slug": "espadeyro"
+    }
+  ],
+  "nasi-proekty": [
+    {
+      "name": "Axioma Spirits",
+      "slug": "axioma-spirits"
+    },
+    {
+      "name": "Enogram",
+      "slug": "enogram"
+    }
+  ],
+  "brend": [
+    {
+      "name": "135° Ист Хиого",
+      "slug": "135-ist-khiogo"
+    },
+    {
+      "name": 1598,
+      "slug": "1598"
+    },
+    {
+      "name": "19 КРАЙМС",
+      "slug": "19-krayms"
+    },
+    {
+      "name": "26 Примо",
+      "slug": "26-primo"
+    },
+    {
+      "name": "50 & 50",
+      "slug": "50-50"
+    },
+    {
+      "name": "770 Миль",
+      "slug": "770-mil"
+    },
+    {
+      "name": "А. Бартель",
+      "slug": "a-bartel"
+    },
+    {
+      "name": "А.Е. Дор",
+      "slug": "a-e-dor"
+    },
+    {
+      "name": "Аберлауэр",
+      "slug": "aberlauer"
+    },
+    {
+      "name": "Абсолют",
+      "slug": "absolyut"
+    },
+    {
+      "name": "Айлала Трейшадура",
+      "slug": "aylala-treyshadura"
+    },
+    {
+      "name": "Айрголд",
+      "slug": "ayrgold"
+    },
+    {
+      "name": "Аква Люче",
+      "slug": "akva-lyuche"
+    },
+    {
+      "name": "Акелум",
+      "slug": "akelum"
+    },
+    {
+      "name": "Акентошан",
+      "slug": "akentoshan"
+    },
+    {
+      "name": "Аллуриа",
+      "slug": "alluria"
+    },
+    {
+      "name": "АЛОЛИ",
+      "slug": "aloli"
+    },
+    {
+      "name": "Альбер Бишо",
+      "slug": "alber-bisho"
+    },
+    {
+      "name": "Альма Валей",
+      "slug": "alma-valey"
+    },
+    {
+      "name": "Альту Лима",
+      "slug": "altu-lima"
+    },
+    {
+      "name": "Амаззони",
+      "slug": "amazzoni"
+    },
+    {
+      "name": "Амат",
+      "slug": "amat"
+    },
+    {
+      "name": "Амбори",
+      "slug": "ambori"
+    },
+    {
+      "name": "Андре Делорм",
+      "slug": "andre-delorm"
+    },
+    {
+      "name": "Андреола",
+      "slug": "andreola"
+    },
+    {
+      "name": "Андресен",
+      "slug": "andresen"
+    },
+    {
+      "name": "Аноукд",
+      "slug": "anoukd"
+    },
+    {
+      "name": "Анри Мунье",
+      "slug": "anri-mune"
+    },
+    {
+      "name": "Апероль",
+      "slug": "aperol"
+    },
+    {
+      "name": "Аппеласьон",
+      "slug": "appelason"
+    },
+    {
+      "name": "Арабелла",
+      "slug": "arabella"
+    },
+    {
+      "name": "Арарат",
+      "slug": "ararat"
+    },
+    {
+      "name": "Ариабал",
+      "slug": "ariabal"
+    },
+    {
+      "name": "Аристов",
+      "slug": "aristov"
+    },
+    {
+      "name": "Аркан",
+      "slug": "arkan"
+    },
+    {
+      "name": "Армани",
+      "slug": "armani"
+    },
+    {
+      "name": "Арморик",
+      "slug": "armorik"
+    },
+    {
+      "name": "Арран",
+      "slug": "arran"
+    },
+    {
+      "name": "Архангельская",
+      "slug": "arkhangelskaya"
+    },
+    {
+      "name": "Асканели",
+      "slug": "askaneli"
+    },
+    {
+      "name": "Аскери",
+      "slug": "askeri"
+    },
+    {
+      "name": "Асьенда Ла Капилла",
+      "slug": "asenda-la-kapilla"
+    },
+    {
+      "name": "Аттис",
+      "slug": "attis"
+    },
+    {
+      "name": "Балашша",
+      "slug": "balashsha"
+    },
+    {
+      "name": "Балвэни",
+      "slug": "balveni"
+    },
+    {
+      "name": "Баллантайнс",
+      "slug": "ballantayns"
+    },
+    {
+      "name": "Балчуг",
+      "slug": "balchug"
+    },
+    {
+      "name": "Бамбак",
+      "slug": "bambak"
+    },
+    {
+      "name": "Баракки",
+      "slug": "barakki"
+    },
+    {
+      "name": "Барон Г.Легран",
+      "slug": "baron-g-legran"
+    },
+    {
+      "name": "Барристер",
+      "slug": "barrister"
+    },
+    {
+      "name": "Барсело",
+      "slug": "barselo"
+    },
+    {
+      "name": "Батанга",
+      "slug": "batanga"
+    },
+    {
+      "name": "Бауэр",
+      "slug": "bauer"
+    },
+    {
+      "name": "Баффало Трейс",
+      "slug": "baffalo-treys"
+    },
+    {
+      "name": "Баш Габриэльсон",
+      "slug": "bash-gabrielson"
+    },
+    {
+      "name": "Бейлис",
+      "slug": "beylis"
+    },
+    {
+      "name": "Белая Березка",
+      "slug": "belaya-berezka"
+    },
+    {
+      "name": "Белая Сова",
+      "slug": "belaya-sova"
+    },
+    {
+      "name": "Беленькая",
+      "slug": "belenkaya"
+    },
+    {
+      "name": "Белуга",
+      "slug": "beluga"
+    },
+    {
+      "name": "Бельбек",
+      "slug": "belbek"
+    },
+    {
+      "name": "Бернар Реми",
+      "slug": "bernar-remi"
+    },
+    {
+      "name": "Бернардино",
+      "slug": "bernardino"
+    },
+    {
+      "name": "Берта",
+      "slug": "berta"
+    },
+    {
+      "name": "Бестхайм",
+      "slug": "bestkhaym"
+    },
+    {
+      "name": "Бехеровка",
+      "slug": "bekherovka"
+    },
+    {
+      "name": "Биолоджи",
+      "slug": "biolodzhi"
+    },
+    {
+      "name": "Бионика",
+      "slug": "bionika"
+    },
+    {
+      "name": "Бисквит",
+      "slug": "biskvit"
+    },
+    {
+      "name": "Бифитер",
+      "slug": "bifiter"
+    },
+    {
+      "name": "Бич Бам",
+      "slug": "bich-bam"
+    },
+    {
+      "name": "Бич Хауз",
+      "slug": "bich-khauz"
+    },
+    {
+      "name": "Блан Аут",
+      "slug": "blan-aut"
+    },
+    {
+      "name": "Блэднок",
+      "slug": "blednok"
+    },
+    {
+      "name": "Блэйтант",
+      "slug": "bleytant"
+    },
+    {
+      "name": "Блэк Айриш",
+      "slug": "blek-ayrish"
+    },
+    {
+      "name": "Блэк Аут",
+      "slug": "blek-aut"
+    },
+    {
+      "name": "Блэк Сворд",
+      "slug": "blek-svord"
+    },
+    {
+      "name": "Блэк энд Уайт",
+      "slug": "blek-end-uayt"
+    },
+    {
+      "name": "Бодега Атамиск",
+      "slug": "bodega-atamisk"
+    },
+    {
+      "name": "Бодуен",
+      "slug": "boduen"
+    },
+    {
+      "name": "Бокер",
+      "slug": "boker"
+    },
+    {
+      "name": "Боккино",
+      "slug": "bokkino"
+    },
+    {
+      "name": "Боланже",
+      "slug": "bolanzhe"
+    },
+    {
+      "name": "Болле",
+      "slug": "bolle"
+    },
+    {
+      "name": "Бон Вояж",
+      "slug": "bon-voyazh"
+    },
+    {
+      "name": "Бонкерс",
+      "slug": "bonkers"
+    },
+    {
+      "name": "Боска",
+      "slug": "boska"
+    },
+    {
+      "name": "Бостан",
+      "slug": "bostan"
+    },
+    {
+      "name": "Ботафого",
+      "slug": "botafogo"
+    },
+    {
+      "name": "Боумор",
+      "slug": "boumor"
+    },
+    {
+      "name": "Брамито",
+      "slug": "bramito"
+    },
+    {
+      "name": "Брекон",
+      "slug": "brekon"
+    },
+    {
+      "name": "Броллахан",
+      "slug": "brollakhan"
+    },
+    {
+      "name": "Броукен Боунс",
+      "slug": "brouken-bouns"
+    },
+    {
+      "name": "Брояница",
+      "slug": "broyanica"
+    },
+    {
+      "name": "Буйо",
+      "slug": "buyo"
+    },
+    {
+      "name": "Букенхоутсклуф",
+      "slug": "bukenkhoutskluf"
+    },
+    {
+      "name": "Буллет",
+      "slug": "bullet"
+    },
+    {
+      "name": "Бульдог",
+      "slug": "buldog"
+    },
+    {
+      "name": "Буссо",
+      "slug": "busso"
+    },
+    {
+      "name": "Бушмилз",
+      "slug": "bushmilz"
+    },
+    {
+      "name": "Быки",
+      "slug": "byki"
+    },
+    {
+      "name": "Бэллс",
+      "slug": "bells"
+    },
+    {
+      "name": "Бюрнье",
+      "slug": "byurne"
+    },
+    {
+      "name": "ВАЙНМЕЙКЕРС СЕЛЕКШН",
+      "slug": "vaynmeykers-selekshn"
+    },
+    {
+      "name": "Варадеро",
+      "slug": "varadero"
+    },
+    {
+      "name": "Варвара",
+      "slug": "varvara"
+    },
+    {
+      "name": "Вдова Клико",
+      "slug": "vdova-kliko"
+    },
+    {
+      "name": "Вердегар",
+      "slug": "verdegar"
+    },
+    {
+      "name": "Виа Рома",
+      "slug": "via-roma"
+    },
+    {
+      "name": "Вида",
+      "slug": "vida"
+    },
+    {
+      "name": "Вилла а Сеста",
+      "slug": "villa-a-sesta"
+    },
+    {
+      "name": "Вилла Антинори",
+      "slug": "villa-antinori"
+    },
+    {
+      "name": "Вилла дели Олми",
+      "slug": "villa-deli-olmi"
+    },
+    {
+      "name": "Вилла Рокка",
+      "slug": "villa-rokka"
+    },
+    {
+      "name": "Вилла Сильвия",
+      "slug": "villa-silviya"
+    },
+    {
+      "name": "Вилла Сколька",
+      "slug": "villa-skolka"
+    },
+    {
+      "name": "Виллальта",
+      "slug": "villalta"
+    },
+    {
+      "name": "Вильям Хинтон",
+      "slug": "vilyam-khinton"
+    },
+    {
+      "name": "Вильямовка",
+      "slug": "vilyamovka"
+    },
+    {
+      "name": "Вина Тамани",
+      "slug": "vina-tamani"
+    },
+    {
+      "name": "Винсен Куш",
+      "slug": "vinsen-kush"
+    },
+    {
+      "name": "Винцер фон Баден",
+      "slug": "vincer-fon-baden"
+    },
+    {
+      "name": "Винья Картин",
+      "slug": "vinya-kartin"
+    },
+    {
+      "name": "Винья Эсмеральда",
+      "slug": "vinya-esmeralda"
+    },
+    {
+      "name": "Висмино",
+      "slug": "vismino"
+    },
+    {
+      "name": "Вицинус",
+      "slug": "vicinus"
+    },
+    {
+      "name": "Волканес",
+      "slug": "volkanes"
+    },
+    {
+      "name": "Вольпи",
+      "slug": "volpi"
+    },
+    {
+      "name": "Ворвик",
+      "slug": "vorvik"
+    },
+    {
+      "name": "Воскеваз",
+      "slug": "voskevaz"
+    },
+    {
+      "name": "Вторая Линия",
+      "slug": "vtoraya-liniya"
+    },
+    {
+      "name": "Вуврэ Амбруази",
+      "slug": "vuvre-ambruazi"
+    },
+    {
+      "name": "Вудфорт",
+      "slug": "vudfort"
+    },
+    {
+      "name": "Вулкайя",
+      "slug": "vulkayya"
+    },
+    {
+      "name": "Высокий берег",
+      "slug": "vysokiy-bereg"
+    },
+    {
+      "name": "Вьехо де Кальдас",
+      "slug": "vekho-de-kaldas"
+    },
+    {
+      "name": "Габриель Мефр",
+      "slug": "gabriel-mefr"
+    },
+    {
+      "name": "Гавана Клуб",
+      "slug": "gavana-klub"
+    },
+    {
+      "name": "Гавессон",
+      "slug": "gavesson"
+    },
+    {
+      "name": "Гагер",
+      "slug": "gager"
+    },
+    {
+      "name": "Гай-Кодзор",
+      "slug": "gay-kodzor"
+    },
+    {
+      "name": "Гайя",
+      "slug": "gayya"
+    },
+    {
+      "name": "Галатти",
+      "slug": "galatti"
+    },
+    {
+      "name": "Галерея",
+      "slug": "galereya"
+    },
+    {
+      "name": "Гамэ",
+      "slug": "game"
+    },
+    {
+      "name": "Гилд",
+      "slug": "gild"
+    },
+    {
+      "name": "Гинетон",
+      "slug": "gineton"
+    },
+    {
+      "name": "Глен Кит",
+      "slug": "glen-kit"
+    },
+    {
+      "name": "Глен Морей",
+      "slug": "glen-morey"
+    },
+    {
+      "name": "Глен Таллок",
+      "slug": "glen-tallok"
+    },
+    {
+      "name": "Глен Тёрнер",
+      "slug": "glen-terner"
+    },
+    {
+      "name": "Гленгэрри",
+      "slug": "glengerri"
+    },
+    {
+      "name": "Гленливет",
+      "slug": "glenlivet"
+    },
+    {
+      "name": "Гленморанджи",
+      "slug": "glenmorandzhi"
+    },
+    {
+      "name": "Гленротес",
+      "slug": "glenrotes"
+    },
+    {
+      "name": "Гленфарклас",
+      "slug": "glenfarklas"
+    },
+    {
+      "name": "Гленфиддик",
+      "slug": "glenfiddik"
+    },
+    {
+      "name": "Глоу",
+      "slug": "glou"
+    },
+    {
+      "name": "Гольдек",
+      "slug": "goldek"
+    },
+    {
+      "name": "Горал",
+      "slug": "goral"
+    },
+    {
+      "name": "Городок",
+      "slug": "gorodok"
+    },
+    {
+      "name": "Госпел",
+      "slug": "gospel"
+    },
+    {
+      "name": "Готес",
+      "slug": "gotes"
+    },
+    {
+      "name": "Гран Марнье",
+      "slug": "gran-marne"
+    },
+    {
+      "name": "Гранд Дюкай",
+      "slug": "grand-dyukay"
+    },
+    {
+      "name": "Грантс",
+      "slug": "grants"
+    },
+    {
+      "name": "ГРГИЧ ХИЛЛС",
+      "slug": "grgich-khills"
+    },
+    {
+      "name": "Грей Гуз",
+      "slug": "grey-guz"
+    },
+    {
+      "name": "Грин Бабун",
+      "slug": "grin-babun"
+    },
+    {
+      "name": "Гринлайф",
+      "slug": "grinlayf"
+    },
+    {
+      "name": "Гриноллз",
+      "slug": "grinollz"
+    },
+    {
+      "name": "Гуидальберто",
+      "slug": "guidalberto"
+    },
+    {
+      "name": "Гульфи",
+      "slug": "gulfi"
+    },
+    {
+      "name": "Далмор",
+      "slug": "dalmor"
+    },
+    {
+      "name": "Дампт Фрер",
+      "slug": "dampt-frer"
+    },
+    {
+      "name": "Данска",
+      "slug": "danska"
+    },
+    {
+      "name": "Данстоун",
+      "slug": "danstoun"
+    },
+    {
+      "name": "Де Бортоли",
+      "slug": "de-bortoli"
+    },
+    {
+      "name": "Де Ливис",
+      "slug": "de-livis"
+    },
+    {
+      "name": "Делавалле",
+      "slug": "delavalle"
+    },
+    {
+      "name": "Деласи",
+      "slug": "delasi"
+    },
+    {
+      "name": "Деревенский Самогон",
+      "slug": "derevenskiy-samogon"
+    },
+    {
+      "name": "Деревенька",
+      "slug": "derevenka"
+    },
+    {
+      "name": "Деррумбес",
+      "slug": "derrumbes"
+    },
+    {
+      "name": "Джарола",
+      "slug": "dzharola"
+    },
+    {
+      "name": "Джек Дэниелс",
+      "slug": "dzhek-deniels"
+    },
+    {
+      "name": "Джемесон",
+      "slug": "dzhemeson"
+    },
+    {
+      "name": "Дженероуз",
+      "slug": "dzhenerouz"
+    },
+    {
+      "name": "Джим Бим",
+      "slug": "dzhim-bim"
+    },
+    {
+      "name": "Джинстер",
+      "slug": "dzhinster"
+    },
+    {
+      "name": "Джонни Уокер",
+      "slug": "dzhonni-uoker"
+    },
+    {
+      "name": "Джулиана Вичини",
+      "slug": "dzhuliana-vichini"
+    },
+    {
+      "name": "Джунко",
+      "slug": "dzhunko"
+    },
+    {
+      "name": "Джура",
+      "slug": "dzhura"
+    },
+    {
+      "name": "Джустини",
+      "slug": "dzhustini"
+    },
+    {
+      "name": "Ди Каспико",
+      "slug": "di-kaspiko"
+    },
+    {
+      "name": "Ди Прима",
+      "slug": "di-prima"
+    },
+    {
+      "name": "Дивноморское",
+      "slug": "divnomorskoe"
+    },
+    {
+      "name": "Диего и Мария",
+      "slug": "diego-i-mariya"
+    },
+    {
+      "name": "Диоскурия",
+      "slug": "dioskuriya"
+    },
+    {
+      "name": "Дирупо",
+      "slug": "dirupo"
+    },
+    {
+      "name": "Дисаронно",
+      "slug": "disaronno"
+    },
+    {
+      "name": "Доктор Август",
+      "slug": "doktor-avgust"
+    },
+    {
+      "name": "Доломити",
+      "slug": "dolomiti"
+    },
+    {
+      "name": "Домен Вахау",
+      "slug": "domen-vakhau"
+    },
+    {
+      "name": "Домен де ля Бегюд",
+      "slug": "domen-de-lya-begyud"
+    },
+    {
+      "name": "Домен де Медейян",
+      "slug": "domen-de-medeyyan"
+    },
+    {
+      "name": "Домен Дудэ",
+      "slug": "domen-dude"
+    },
+    {
+      "name": "Домен Лаффит",
+      "slug": "domen-laffit"
+    },
+    {
+      "name": "Домен Липко",
+      "slug": "domen-lipko"
+    },
+    {
+      "name": "Домен Паскати",
+      "slug": "domen-paskati"
+    },
+    {
+      "name": "Домен Раймон Усеглио",
+      "slug": "domen-raymon-useglio"
+    },
+    {
+      "name": "Домен Шлюмберже",
+      "slug": "domen-shlyumberzhe"
+    },
+    {
+      "name": "Домен Щупен",
+      "slug": "domen-shchupen"
+    },
+    {
+      "name": "Домэн дю Павильон",
+      "slug": "domen-dyu-pavilon"
+    },
+    {
+      "name": "Домэн Лон-Депаки",
+      "slug": "domen-lon-depaki"
+    },
+    {
+      "name": "Домэн Тарике",
+      "slug": "domen-tarike"
+    },
+    {
+      "name": "Домэн Франк Мийе",
+      "slug": "domen-frank-miye"
+    },
+    {
+      "name": "Дон Диого",
+      "slug": "don-diogo"
+    },
+    {
+      "name": "Дон Папа",
+      "slug": "don-papa"
+    },
+    {
+      "name": "Дон Рамон",
+      "slug": "don-ramon"
+    },
+    {
+      "name": "Дон Хулио",
+      "slug": "don-khulio"
+    },
+    {
+      "name": "Дору",
+      "slug": "doru"
+    },
+    {
+      "name": "Драй Лэнд",
+      "slug": "dray-lend"
+    },
+    {
+      "name": "Дринк Хаус",
+      "slug": "drink-khaus"
+    },
+    {
+      "name": "Дробязко В.М.",
+      "slug": "drobyazko-v-m"
+    },
+    {
+      "name": "Дудэ-Ноден",
+      "slug": "dude-noden"
+    },
+    {
+      "name": "Дулис",
+      "slug": "dulis"
+    },
+    {
+      "name": "Дурли'с",
+      "slug": "durli-s"
+    },
+    {
+      "name": "Дэсоно",
+      "slug": "desono"
+    },
+    {
+      "name": "Дюпре",
+      "slug": "dyupre"
+    },
+    {
+      "name": "Дюпюи",
+      "slug": "dyupyui"
+    },
+    {
+      "name": "ЁИ УМЕКО ХИРООКА",
+      "slug": "ei-umeko-khirooka"
+    },
+    {
+      "name": "Ёсино Моногатари",
+      "slug": "esino-monogatari"
+    },
+    {
+      "name": "Елоу Снейк",
+      "slug": "elou-sneyk"
+    },
+    {
+      "name": "Еспириту Де Чили",
+      "slug": "espiritu-de-chili"
+    },
+    {
+      "name": "Жан-Батист Жесьом",
+      "slug": "zhan-batist-zhesom"
+    },
+    {
+      "name": "Живри",
+      "slug": "zhivri"
+    },
+    {
+      "name": "Жиль",
+      "slug": "zhil"
+    },
+    {
+      "name": "Жозеф Перрье",
+      "slug": "zhozef-perre"
+    },
+    {
+      "name": "Закапа",
+      "slug": "zakapa"
+    },
+    {
+      "name": "ЗЕРНА СЕВЕРА",
+      "slug": "zerna-severa"
+    },
+    {
+      "name": "Зерно",
+      "slug": "zerno"
+    },
+    {
+      "name": "Золотой Резерв",
+      "slug": "zolotoy-rezerv"
+    },
+    {
+      "name": "Зорзеттич",
+      "slug": "zorzettich"
+    },
+    {
+      "name": "Идальго",
+      "slug": "idalgo"
+    },
+    {
+      "name": "Иджеван",
+      "slug": "idzhevan"
+    },
+    {
+      "name": "Импакт",
+      "slug": "impakt"
+    },
+    {
+      "name": "Индепенденс",
+      "slug": "independens"
+    },
+    {
+      "name": "Инкерман",
+      "slug": "inkerman"
+    },
+    {
+      "name": "Исфьорд",
+      "slug": "isford"
+    },
+    {
+      "name": "Иха",
+      "slug": "ikha"
+    },
+    {
+      "name": "Ка Дарио",
+      "slug": "ka-dario"
+    },
+    {
+      "name": "Кава Нувиана",
+      "slug": "kava-nuviana"
+    },
+    {
+      "name": "Кавалан",
+      "slug": "kavalan"
+    },
+    {
+      "name": "Кавино",
+      "slug": "kavino"
+    },
+    {
+      "name": "Кагор Тамани",
+      "slug": "kagor-tamani"
+    },
+    {
+      "name": "Казасоле Орвието",
+      "slug": "kazasole-orvieto"
+    },
+    {
+      "name": "Калашников",
+      "slug": "kalashnikov"
+    },
+    {
+      "name": "Калуа",
+      "slug": "kalua"
+    },
+    {
+      "name": "Кальве",
+      "slug": "kalve"
+    },
+    {
+      "name": "Кальтерн",
+      "slug": "kaltern"
+    },
+    {
+      "name": "Камарканда",
+      "slug": "kamarkanda"
+    },
+    {
+      "name": "Кампари",
+      "slug": "kampari"
+    },
+    {
+      "name": "Кампо Вьехо",
+      "slug": "kampo-vekho"
+    },
+    {
+      "name": "Кампоферро",
+      "slug": "kampoferro"
+    },
+    {
+      "name": "Камю",
+      "slug": "kamyu"
+    },
+    {
+      "name": "Капитан Морган",
+      "slug": "kapitan-morgan"
+    },
+    {
+      "name": "Кардинал Мендоза",
+      "slug": "kardinal-mendoza"
+    },
+    {
+      "name": "Карду",
+      "slug": "kardu"
+    },
+    {
+      "name": "Кари",
+      "slug": "kari"
+    },
+    {
+      "name": "Карло Ленотти",
+      "slug": "karlo-lenotti"
+    },
+    {
+      "name": "Карлос Серрес",
+      "slug": "karlos-serres"
+    },
+    {
+      "name": "Каса Нери",
+      "slug": "kasa-neri"
+    },
+    {
+      "name": "Касамигос",
+      "slug": "kasamigos"
+    },
+    {
+      "name": "Кастелларе",
+      "slug": "kastellare"
+    },
+    {
+      "name": "Кастелло ди Болгери",
+      "slug": "kastello-di-bolgeri"
+    },
+    {
+      "name": "Кастель Фирмиан",
+      "slug": "kastel-firmian"
+    },
+    {
+      "name": "Кастильо де Альбаи",
+      "slug": "kastilo-de-albai"
+    },
+    {
+      "name": "Кастильон дель Боско",
+      "slug": "kastilon-del-bosko"
+    },
+    {
+      "name": "Катена",
+      "slug": "katena"
+    },
+    {
+      "name": "Каттье",
+      "slug": "katte"
+    },
+    {
+      "name": "КАЧА ВЕЛЛИ",
+      "slug": "kacha-velli"
+    },
+    {
+      "name": "Кварели",
+      "slug": "kvareli"
+    },
+    {
+      "name": "Квинтесса",
+      "slug": "kvintessa"
+    },
+    {
+      "name": "Квинтэссенция",
+      "slug": "kvintessenciya"
+    },
+    {
+      "name": "Кеймус",
+      "slug": "keymus"
+    },
+    {
+      "name": "Кейнрок",
+      "slug": "keynrok"
+    },
+    {
+      "name": "Кемля",
+      "slug": "kemlya"
+    },
+    {
+      "name": "Кендалл-Джексон",
+      "slug": "kendall-dzhekson"
+    },
+    {
+      "name": "Кизляр",
+      "slug": "kizlyar"
+    },
+    {
+      "name": "Килхоман",
+      "slug": "kilkhoman"
+    },
+    {
+      "name": "Кинг Роберт",
+      "slug": "king-robert"
+    },
+    {
+      "name": "Клайн",
+      "slug": "klayn"
+    },
+    {
+      "name": "Клан Денни",
+      "slug": "klan-denni"
+    },
+    {
+      "name": "Кло Мартен",
+      "slug": "klo-marten"
+    },
+    {
+      "name": "Кло Могадор",
+      "slug": "klo-mogador"
+    },
+    {
+      "name": "Коктебель",
+      "slug": "koktebel"
+    },
+    {
+      "name": "Кол де Мец",
+      "slug": "kol-de-mec"
+    },
+    {
+      "name": "Колли Нобили",
+      "slug": "kolli-nobili"
+    },
+    {
+      "name": "Компасс Бокс",
+      "slug": "kompass-boks"
+    },
+    {
+      "name": "Конкеста",
+      "slug": "konkesta"
+    },
+    {
+      "name": "Коно Сур",
+      "slug": "kono-sur"
+    },
+    {
+      "name": "Континентал",
+      "slug": "kontinental"
+    },
+    {
+      "name": "Контрабандо",
+      "slug": "kontrabando"
+    },
+    {
+      "name": "Копке",
+      "slug": "kopke"
+    },
+    {
+      "name": "Коппер Дог",
+      "slug": "kopper-dog"
+    },
+    {
+      "name": "Корралехо",
+      "slug": "korralekho"
+    },
+    {
+      "name": "Корте Джованни",
+      "slug": "korte-dzhovanni"
+    },
+    {
+      "name": "Коскенкорва",
+      "slug": "koskenkorva"
+    },
+    {
+      "name": "Косогоров самогон",
+      "slug": "kosogorov-samogon"
+    },
+    {
+      "name": "Костадор",
+      "slug": "kostador"
+    },
+    {
+      "name": "Коч",
+      "slug": "koch"
+    },
+    {
+      "name": "Красная Горка",
+      "slug": "krasnaya-gorka"
+    },
+    {
+      "name": "КРаФТъ",
+      "slug": "kraft"
+    },
+    {
+      "name": "Криница",
+      "slug": "krinica"
+    },
+    {
+      "name": "Кристал Хэд",
+      "slug": "kristal-khed"
+    },
+    {
+      "name": "Кристиан Друэн",
+      "slug": "kristian-druen"
+    },
+    {
+      "name": "Кроне",
+      "slug": "krone"
+    },
+    {
+      "name": "Крукслэнд",
+      "slug": "krukslend"
+    },
+    {
+      "name": "КсуКсу",
+      "slug": "ksuksu"
+    },
+    {
+      "name": "Куантро",
+      "slug": "kuantro"
+    },
+    {
+      "name": "Кубань",
+      "slug": "kuban"
+    },
+    {
+      "name": "Курадо",
+      "slug": "kurado"
+    },
+    {
+      "name": "Курвуазье",
+      "slug": "kurvuaze"
+    },
+    {
+      "name": "Курни",
+      "slug": "kurni"
+    },
+    {
+      "name": "Куррах",
+      "slug": "kurrakh"
+    },
+    {
+      "name": "Кюве 8",
+      "slug": "kyuve-8"
+    },
+    {
+      "name": "Ла Ина",
+      "slug": "la-ina"
+    },
+    {
+      "name": "Ла Ривольта",
+      "slug": "la-rivolta"
+    },
+    {
+      "name": "Лаб",
+      "slug": "lab"
+    },
+    {
+      "name": "Лаветти",
+      "slug": "lavetti"
+    },
+    {
+      "name": "Лагавулин",
+      "slug": "lagavulin"
+    },
+    {
+      "name": "Лайтхаус",
+      "slug": "laytkhaus"
+    },
+    {
+      "name": "Ламбруско Бинелли",
+      "slug": "lambrusko-binelli"
+    },
+    {
+      "name": "Ланета",
+      "slug": "laneta"
+    },
+    {
+      "name": "Лансон",
+      "slug": "lanson"
+    },
+    {
+      "name": "Лассо",
+      "slug": "lasso"
+    },
+    {
+      "name": "Лафройг",
+      "slug": "lafroyg"
+    },
+    {
+      "name": "Ле Валери",
+      "slug": "le-valeri"
+    },
+    {
+      "name": "Ле О дю Тертр",
+      "slug": "le-o-dyu-tertr"
+    },
+    {
+      "name": "Ле Пагод де Кос",
+      "slug": "le-pagod-de-kos"
+    },
+    {
+      "name": "Легенда Кремля",
+      "slug": "legenda-kremlya"
+    },
+    {
+      "name": "Легендарио",
+      "slug": "legendario"
+    },
+    {
+      "name": "Леон Лонуа",
+      "slug": "leon-lonua"
+    },
+    {
+      "name": "Лергенмюллер",
+      "slug": "lergenmyuller"
+    },
+    {
+      "name": "Леро",
+      "slug": "lero"
+    },
+    {
+      "name": "Либелула",
+      "slug": "libelula"
+    },
+    {
+      "name": "Лонгморн",
+      "slug": "longmorn"
+    },
+    {
+      "name": "Лоран-Перье",
+      "slug": "loran-pere"
+    },
+    {
+      "name": "Лох Ломонд",
+      "slug": "lokh-lomond"
+    },
+    {
+      "name": "Луи Родерер",
+      "slug": "lui-roderer"
+    },
+    {
+      "name": "Луи Шангарнье",
+      "slug": "lui-shangarne"
+    },
+    {
+      "name": "Луизелла",
+      "slug": "luizella"
+    },
+    {
+      "name": "Луиш Пату",
+      "slug": "luish-patu"
+    },
+    {
+      "name": "Лусарев",
+      "slug": "lusarev"
+    },
+    {
+      "name": "Лыхны",
+      "slug": "lykhny"
+    },
+    {
+      "name": "Лэйзи Додо",
+      "slug": "leyzi-dodo"
+    },
+    {
+      "name": "Люксардо",
+      "slug": "lyuksardo"
+    },
+    {
+      "name": "Ля Гавача",
+      "slug": "lya-gavacha"
+    },
+    {
+      "name": "Ля Мануфактур",
+      "slug": "lya-manufaktur"
+    },
+    {
+      "name": "Ля Моенри",
+      "slug": "lya-moenri"
+    },
+    {
+      "name": "Ля Перрьер",
+      "slug": "lya-perrer"
+    },
+    {
+      "name": "Макаллан",
+      "slug": "makallan"
+    },
+    {
+      "name": "Макс",
+      "slug": "maks"
+    },
+    {
+      "name": "Малибу",
+      "slug": "malibu"
+    },
+    {
+      "name": "Малфи",
+      "slug": "malfi"
+    },
+    {
+      "name": "Мамонт",
+      "slug": "mamont"
+    },
+    {
+      "name": "Манки 57",
+      "slug": "manki-57"
+    },
+    {
+      "name": "Манки Шолдер",
+      "slug": "manki-sholder"
+    },
+    {
+      "name": "Марко Порелло",
+      "slug": "marko-porello"
+    },
+    {
+      "name": "Мартель",
+      "slug": "martel"
+    },
+    {
+      "name": "Мартини",
+      "slug": "martini"
+    },
+    {
+      "name": "Мас Кара",
+      "slug": "mas-kara"
+    },
+    {
+      "name": "Массандра",
+      "slug": "massandra"
+    },
+    {
+      "name": "Мастро Бинелли",
+      "slug": "mastro-binelli"
+    },
+    {
+      "name": "Матисс",
+      "slug": "matiss"
+    },
+    {
+      "name": "Матча",
+      "slug": "matcha"
+    },
+    {
+      "name": "Махри Мур",
+      "slug": "makhri-mur"
+    },
+    {
+      "name": "Меджик Три",
+      "slug": "medzhik-tri"
+    },
+    {
+      "name": "Меза",
+      "slug": "meza"
+    },
+    {
+      "name": "Мезан",
+      "slug": "mezan"
+    },
+    {
+      "name": "Мезыбь",
+      "slug": "mezyb"
+    },
+    {
+      "name": "Мейкерс Марк",
+      "slug": "meykers-mark"
+    },
+    {
+      "name": "Меланж",
+      "slug": "melanzh"
+    },
+    {
+      "name": "Менорвал",
+      "slug": "menorval"
+    },
+    {
+      "name": "Меридор",
+      "slug": "meridor"
+    },
+    {
+      "name": "Мерле",
+      "slug": "merle"
+    },
+    {
+      "name": "Мерлуст",
+      "slug": "merlust"
+    },
+    {
+      "name": "Мессиаш",
+      "slug": "messiash"
+    },
+    {
+      "name": "Метакса",
+      "slug": "metaksa"
+    },
+    {
+      "name": "Метаморфика",
+      "slug": "metamorfika"
+    },
+    {
+      "name": "Мидаи",
+      "slug": "midai"
+    },
+    {
+      "name": "Микеле Сатта",
+      "slug": "mikele-satta"
+    },
+    {
+      "name": "Миллонарио",
+      "slug": "millonario"
+    },
+    {
+      "name": "Минтту",
+      "slug": "minttu"
+    },
+    {
+      "name": "Мио",
+      "slug": "mio"
+    },
+    {
+      "name": "Мирабо",
+      "slug": "mirabo"
+    },
+    {
+      "name": "МонБлан",
+      "slug": "monblan"
+    },
+    {
+      "name": "Мондоро",
+      "slug": "mondoro"
+    },
+    {
+      "name": "Монпарнас",
+      "slug": "monparnas"
+    },
+    {
+      "name": "Монсанто",
+      "slug": "monsanto"
+    },
+    {
+      "name": "Монтаньа",
+      "slug": "montana"
+    },
+    {
+      "name": "Монте де Тоннэр",
+      "slug": "monte-de-tonner"
+    },
+    {
+      "name": "Монтелобос",
+      "slug": "montelobos"
+    },
+    {
+      "name": "Монтенегро",
+      "slug": "montenegro"
+    },
+    {
+      "name": "Монфорт",
+      "slug": "monfort"
+    },
+    {
+      "name": "Моравская",
+      "slug": "moravskaya"
+    },
+    {
+      "name": "Мортлах",
+      "slug": "mortlakh"
+    },
+    {
+      "name": "Морус",
+      "slug": "morus"
+    },
+    {
+      "name": "Моцарт",
+      "slug": "mocart"
+    },
+    {
+      "name": "Моэт и Шандон",
+      "slug": "moet-i-shandon"
+    },
+    {
+      "name": "Мысхако",
+      "slug": "myskhako"
+    },
+    {
+      "name": "Мюзелла",
+      "slug": "myuzella"
+    },
+    {
+      "name": "Н. Некрасов",
+      "slug": "n-nekrasov"
+    },
+    {
+      "name": "НАКИ ТОМПСОН",
+      "slug": "naki-tompson"
+    },
+    {
+      "name": "Наттерджек",
+      "slug": "natterdzhek"
+    },
+    {
+      "name": "НЕГРЕ ДЕ НЕГРЕС",
+      "slug": "negre-de-negres"
+    },
+    {
+      "name": "Нива",
+      "slug": "niva"
+    },
+    {
+      "name": "Николя Майяр",
+      "slug": "nikolya-mayyar"
+    },
+    {
+      "name": "Нирасаки",
+      "slug": "nirasaki"
+    },
+    {
+      "name": "Нирвана",
+      "slug": "nirvana"
+    },
+    {
+      "name": "Нобиломо",
+      "slug": "nobilomo"
+    },
+    {
+      "name": "Ноблкорт",
+      "slug": "noblkort"
+    },
+    {
+      "name": "Нобуши",
+      "slug": "nobushi"
+    },
+    {
+      "name": "Новый свет",
+      "slug": "novyy-svet"
+    },
+    {
+      "name": "Ной",
+      "slug": "noy"
+    },
+    {
+      "name": "Нордфорс",
+      "slug": "nordfors"
+    },
+    {
+      "name": "Оганян",
+      "slug": "oganyan"
+    },
+    {
+      "name": "Олд Монк",
+      "slug": "old-monk"
+    },
+    {
+      "name": "Олд Смагглер",
+      "slug": "old-smaggler"
+    },
+    {
+      "name": "Ольмека",
+      "slug": "olmeka"
+    },
+    {
+      "name": "Онегин",
+      "slug": "onegin"
+    },
+    {
+      "name": "Оно",
+      "slug": "ono"
+    },
+    {
+      "name": "Опале",
+      "slug": "opale"
+    },
+    {
+      "name": "Ор",
+      "slug": "or"
+    },
+    {
+      "name": "Ора",
+      "slug": "ora"
+    },
+    {
+      "name": "Органик",
+      "slug": "organik"
+    },
+    {
+      "name": "Органика",
+      "slug": "organika"
+    },
+    {
+      "name": "Оремас",
+      "slug": "oremas"
+    },
+    {
+      "name": "Орендайн",
+      "slug": "orendayn"
+    },
+    {
+      "name": "Ориджиум",
+      "slug": "oridzhium"
+    },
+    {
+      "name": "Ортодокс",
+      "slug": "ortodoks"
+    },
+    {
+      "name": "Ошин",
+      "slug": "oshin"
+    },
+    {
+      "name": "ПавоНеро",
+      "slug": "pavonero"
+    },
+    {
+      "name": "Палитра",
+      "slug": "palitra"
+    },
+    {
+      "name": "Паллини",
+      "slug": "pallini"
+    },
+    {
+      "name": "Пандора",
+      "slug": "pandora"
+    },
+    {
+      "name": "Пандра",
+      "slug": "pandra"
+    },
+    {
+      "name": "Парахес дель Валле",
+      "slug": "parakhes-del-valle"
+    },
+    {
+      "name": "Парк",
+      "slug": "park"
+    },
+    {
+      "name": "Парка",
+      "slug": "parka"
+    },
+    {
+      "name": "Партикулар",
+      "slug": "partikular"
+    },
+    {
+      "name": "Паси Реп",
+      "slug": "pasi-rep"
+    },
+    {
+      "name": "Паскаль Бушар",
+      "slug": "paskal-bushar"
+    },
+    {
+      "name": "Паскуа",
+      "slug": "paskua"
+    },
+    {
+      "name": "Пендерин",
+      "slug": "penderin"
+    },
+    {
+      "name": "Пенфолдс",
+      "slug": "penfolds"
+    },
+    {
+      "name": "Пер Се",
+      "slug": "per-se"
+    },
+    {
+      "name": "Пернан Вержелесс",
+      "slug": "pernan-verzheless"
+    },
+    {
+      "name": "Перрье Жуэ",
+      "slug": "perre-zhue"
+    },
+    {
+      "name": "Плантейшн",
+      "slug": "planteyshn"
+    },
+    {
+      "name": "Подджатико",
+      "slug": "poddzhatiko"
+    },
+    {
+      "name": "Покровское",
+      "slug": "pokrovskoe"
+    },
+    {
+      "name": "Пол Клювер Элгин",
+      "slug": "pol-klyuver-elgin"
+    },
+    {
+      "name": "Поль Бара",
+      "slug": "pol-bara"
+    },
+    {
+      "name": "Поместье Голубицкое",
+      "slug": "pomeste-golubickoe"
+    },
+    {
+      "name": "Поммери",
+      "slug": "pommeri"
+    },
+    {
+      "name": "Порто Вальдоуру",
+      "slug": "porto-valdouru"
+    },
+    {
+      "name": "ПРИНЦ ФОН ХЕССЕН",
+      "slug": "princ-fon-khessen"
+    },
+    {
+      "name": "ПРИНЦ ФОН ЭССЕН",
+      "slug": "princ-fon-essen"
+    },
+    {
+      "name": "Принц Эксплорер",
+      "slug": "princ-eksplorer"
+    },
+    {
+      "name": "Проветто",
+      "slug": "provetto"
+    },
+    {
+      "name": "Прокламэйшн",
+      "slug": "proklameyshn"
+    },
+    {
+      "name": "Прохибидо",
+      "slug": "prokhibido"
+    },
+    {
+      "name": "Пфефферер",
+      "slug": "pfefferer"
+    },
+    {
+      "name": "Пьер Дэбэ",
+      "slug": "per-debe"
+    },
+    {
+      "name": "Пьер Ферран",
+      "slug": "per-ferran"
+    },
+    {
+      "name": "Пьетрозо",
+      "slug": "petrozo"
+    },
+    {
+      "name": "Пэдди",
+      "slug": "peddi"
+    },
+    {
+      "name": "Пюлиньи Монраше",
+      "slug": "pyulini-monrashe"
+    },
+    {
+      "name": "Р.Л. Сил'с",
+      "slug": "r-l-sil-s"
+    },
+    {
+      "name": "Равентос и Блан",
+      "slug": "raventos-i-blan"
+    },
+    {
+      "name": "Раевское",
+      "slug": "raevskoe"
+    },
+    {
+      "name": "Раза",
+      "slug": "raza"
+    },
+    {
+      "name": "Ранчо Алегре",
+      "slug": "rancho-alegre"
+    },
+    {
+      "name": "Рапаура Спрингс",
+      "slug": "rapaura-springs"
+    },
+    {
+      "name": "Ребенхоф",
+      "slug": "rebenkhof"
+    },
+    {
+      "name": "Рейка",
+      "slug": "reyka"
+    },
+    {
+      "name": "Реми Мартан",
+      "slug": "remi-martan"
+    },
+    {
+      "name": "Ренессанс",
+      "slug": "renessans"
+    },
+    {
+      "name": "Репин Олег",
+      "slug": "repin-oleg"
+    },
+    {
+      "name": "Риболла Джалла",
+      "slug": "ribolla-dzhalla"
+    },
+    {
+      "name": "Риветто",
+      "slug": "rivetto"
+    },
+    {
+      "name": "РобертМондави",
+      "slug": "robertmondavi"
+    },
+    {
+      "name": "Розельер",
+      "slug": "rozeler"
+    },
+    {
+      "name": "Рок Айленд",
+      "slug": "rok-aylend"
+    },
+    {
+      "name": "Рокка",
+      "slug": "rokka"
+    },
+    {
+      "name": "Року",
+      "slug": "roku"
+    },
+    {
+      "name": "Романов",
+      "slug": "romanov"
+    },
+    {
+      "name": "Ромате",
+      "slug": "romate"
+    },
+    {
+      "name": "Ротари",
+      "slug": "rotari"
+    },
+    {
+      "name": "Рулле",
+      "slug": "rulle"
+    },
+    {
+      "name": "Рута 49",
+      "slug": "ruta-49"
+    },
+    {
+      "name": "Рутсток",
+      "slug": "rutstok"
+    },
+    {
+      "name": "Рэд Три",
+      "slug": "red-tri"
+    },
+    {
+      "name": "РЭД ЭНД БЛЭК",
+      "slug": "red-end-blek"
+    },
+    {
+      "name": "Рюинар",
+      "slug": "ryuinar"
+    },
+    {
+      "name": "Сайгон Байгур",
+      "slug": "saygon-baygur"
+    },
+    {
+      "name": "Сан Пьетро",
+      "slug": "san-petro"
+    },
+    {
+      "name": "Сангре де Торо",
+      "slug": "sangre-de-toro"
+    },
+    {
+      "name": "Санкт Анна",
+      "slug": "sankt-anna"
+    },
+    {
+      "name": "Санта Виттория",
+      "slug": "santa-vittoriya"
+    },
+    {
+      "name": "Санте Неже",
+      "slug": "sante-nezhe"
+    },
+    {
+      "name": "Сараджишвили",
+      "slug": "saradzhishvili"
+    },
+    {
+      "name": "СараСара",
+      "slug": "sarasara"
+    },
+    {
+      "name": "Сарти",
+      "slug": "sarti"
+    },
+    {
+      "name": "Сассикайя",
+      "slug": "sassikayya"
+    },
+    {
+      "name": "Саус Атлантик",
+      "slug": "saus-atlantik"
+    },
+    {
+      "name": "Сейлорс Хоум",
+      "slug": "seylors-khoum"
+    },
+    {
+      "name": "Сент Клер",
+      "slug": "sent-kler"
+    },
+    {
+      "name": "Сент-Илер",
+      "slug": "sent-iler"
+    },
+    {
+      "name": "Сесто Сенсо",
+      "slug": "sesto-senso"
+    },
+    {
+      "name": "Сибона",
+      "slug": "sibona"
+    },
+    {
+      "name": "Симонсвлей",
+      "slug": "simonsvley"
+    },
+    {
+      "name": "Синглтон",
+      "slug": "singlton"
+    },
+    {
+      "name": "Сишель Мезон",
+      "slug": "sishel-mezon"
+    },
+    {
+      "name": "Скалливаг",
+      "slug": "skallivag"
+    },
+    {
+      "name": "Скейпгрейс",
+      "slug": "skeypgreys"
+    },
+    {
+      "name": "Скинос",
+      "slug": "skinos"
+    },
+    {
+      "name": "Слива",
+      "slug": "sliva"
+    },
+    {
+      "name": "Сокровище Тифлиса",
+      "slug": "sokrovishche-tiflisa"
+    },
+    {
+      "name": "Солиго",
+      "slug": "soligo"
+    },
+    {
+      "name": "Солнечная долина",
+      "slug": "solnechnaya-dolina"
+    },
+    {
+      "name": "Соломон",
+      "slug": "solomon"
+    },
+    {
+      "name": "Сомни",
+      "slug": "somni"
+    },
+    {
+      "name": "Сордис",
+      "slug": "sordis"
+    },
+    {
+      "name": "Сормовская",
+      "slug": "sormovskaya"
+    },
+    {
+      "name": "Спайтейл",
+      "slug": "spayteyl"
+    },
+    {
+      "name": "Спаркмен",
+      "slug": "sparkmen"
+    },
+    {
+      "name": "Спельта",
+      "slug": "spelta"
+    },
+    {
+      "name": "Спикебокс",
+      "slug": "spikeboks"
+    },
+    {
+      "name": "Старейшина",
+      "slug": "stareyshina"
+    },
+    {
+      "name": "Старый Кенигсберг",
+      "slug": "staryy-kenigsberg"
+    },
+    {
+      "name": "Стоби",
+      "slug": "stobi"
+    },
+    {
+      "name": "Стрэга",
+      "slug": "strega"
+    },
+    {
+      "name": "Суммум",
+      "slug": "summum"
+    },
+    {
+      "name": "Сюз",
+      "slug": "syuz"
+    },
+    {
+      "name": "Тагуа Тагуа",
+      "slug": "tagua-tagua"
+    },
+    {
+      "name": "Така",
+      "slug": "taka"
+    },
+    {
+      "name": "Талмор Дью",
+      "slug": "talmor-dyu"
+    },
+    {
+      "name": "Тамада",
+      "slug": "tamada"
+    },
+    {
+      "name": "Тамнавулин",
+      "slug": "tamnavulin"
+    },
+    {
+      "name": "Тарсиер",
+      "slug": "tarsier"
+    },
+    {
+      "name": "Тассок Джампер",
+      "slug": "tassok-dzhamper"
+    },
+    {
+      "name": "Твин Фин",
+      "slug": "tvin-fin"
+    },
+    {
+      "name": "Текила Лей",
+      "slug": "tekila-ley"
+    },
+    {
+      "name": "Тен Майл Бридж",
+      "slug": "ten-mayl-bridzh"
+    },
+    {
+      "name": "Тенжаку",
+      "slug": "tenzhaku"
+    },
+    {
+      "name": "Террас Де Лантаньо",
+      "slug": "terras-de-lantano"
+    },
+    {
+      "name": "Тессерон",
+      "slug": "tesseron"
+    },
+    {
+      "name": "ТЕТ ДЕ ШЕВАЛЬ",
+      "slug": "tet-de-sheval"
+    },
+    {
+      "name": "Тики Лаверс",
+      "slug": "tiki-lavers"
+    },
+    {
+      "name": "Тилинг",
+      "slug": "tiling"
+    },
+    {
+      "name": "Тиморос Бисти",
+      "slug": "timoros-bisti"
+    },
+    {
+      "name": "Тиньянелло",
+      "slug": "tinyanello"
+    },
+    {
+      "name": "Тито'с",
+      "slug": "tito-s"
+    },
+    {
+      "name": "Тиффон",
+      "slug": "tiffon"
+    },
+    {
+      "name": "Толга",
+      "slug": "tolga"
+    },
+    {
+      "name": "Томатин",
+      "slug": "tomatin"
+    },
+    {
+      "name": "Торелло",
+      "slug": "torello"
+    },
+    {
+      "name": "Торрес",
+      "slug": "torres"
+    },
+    {
+      "name": "Тортуга",
+      "slug": "tortuga"
+    },
+    {
+      "name": "ТРЕЗОР ДЕ ЛУАР",
+      "slug": "trezor-de-luar"
+    },
+    {
+      "name": "Трескаре",
+      "slug": "treskare"
+    },
+    {
+      "name": "Три Скотиш Бразерс",
+      "slug": "tri-skotish-brazers"
+    },
+    {
+      "name": "Труа Ривьер",
+      "slug": "trua-river"
+    },
+    {
+      "name": "Туллибардин",
+      "slug": "tullibardin"
+    },
+    {
+      "name": "Туми",
+      "slug": "tumi"
+    },
+    {
+      "name": "Турэн Ле Нюаж",
+      "slug": "turen-le-nyuazh"
+    },
+    {
+      "name": "Тьерра Мадре",
+      "slug": "terra-madre"
+    },
+    {
+      "name": "Тэтенжэ",
+      "slug": "tetenzhe"
+    },
+    {
+      "name": "Уайлд Тёки",
+      "slug": "uayld-teki"
+    },
+    {
+      "name": "Узо",
+      "slug": "uzo"
+    },
+    {
+      "name": "Узунов",
+      "slug": "uzunov"
+    },
+    {
+      "name": "Уистлер",
+      "slug": "uistler"
+    },
+    {
+      "name": "Уонна Флай",
+      "slug": "uonna-flay"
+    },
+    {
+      "name": "Уотерфорд",
+      "slug": "uoterford"
+    },
+    {
+      "name": "Усадьба Мангуп",
+      "slug": "usadba-mangup"
+    },
+    {
+      "name": "Фантом",
+      "slug": "fantom"
+    },
+    {
+      "name": "Фернвей",
+      "slug": "fernvey"
+    },
+    {
+      "name": "Феудо Аранчо",
+      "slug": "feudo-arancho"
+    },
+    {
+      "name": "Филипп Мишель",
+      "slug": "filipp-mishel"
+    },
+    {
+      "name": "Филиппи",
+      "slug": "filippi"
+    },
+    {
+      "name": "Финка Дон Карлос",
+      "slug": "finka-don-karlos"
+    },
+    {
+      "name": "Финляндия",
+      "slug": "finlyandiya"
+    },
+    {
+      "name": "Флерс дю Сюд",
+      "slug": "flers-dyu-syud"
+    },
+    {
+      "name": "Флор Де Канья",
+      "slug": "flor-de-kanya"
+    },
+    {
+      "name": "Флэминг Пиг",
+      "slug": "fleming-pig"
+    },
+    {
+      "name": "Фокс",
+      "slug": "foks"
+    },
+    {
+      "name": "Фокс Гэнг",
+      "slug": "foks-geng"
+    },
+    {
+      "name": "Фордман",
+      "slug": "fordman"
+    },
+    {
+      "name": "Франжелико",
+      "slug": "franzheliko"
+    },
+    {
+      "name": "Франсуа Вийяр",
+      "slug": "fransua-viyyar"
+    },
+    {
+      "name": "Фруко Шульц",
+      "slug": "fruko-shulc"
+    },
+    {
+      "name": "Фрэнкс Фидл",
+      "slug": "frenks-fidl"
+    },
+    {
+      "name": "Фэймос Грауз",
+      "slug": "feymos-grauz"
+    },
+    {
+      "name": "Хай Коммишинер",
+      "slug": "khay-kommishiner"
+    },
+    {
+      "name": "Хайд",
+      "slug": "khayd"
+    },
+    {
+      "name": "Хайланд Парк",
+      "slug": "khayland-park"
+    },
+    {
+      "name": "Хайленд Шепед",
+      "slug": "khaylend-sheped"
+    },
+    {
+      "name": "Хайлэнд Мист",
+      "slug": "khaylend-mist"
+    },
+    {
+      "name": "Хакушу",
+      "slug": "khakushu"
+    },
+    {
+      "name": "Хаски",
+      "slug": "khaski"
+    },
+    {
+      "name": "Хатозаки",
+      "slug": "khatozaki"
+    },
+    {
+      "name": "Хендрикс",
+      "slug": "khendriks"
+    },
+    {
+      "name": "Хеннесси",
+      "slug": "khennessi"
+    },
+    {
+      "name": "Хеншке",
+      "slug": "khenshke"
+    },
+    {
+      "name": "Херемиллен",
+      "slug": "kheremillen"
+    },
+    {
+      "name": "Хибики",
+      "slug": "khibiki"
+    },
+    {
+      "name": "Хуан Каррау",
+      "slug": "khuan-karrau"
+    },
+    {
+      "name": "Цанто",
+      "slug": "canto"
+    },
+    {
+      "name": "Царская",
+      "slug": "carskaya"
+    },
+    {
+      "name": "Царь",
+      "slug": "car"
+    },
+    {
+      "name": "Цимлянское",
+      "slug": "cimlyanskoe"
+    },
+    {
+      "name": "Циммерманн",
+      "slug": "cimmermann"
+    },
+    {
+      "name": "Циммерманн-Граефф",
+      "slug": "cimmermann-graeff"
+    },
+    {
+      "name": "Цитадель",
+      "slug": "citadel"
+    },
+    {
+      "name": "Чаволич",
+      "slug": "chavolich"
+    },
+    {
+      "name": "Чайковский",
+      "slug": "chaykovskiy"
+    },
+    {
+      "name": "Чарози",
+      "slug": "charozi"
+    },
+    {
+      "name": "Чеппарелло",
+      "slug": "chepparello"
+    },
+    {
+      "name": "Черваро",
+      "slug": "chervaro"
+    },
+    {
+      "name": "Чивас",
+      "slug": "chivas"
+    },
+    {
+      "name": "Чиёмусуби",
+      "slug": "chiemusubi"
+    },
+    {
+      "name": "Чинебули",
+      "slug": "chinebuli"
+    },
+    {
+      "name": "Чинзано",
+      "slug": "chinzano"
+    },
+    {
+      "name": "Чиприана",
+      "slug": "chipriana"
+    },
+    {
+      "name": "Чистые росы",
+      "slug": "chistye-rosy"
+    },
+    {
+      "name": "Шапийон",
+      "slug": "shapiyon"
+    },
+    {
+      "name": "Шартрез",
+      "slug": "shartrez"
+    },
+    {
+      "name": "Шато Вильфранш",
+      "slug": "shato-vilfransh"
+    },
+    {
+      "name": "Шато Грюо Лароз",
+      "slug": "shato-gryuo-laroz"
+    },
+    {
+      "name": "Шато д' Иссан",
+      "slug": "shato-d-issan"
+    },
+    {
+      "name": "Шато де Монтифо",
+      "slug": "shato-de-montifo"
+    },
+    {
+      "name": "Шато дю Брей",
+      "slug": "shato-dyu-brey"
+    },
+    {
+      "name": "Шато Кантемерль",
+      "slug": "shato-kantemerl"
+    },
+    {
+      "name": "Шато Л`Эриссон Франк",
+      "slug": "shato-l-erisson-frank"
+    },
+    {
+      "name": "Шато Ла Круа Мазеран",
+      "slug": "shato-la-krua-mazeran"
+    },
+    {
+      "name": "Шато Малартик-Лагравьер",
+      "slug": "shato-malartik-lagraver"
+    },
+    {
+      "name": "Шато Мере",
+      "slug": "shato-mere"
+    },
+    {
+      "name": "Шато Мухрани",
+      "slug": "shato-mukhrani"
+    },
+    {
+      "name": "Шато О де Плэзанс",
+      "slug": "shato-o-de-plezans"
+    },
+    {
+      "name": "Шато Пикар",
+      "slug": "shato-pikar"
+    },
+    {
+      "name": "Шато Пино",
+      "slug": "shato-pino"
+    },
+    {
+      "name": "Шато Пино Гранд Резерв",
+      "slug": "shato-pino-grand-rezerv"
+    },
+    {
+      "name": "Шато Пино Классика",
+      "slug": "shato-pino-klassika"
+    },
+    {
+      "name": "Шато Пино Селебрейшн",
+      "slug": "shato-pino-selebreyshn"
+    },
+    {
+      "name": "Шато Пино Шары Колдуна",
+      "slug": "shato-pino-shary-kolduna"
+    },
+    {
+      "name": "Шато пино Эксклюзив",
+      "slug": "shato-pino-eksklyuziv"
+    },
+    {
+      "name": "Шато Пье Д Аржан Белльвю",
+      "slug": "shato-pe-d-arzhan-bellvyu"
+    },
+    {
+      "name": "Шато Тамань",
+      "slug": "shato-taman"
+    },
+    {
+      "name": "Шато Тур де Перригаль",
+      "slug": "shato-tur-de-perrigal"
+    },
+    {
+      "name": "Шато Фейит Гийо",
+      "slug": "shato-feyit-giyo"
+    },
+    {
+      "name": "Шведка",
+      "slug": "shvedka"
+    },
+    {
+      "name": "Шейк Ми",
+      "slug": "sheyk-mi"
+    },
+    {
+      "name": "Шериданс",
+      "slug": "sheridans"
+    },
+    {
+      "name": "ШИП'С ХЭД",
+      "slug": "ship-s-khed"
+    },
+    {
+      "name": "Шлосс Райнхартсхаузен",
+      "slug": "shloss-raynkhartskhauzen"
+    },
+    {
+      "name": "Шмидт",
+      "slug": "shmidt"
+    },
+    {
+      "name": "Штокверк",
+      "slug": "shtokverk"
+    },
+    {
+      "name": "Эcте Эсколья",
+      "slug": "ecte-eskolya"
+    },
+    {
+      "name": "Эйко",
+      "slug": "eyko"
+    },
+    {
+      "name": "Элиас Мора",
+      "slug": "elias-mora"
+    },
+    {
+      "name": "Элибо",
+      "slug": "elibo"
+    },
+    {
+      "name": "Эль Галипоте",
+      "slug": "el-galipote"
+    },
+    {
+      "name": "Эль Мейор",
+      "slug": "el-meyor"
+    },
+    {
+      "name": "Эль Порвенир",
+      "slug": "el-porvenir"
+    },
+    {
+      "name": "Эль Реформадор",
+      "slug": "el-reformador"
+    },
+    {
+      "name": "Эльбузд",
+      "slug": "elbuzd"
+    },
+    {
+      "name": "Эм энд Эйч",
+      "slug": "em-end-eych"
+    },
+    {
+      "name": "Эндемы",
+      "slug": "endemy"
+    },
+    {
+      "name": "ЭнджОй ит",
+      "slug": "endzhoy-it"
+    },
+    {
+      "name": "Энельдо",
+      "slug": "eneldo"
+    },
+    {
+      "name": "Энт Муур",
+      "slug": "ent-muur"
+    },
+    {
+      "name": "Эпикьюриэн",
+      "slug": "epikyurien"
+    },
+    {
+      "name": "Эпплтон Эстей",
+      "slug": "epplton-estey"
+    },
+    {
+      "name": "Эрксхайм",
+      "slug": "erkskhaym"
+    },
+    {
+      "name": "Эрл Браун",
+      "slug": "erl-braun"
+    },
+    {
+      "name": "Эсполон",
+      "slug": "espolon"
+    },
+    {
+      "name": "Юби",
+      "slug": "yubi"
+    },
+    {
+      "name": "Ягермайстер",
+      "slug": "yagermayster"
+    },
+    {
+      "name": "Ямазаки",
+      "slug": "yamazaki"
+    }
+  ],
+  "proizvoditel": [
+    {
+      "name": "A de Fussigny",
+      "slug": "a-de-fussigny"
+    },
+    {
+      "name": "A.Bartel",
+      "slug": "a-bartel"
+    },
+    {
+      "name": "A.E. Dor",
+      "slug": "a-e-dor"
+    },
+    {
+      "name": "AB INBEV",
+      "slug": "ab-inbev"
+    },
+    {
+      "name": "AB Nyakers Pepparkakor",
+      "slug": "ab-nyakers-pepparkakor"
+    },
+    {
+      "name": "Aberlour",
+      "slug": "aberlour"
+    },
+    {
+      "name": "Abtey",
+      "slug": "abtey"
+    },
+    {
+      "name": "Adega Cooperativa de Ponte da Barca",
+      "slug": "adega-cooperativa-de-ponte-da-barca"
+    },
+    {
+      "name": "Agricola De Sto Isidro de Pegoes",
+      "slug": "agricola-de-sto-isidro-de-pegoes"
+    },
+    {
+      "name": "Agricoltori del Chianti Geografico",
+      "slug": "agricoltori-del-chianti-geografico"
+    },
+    {
+      "name": "Agro Management",
+      "slug": "agro-management"
+    },
+    {
+      "name": "Albert Besombes",
+      "slug": "albert-besombes"
+    },
+    {
+      "name": "Albert Bichot",
+      "slug": "albert-bichot"
+    },
+    {
+      "name": "Albino Armani",
+      "slug": "albino-armani"
+    },
+    {
+      "name": "Alma Valley",
+      "slug": "alma-valley"
+    },
+    {
+      "name": "Almerro Group",
+      "slug": "almerro-group"
+    },
+    {
+      "name": "Altia Group",
+      "slug": "altia-group"
+    },
+    {
+      "name": "Alvisa Alcohol Group",
+      "slug": "alvisa-alcohol-group"
+    },
+    {
+      "name": "Amica Bread",
+      "slug": "amica-bread"
+    },
+    {
+      "name": "Amica Chips",
+      "slug": "amica-chips"
+    },
+    {
+      "name": "Andre Delorme",
+      "slug": "andre-delorme"
+    },
+    {
+      "name": "Andreola",
+      "slug": "andreola"
+    },
+    {
+      "name": "Andresen",
+      "slug": "andresen"
+    },
+    {
+      "name": "Angelo Rocca & Figli",
+      "slug": "angelo-rocca-figli"
+    },
+    {
+      "name": "Ant Moore",
+      "slug": "ant-moore"
+    },
+    {
+      "name": "Antico Monastero",
+      "slug": "antico-monastero"
+    },
+    {
+      "name": "Antinori",
+      "slug": "antinori"
+    },
+    {
+      "name": "Arabella Wines",
+      "slug": "arabella-wines"
+    },
+    {
+      "name": "Aresti Chile Wine",
+      "slug": "aresti-chile-wine"
+    },
+    {
+      "name": "Armorik",
+      "slug": "armorik"
+    },
+    {
+      "name": "Arthur Bell & Sons",
+      "slug": "arthur-bell-sons"
+    },
+    {
+      "name": "Askaneli Brothers",
+      "slug": "askaneli-brothers"
+    },
+    {
+      "name": "Auchentoshan",
+      "slug": "auchentoshan"
+    },
+    {
+      "name": "Ayinger",
+      "slug": "ayinger"
+    },
+    {
+      "name": "Aziano",
+      "slug": "aziano"
+    },
+    {
+      "name": "Babylons Peak",
+      "slug": "babylons-peak"
+    },
+    {
+      "name": "Bache Gabrielsen",
+      "slug": "bache-gabrielsen"
+    },
+    {
+      "name": "Badagoni",
+      "slug": "badagoni"
+    },
+    {
+      "name": "Balassa",
+      "slug": "balassa"
+    },
+    {
+      "name": "Baracchi",
+      "slug": "baracchi"
+    },
+    {
+      "name": "Barale Fratelli",
+      "slug": "barale-fratelli"
+    },
+    {
+      "name": "Barbero",
+      "slug": "barbero"
+    },
+    {
+      "name": "Barkan Wine Sellars",
+      "slug": "barkan-wine-sellars"
+    },
+    {
+      "name": "Bauer",
+      "slug": "bauer"
+    },
+    {
+      "name": "BBC Spirits",
+      "slug": "bbc-spirits"
+    },
+    {
+      "name": "Beach Bum Beverages",
+      "slug": "beach-bum-beverages"
+    },
+    {
+      "name": "Belhaven",
+      "slug": "belhaven"
+    },
+    {
+      "name": "Beluga Group",
+      "slug": "beluga-group"
+    },
+    {
+      "name": "Benediktíner",
+      "slug": "benedikti-ner"
+    },
+    {
+      "name": "Bernard Remy",
+      "slug": "bernard-remy"
+    },
+    {
+      "name": "Bestheim",
+      "slug": "bestheim"
+    },
+    {
+      "name": "Binding Brauerei",
+      "slug": "binding-brauerei"
+    },
+    {
+      "name": "Birra Peroni",
+      "slug": "birra-peroni"
+    },
+    {
+      "name": "Bisquit & Dubouche",
+      "slug": "bisquit-dubouche"
+    },
+    {
+      "name": "Bitburger Braugruppe",
+      "slug": "bitburger-braugruppe"
+    },
+    {
+      "name": "Black Forest Distillers",
+      "slug": "black-forest-distillers"
+    },
+    {
+      "name": "Bladnoch Distillery",
+      "slug": "bladnoch-distillery"
+    },
+    {
+      "name": "Bleeding Heart Rum Company",
+      "slug": "bleeding-heart-rum-company"
+    },
+    {
+      "name": "Bocchino",
+      "slug": "bocchino"
+    },
+    {
+      "name": "Bodega Atamisque",
+      "slug": "bodega-atamisque"
+    },
+    {
+      "name": "Bodega El Porvenir de Cafayate",
+      "slug": "bodega-el-porvenir-de-cafayate"
+    },
+    {
+      "name": "Bodega Volcanes",
+      "slug": "bodega-volcanes"
+    },
+    {
+      "name": "Bodegas Ariabal",
+      "slug": "bodegas-ariabal"
+    },
+    {
+      "name": "Bodegas Attis",
+      "slug": "bodegas-attis"
+    },
+    {
+      "name": "Bodegas Bastida",
+      "slug": "bodegas-bastida"
+    },
+    {
+      "name": "Bodegas Camino Real Spain",
+      "slug": "bodegas-camino-real-spain"
+    },
+    {
+      "name": "Bodegas Carrau",
+      "slug": "bodegas-carrau"
+    },
+    {
+      "name": "Bodegas Elias Mora",
+      "slug": "bodegas-elias-mora"
+    },
+    {
+      "name": "Bodegas Garbin",
+      "slug": "bodegas-garbin"
+    },
+    {
+      "name": "Bodegas San Valero",
+      "slug": "bodegas-san-valero"
+    },
+    {
+      "name": "Bodegas Tagua Tagua",
+      "slug": "bodegas-tagua-tagua"
+    },
+    {
+      "name": "Bodegas Valdespino",
+      "slug": "bodegas-valdespino"
+    },
+    {
+      "name": "Boekenhoutskloof",
+      "slug": "boekenhoutskloof"
+    },
+    {
+      "name": "Bollinger",
+      "slug": "bollinger"
+    },
+    {
+      "name": "Boomsma Distilleerderij",
+      "slug": "boomsma-distilleerderij"
+    },
+    {
+      "name": "Borjomi Georgia",
+      "slug": "borjomi-georgia"
+    },
+    {
+      "name": "Boslita ir Ko",
+      "slug": "boslita-ir-ko"
+    },
+    {
+      "name": "Botafogo",
+      "slug": "botafogo"
+    },
+    {
+      "name": "Bowmore",
+      "slug": "bowmore"
+    },
+    {
+      "name": "Brasserie Lefebvre",
+      "slug": "brasserie-lefebvre"
+    },
+    {
+      "name": "Brave New Spirits",
+      "slug": "brave-new-spirits"
+    },
+    {
+      "name": "Broken Bones",
+      "slug": "broken-bones"
+    },
+    {
+      "name": "Brouwerij Boon",
+      "slug": "brouwerij-boon"
+    },
+    {
+      "name": "Bruno Paillard",
+      "slug": "bruno-paillard"
+    },
+    {
+      "name": "Budweiser Budvar NV",
+      "slug": "budweiser-budvar-nv"
+    },
+    {
+      "name": "Buffalo Trace Distillery",
+      "slug": "buffalo-trace-distillery"
+    },
+    {
+      "name": "Bulleit Distilling Co",
+      "slug": "bulleit-distilling-co"
+    },
+    {
+      "name": "Bullevie",
+      "slug": "bullevie"
+    },
+    {
+      "name": "Bushmills",
+      "slug": "bushmills"
+    },
+    {
+      "name": "Butlers Chocolate UC",
+      "slug": "butlers-chocolate-uc"
+    },
+    {
+      "name": "Cafe Culture",
+      "slug": "cafe-culture"
+    },
+    {
+      "name": "Calvet",
+      "slug": "calvet"
+    },
+    {
+      "name": "Campagnola",
+      "slug": "campagnola"
+    },
+    {
+      "name": "Campari Group",
+      "slug": "campari-group"
+    },
+    {
+      "name": "Campo Viejо",
+      "slug": "campo-viejo"
+    },
+    {
+      "name": "Campoferro",
+      "slug": "campoferro"
+    },
+    {
+      "name": "Camus",
+      "slug": "camus"
+    },
+    {
+      "name": "Cantina Colterenzio Societa Agricola Cooperativa",
+      "slug": "cantina-colterenzio-societa-agricola-cooperativa"
+    },
+    {
+      "name": "Cantina Di Prima",
+      "slug": "cantina-di-prima"
+    },
+    {
+      "name": "Cantina Filippo Filippi",
+      "slug": "cantina-filippo-filippi"
+    },
+    {
+      "name": "Cantina Mesa",
+      "slug": "cantina-mesa"
+    },
+    {
+      "name": "Cantina Sociale di Puianelli Coviolo",
+      "slug": "cantina-sociale-di-puianelli-coviolo"
+    },
+    {
+      "name": "Cantine Quattro Valli",
+      "slug": "cantine-quattro-valli"
+    },
+    {
+      "name": "Cantine Volpi",
+      "slug": "cantine-volpi"
+    },
+    {
+      "name": "Capannelle",
+      "slug": "capannelle"
+    },
+    {
+      "name": "Cardhu",
+      "slug": "cardhu"
+    },
+    {
+      "name": "Carlos Serres",
+      "slug": "carlos-serres"
+    },
+    {
+      "name": "Casa Don Ramon",
+      "slug": "casa-don-ramon"
+    },
+    {
+      "name": "Casa E. di Mirafiore",
+      "slug": "casa-e-di-mirafiore"
+    },
+    {
+      "name": "Casa Maestri Tequila Distillery",
+      "slug": "casa-maestri-tequila-distillery"
+    },
+    {
+      "name": "Casa Orendain",
+      "slug": "casa-orendain"
+    },
+    {
+      "name": "Casamigos",
+      "slug": "casamigos"
+    },
+    {
+      "name": "Castello della Sala",
+      "slug": "castello-della-sala"
+    },
+    {
+      "name": "Castello di Bolgheri",
+      "slug": "castello-di-bolgheri"
+    },
+    {
+      "name": "Castello di Lozzolo dei F.lli Berteletti",
+      "slug": "castello-di-lozzolo-dei-f-lli-berteletti"
+    },
+    {
+      "name": "Castello di Monsanto",
+      "slug": "castello-di-monsanto"
+    },
+    {
+      "name": "Castiglion del Bosco",
+      "slug": "castiglion-del-bosco"
+    },
+    {
+      "name": "Castle Brewery Van Honsebrouk",
+      "slug": "castle-brewery-van-honsebrouk"
+    },
+    {
+      "name": "Catena Zapata",
+      "slug": "catena-zapata"
+    },
+    {
+      "name": "Cattier",
+      "slug": "cattier"
+    },
+    {
+      "name": "Caves da Montanha",
+      "slug": "caves-da-montanha"
+    },
+    {
+      "name": "Cavino",
+      "slug": "cavino"
+    },
+    {
+      "name": "Caymus",
+      "slug": "caymus"
+    },
+    {
+      "name": "Cemoi",
+      "slug": "cemoi"
+    },
+    {
+      "name": "Cerveceria Mexicana",
+      "slug": "cerveceria-mexicana"
+    },
+    {
+      "name": "Chapillon",
+      "slug": "chapillon"
+    },
+    {
+      "name": "Charles Mignon",
+      "slug": "charles-mignon"
+    },
+    {
+      "name": "Chartreuse Diffusion",
+      "slug": "chartreuse-diffusion"
+    },
+    {
+      "name": "Chateau Cantemerle",
+      "slug": "chateau-cantemerle"
+    },
+    {
+      "name": "Chateau Cos d'Estournel",
+      "slug": "chateau-cos-d-estournel"
+    },
+    {
+      "name": "Chateau d'Issan",
+      "slug": "chateau-d-issan"
+    },
+    {
+      "name": "Chateau de Bonbonnet",
+      "slug": "chateau-de-bonbonnet"
+    },
+    {
+      "name": "Chateau de Montifaud",
+      "slug": "chateau-de-montifaud"
+    },
+    {
+      "name": "Chateau de Talu",
+      "slug": "chateau-de-talu"
+    },
+    {
+      "name": "Chateau du Tertre",
+      "slug": "chateau-du-tertre"
+    },
+    {
+      "name": "Chateau Gruaud Larose",
+      "slug": "chateau-gruaud-larose"
+    },
+    {
+      "name": "Chateau La Tour de L'Eveque",
+      "slug": "chateau-la-tour-de-l-eveque"
+    },
+    {
+      "name": "Chateau Malartic-Lagraviere",
+      "slug": "chateau-malartic-lagraviere"
+    },
+    {
+      "name": "Chateau Margaux",
+      "slug": "chateau-margaux"
+    },
+    {
+      "name": "Chateau Montrose",
+      "slug": "chateau-montrose"
+    },
+    {
+      "name": "Chateau Mukhrani",
+      "slug": "chateau-mukhrani"
+    },
+    {
+      "name": "Chateau Palmer",
+      "slug": "chateau-palmer"
+    },
+    {
+      "name": "Chateau Pedesclaux",
+      "slug": "chateau-pedesclaux"
+    },
+    {
+      "name": "Chateau Pichon Baron",
+      "slug": "chateau-pichon-baron"
+    },
+    {
+      "name": "Chateau Pichon Longueville",
+      "slug": "chateau-pichon-longueville"
+    },
+    {
+      "name": "Chateau Pontet-Canet",
+      "slug": "chateau-pontet-canet"
+    },
+    {
+      "name": "Chateau Pontoise Cabarrus",
+      "slug": "chateau-pontoise-cabarrus"
+    },
+    {
+      "name": "Chateau Villefranche",
+      "slug": "chateau-villefranche"
+    },
+    {
+      "name": "Chevrillon",
+      "slug": "chevrillon"
+    },
+    {
+      "name": "Chickles Gum Slu",
+      "slug": "chickles-gum-slu"
+    },
+    {
+      "name": "Chinebuli",
+      "slug": "chinebuli"
+    },
+    {
+      "name": "Chivas Brothers",
+      "slug": "chivas-brothers"
+    },
+    {
+      "name": "Chiyomusubi Sake Brewery",
+      "slug": "chiyomusubi-sake-brewery"
+    },
+    {
+      "name": "Christian Drouin",
+      "slug": "christian-drouin"
+    },
+    {
+      "name": "Cia Tequilera Los Alambiques",
+      "slug": "cia-tequilera-los-alambiques"
+    },
+    {
+      "name": "Ciavolich",
+      "slug": "ciavolich"
+    },
+    {
+      "name": "Cidrerie de la Brique",
+      "slug": "cidrerie-de-la-brique"
+    },
+    {
+      "name": "Cipriana",
+      "slug": "cipriana"
+    },
+    {
+      "name": "Cline Cellars",
+      "slug": "cline-cellars"
+    },
+    {
+      "name": "Clos Mogador",
+      "slug": "clos-mogador"
+    },
+    {
+      "name": "Coca-Cola Company",
+      "slug": "coca-cola-company"
+    },
+    {
+      "name": "Codorniu",
+      "slug": "codorniu"
+    },
+    {
+      "name": "Cognac Ferrand",
+      "slug": "cognac-ferrand"
+    },
+    {
+      "name": "Coli",
+      "slug": "coli"
+    },
+    {
+      "name": "Combier",
+      "slug": "combier"
+    },
+    {
+      "name": "Comersializadora Eloro",
+      "slug": "comersializadora-eloro"
+    },
+    {
+      "name": "Comm. G.B. Burlotto",
+      "slug": "comm-g-b-burlotto"
+    },
+    {
+      "name": "Compagnie Francaise des Grands Vins",
+      "slug": "compagnie-francaise-des-grands-vins"
+    },
+    {
+      "name": "Cono Sur",
+      "slug": "cono-sur"
+    },
+    {
+      "name": "Consorcio Licorero Nacional",
+      "slug": "consorcio-licorero-nacional"
+    },
+    {
+      "name": "Constellation Brands",
+      "slug": "constellation-brands"
+    },
+    {
+      "name": "Contarini Vini e Spumanti",
+      "slug": "contarini-vini-e-spumanti"
+    },
+    {
+      "name": "Corporacion Cuba Ron",
+      "slug": "corporacion-cuba-ron"
+    },
+    {
+      "name": "Corvezzo",
+      "slug": "corvezzo"
+    },
+    {
+      "name": "Costador",
+      "slug": "costador"
+    },
+    {
+      "name": "Courvoisier",
+      "slug": "courvoisier"
+    },
+    {
+      "name": "Creative Spirits Odevie",
+      "slug": "creative-spirits-odevie"
+    },
+    {
+      "name": "Dampt Freres",
+      "slug": "dampt-freres"
+    },
+    {
+      "name": "David Sarajishvili and Eniseli",
+      "slug": "david-sarajishvili-and-eniseli"
+    },
+    {
+      "name": "De Bortoli Wines",
+      "slug": "de-bortoli-wines"
+    },
+    {
+      "name": "Del Maguey",
+      "slug": "del-maguey"
+    },
+    {
+      "name": "Dellavalle",
+      "slug": "dellavalle"
+    },
+    {
+      "name": "Delphi",
+      "slug": "delphi"
+    },
+    {
+      "name": "Der Hirschbrau",
+      "slug": "der-hirschbrau"
+    },
+    {
+      "name": "Destiladora Bonanza",
+      "slug": "destiladora-bonanza"
+    },
+    {
+      "name": "Destiladora San Nicolas",
+      "slug": "destiladora-san-nicolas"
+    },
+    {
+      "name": "Destilatum Destilaria Portuguesa",
+      "slug": "destilatum-destilaria-portuguesa"
+    },
+    {
+      "name": "Diageo",
+      "slug": "diageo"
+    },
+    {
+      "name": "Distilleria dell'Alpe",
+      "slug": "distilleria-dell-alpe"
+    },
+    {
+      "name": "Distilleria Zanin 1895",
+      "slug": "distilleria-zanin-1895"
+    },
+    {
+      "name": "Distillerie Berta",
+      "slug": "distillerie-berta"
+    },
+    {
+      "name": "District 9 Distilling Company Limited",
+      "slug": "district-9-distilling-company-limited"
+    },
+    {
+      "name": "Domaine Burnier",
+      "slug": "domaine-burnier"
+    },
+    {
+      "name": "Domaine de Gavaisson",
+      "slug": "domaine-de-gavaisson"
+    },
+    {
+      "name": "Domaine de la Begude",
+      "slug": "domaine-de-la-begude"
+    },
+    {
+      "name": "Domaine de Medeilhan",
+      "slug": "domaine-de-medeilhan"
+    },
+    {
+      "name": "Domaine De Pascati",
+      "slug": "domaine-de-pascati"
+    },
+    {
+      "name": "Domaine Doudet",
+      "slug": "domaine-doudet"
+    },
+    {
+      "name": "Domaine Du Haut Perron",
+      "slug": "domaine-du-haut-perron"
+    },
+    {
+      "name": "Domaine du Pavillon",
+      "slug": "domaine-du-pavillon"
+    },
+    {
+      "name": "Domaine du Tariquet",
+      "slug": "domaine-du-tariquet"
+    },
+    {
+      "name": "Domaine Franck Millet",
+      "slug": "domaine-franck-millet"
+    },
+    {
+      "name": "Domaine Francois Villard",
+      "slug": "domaine-francois-villard"
+    },
+    {
+      "name": "Domaine J.M. Boillot",
+      "slug": "domaine-j-m-boillot"
+    },
+    {
+      "name": "Domaine Jean Collet et Fils",
+      "slug": "domaine-jean-collet-et-fils"
+    },
+    {
+      "name": "Domaine Laffitte",
+      "slug": "domaine-laffitte"
+    },
+    {
+      "name": "Domaine Lipko",
+      "slug": "domaine-lipko"
+    },
+    {
+      "name": "Domaine Pierre Naigeon",
+      "slug": "domaine-pierre-naigeon"
+    },
+    {
+      "name": "Domaine Thenard",
+      "slug": "domaine-thenard"
+    },
+    {
+      "name": "Domaine UBY",
+      "slug": "domaine-uby"
+    },
+    {
+      "name": "Domaine Usseglio",
+      "slug": "domaine-usseglio"
+    },
+    {
+      "name": "Domaines Schlumberger",
+      "slug": "domaines-schlumberger"
+    },
+    {
+      "name": "Domane Wachau",
+      "slug": "domane-wachau"
+    },
+    {
+      "name": "Domini Castellare di Castellina",
+      "slug": "domini-castellare-di-castellina"
+    },
+    {
+      "name": "Domus UBI",
+      "slug": "domus-ubi"
+    },
+    {
+      "name": "Don Julio",
+      "slug": "don-julio"
+    },
+    {
+      "name": "Dongguan Bolton Food",
+      "slug": "dongguan-bolton-food"
+    },
+    {
+      "name": "Douglas Laing",
+      "slug": "douglas-laing"
+    },
+    {
+      "name": "Douglas Mc Gibbon & Co",
+      "slug": "douglas-mc-gibbon-co"
+    },
+    {
+      "name": "Dr Pepper Snapple Group",
+      "slug": "dr-pepper-snapple-group"
+    },
+    {
+      "name": "Dufftown Distillery",
+      "slug": "dufftown-distillery"
+    },
+    {
+      "name": "Dupuy",
+      "slug": "dupuy"
+    },
+    {
+      "name": "Eggenberger International",
+      "slug": "eggenberger-international"
+    },
+    {
+      "name": "Eichbaum Brauerei",
+      "slug": "eichbaum-brauerei"
+    },
+    {
+      "name": "Einsiedler Brauhaus",
+      "slug": "einsiedler-brauhaus"
+    },
+    {
+      "name": "El Mayor",
+      "slug": "el-mayor"
+    },
+    {
+      "name": "El Ron Prohibido",
+      "slug": "el-ron-prohibido"
+    },
+    {
+      "name": "Empresa de Bebidas y Refrescos",
+      "slug": "empresa-de-bebidas-y-refrescos"
+    },
+    {
+      "name": "Engel-Brau",
+      "slug": "engel-brau"
+    },
+    {
+      "name": "ENM",
+      "slug": "enm"
+    },
+    {
+      "name": "Errazuriz",
+      "slug": "errazuriz"
+    },
+    {
+      "name": "Eurovins",
+      "slug": "eurovins"
+    },
+    {
+      "name": "Fattoria La Rivolta",
+      "slug": "fattoria-la-rivolta"
+    },
+    {
+      "name": "Feldschlößchen AG",
+      "slug": "feldschl-chen-ag"
+    },
+    {
+      "name": "Felix Solis Avantis",
+      "slug": "felix-solis-avantis"
+    },
+    {
+      "name": "Fifth Generation",
+      "slug": "fifth-generation"
+    },
+    {
+      "name": "Finlandia Vodka Worldwide",
+      "slug": "finlandia-vodka-worldwide"
+    },
+    {
+      "name": "Flensburger Brauerei Emil Petersen",
+      "slug": "flensburger-brauerei-emil-petersen"
+    },
+    {
+      "name": "Fraternity Spirits",
+      "slug": "fraternity-spirits"
+    },
+    {
+      "name": "Fruko Schulz",
+      "slug": "fruko-schulz"
+    },
+    {
+      "name": "Frunze Estate Winery",
+      "slug": "frunze-estate-winery"
+    },
+    {
+      "name": "Fuller Smith & Turner",
+      "slug": "fuller-smith-turner"
+    },
+    {
+      "name": "G&J Distillers",
+      "slug": "g-j-distillers"
+    },
+    {
+      "name": "G. Schneider & Sohn",
+      "slug": "g-schneider-sohn"
+    },
+    {
+      "name": "G.H.Mumm",
+      "slug": "g-h-mumm"
+    },
+    {
+      "name": "Gabriel Meffre",
+      "slug": "gabriel-meffre"
+    },
+    {
+      "name": "Gaja Ca' Marcanda",
+      "slug": "gaja-ca-marcanda"
+    },
+    {
+      "name": "Gaja Winery",
+      "slug": "gaja-winery"
+    },
+    {
+      "name": "GAS FAMILIA",
+      "slug": "gas-familia"
+    },
+    {
+      "name": "Gebruder Maisel",
+      "slug": "gebruder-maisel"
+    },
+    {
+      "name": "Georgian Wine And Spirits",
+      "slug": "georgian-wine-and-spirits"
+    },
+    {
+      "name": "Geyerhof",
+      "slug": "geyerhof"
+    },
+    {
+      "name": "Giarola Savem",
+      "slug": "giarola-savem"
+    },
+    {
+      "name": "Giovannoni Isola & Mazza",
+      "slug": "giovannoni-isola-mazza"
+    },
+    {
+      "name": "Girolamo Luxardo",
+      "slug": "girolamo-luxardo"
+    },
+    {
+      "name": "Giuliana Vicini",
+      "slug": "giuliana-vicini"
+    },
+    {
+      "name": "Glen Moray Distillery",
+      "slug": "glen-moray-distillery"
+    },
+    {
+      "name": "Glen Turner Company",
+      "slug": "glen-turner-company"
+    },
+    {
+      "name": "Glenfarclas",
+      "slug": "glenfarclas"
+    },
+    {
+      "name": "Glenfarclas Distillery",
+      "slug": "glenfarclas-distillery"
+    },
+    {
+      "name": "Glenfiddich",
+      "slug": "glenfiddich"
+    },
+    {
+      "name": "Glenlivet",
+      "slug": "glenlivet"
+    },
+    {
+      "name": "Glenmorangie",
+      "slug": "glenmorangie"
+    },
+    {
+      "name": "Globefill Inc",
+      "slug": "globefill-inc"
+    },
+    {
+      "name": "Glow",
+      "slug": "glow"
+    },
+    {
+      "name": "Goedverwacht",
+      "slug": "goedverwacht"
+    },
+    {
+      "name": "Goldeck Wein-Und Sektkellerei",
+      "slug": "goldeck-wein-und-sektkellerei"
+    },
+    {
+      "name": "Good Spirits Bottling",
+      "slug": "good-spirits-bottling"
+    },
+    {
+      "name": "Gortinore Distillery",
+      "slug": "gortinore-distillery"
+    },
+    {
+      "name": "Grand Marnier",
+      "slug": "grand-marnier"
+    },
+    {
+      "name": "Grangenevue et Rauzan",
+      "slug": "grangenevue-et-rauzan"
+    },
+    {
+      "name": "Great Northern Distillery",
+      "slug": "great-northern-distillery"
+    },
+    {
+      "name": "Greenbar Distillery",
+      "slug": "greenbar-distillery"
+    },
+    {
+      "name": "Greene King",
+      "slug": "greene-king"
+    },
+    {
+      "name": "Grgich Hills Estate",
+      "slug": "grgich-hills-estate"
+    },
+    {
+      "name": "Grolsche Bierbrouwerij Nederland B.V",
+      "slug": "grolsche-bierbrouwerij-nederland-b-v"
+    },
+    {
+      "name": "Grupo Caballero",
+      "slug": "grupo-caballero"
+    },
+    {
+      "name": "Grupo Koch",
+      "slug": "grupo-koch"
+    },
+    {
+      "name": "Grupo Modelo",
+      "slug": "grupo-modelo"
+    },
+    {
+      "name": "Gulfi",
+      "slug": "gulfi"
+    },
+    {
+      "name": "Hacienda La Capilla",
+      "slug": "hacienda-la-capilla"
+    },
+    {
+      "name": "Hamlet",
+      "slug": "hamlet"
+    },
+    {
+      "name": "Havana Club",
+      "slug": "havana-club"
+    },
+    {
+      "name": "Häremillen",
+      "slug": "h-remillen"
+    },
+    {
+      "name": "Heaven Hill",
+      "slug": "heaven-hill"
+    },
+    {
+      "name": "Heineken International",
+      "slug": "heineken-international"
+    },
+    {
+      "name": "Heninger",
+      "slug": "heninger"
+    },
+    {
+      "name": "Henri Mounier",
+      "slug": "henri-mounier"
+    },
+    {
+      "name": "Henschke",
+      "slug": "henschke"
+    },
+    {
+      "name": "Hibernia Distillers",
+      "slug": "hibernia-distillers"
+    },
+    {
+      "name": "Highland Distillers",
+      "slug": "highland-distillers"
+    },
+    {
+      "name": "Highland Park",
+      "slug": "highland-park"
+    },
+    {
+      "name": "Hirooka Farm",
+      "slug": "hirooka-farm"
+    },
+    {
+      "name": "Hite Jinro co",
+      "slug": "hite-jinro-co"
+    },
+    {
+      "name": "Hofbrau",
+      "slug": "hofbrau"
+    },
+    {
+      "name": "Ian Macleod Distillers",
+      "slug": "ian-macleod-distillers"
+    },
+    {
+      "name": "Illva Saronno",
+      "slug": "illva-saronno"
+    },
+    {
+      "name": "Inama",
+      "slug": "inama"
+    },
+    {
+      "name": "Inata Honten Co",
+      "slug": "inata-honten-co"
+    },
+    {
+      "name": "Industria Licorera de Caldas",
+      "slug": "industria-licorera-de-caldas"
+    },
+    {
+      "name": "Irish Distillers",
+      "slug": "irish-distillers"
+    },
+    {
+      "name": "Isfjord Premium Arctic Spirits",
+      "slug": "isfjord-premium-arctic-spirits"
+    },
+    {
+      "name": "Isle of Arran Distillery",
+      "slug": "isle-of-arran-distillery"
+    },
+    {
+      "name": "Isole e Olena",
+      "slug": "isole-e-olena"
+    },
+    {
+      "name": "ITUT Inis Tine Uisce Teoranta",
+      "slug": "itut-inis-tine-uisce-teoranta"
+    },
+    {
+      "name": "J.Garcia Carrion",
+      "slug": "j-garcia-carrion"
+    },
+    {
+      "name": "Jack Daniel’s",
+      "slug": "jack-daniel-s"
+    },
+    {
+      "name": "Jagermeister",
+      "slug": "jagermeister"
+    },
+    {
+      "name": "James Buchanan & Co",
+      "slug": "james-buchanan-co"
+    },
+    {
+      "name": "Jan Becher",
+      "slug": "jan-becher"
+    },
+    {
+      "name": "Jean Durup Pere & Fils",
+      "slug": "jean-durup-pere-fils"
+    },
+    {
+      "name": "Jean-Baptiste Jessiaume",
+      "slug": "jean-baptiste-jessiaume"
+    },
+    {
+      "name": "Jean-Marc Brocard",
+      "slug": "jean-marc-brocard"
+    },
+    {
+      "name": "JH Andresen Sucessores",
+      "slug": "jh-andresen-sucessores"
+    },
+    {
+      "name": "Jim Beam",
+      "slug": "jim-beam"
+    },
+    {
+      "name": "John Dewar and Sons",
+      "slug": "john-dewar-and-sons"
+    },
+    {
+      "name": "Johnnie Walker",
+      "slug": "johnnie-walker"
+    },
+    {
+      "name": "Josep Maria Raventos",
+      "slug": "josep-maria-raventos"
+    },
+    {
+      "name": "Joseph Perrier",
+      "slug": "joseph-perrier"
+    },
+    {
+      "name": "Joseph Verdier",
+      "slug": "joseph-verdier"
+    },
+    {
+      "name": "Jraghatspanyan Winery",
+      "slug": "jraghatspanyan-winery"
+    },
+    {
+      "name": "Juan Carrau",
+      "slug": "juan-carrau"
+    },
+    {
+      "name": "Jura Distillery",
+      "slug": "jura-distillery"
+    },
+    {
+      "name": "Kaikyo Distillery",
+      "slug": "kaikyo-distillery"
+    },
+    {
+      "name": "Kaiser Brau",
+      "slug": "kaiser-brau"
+    },
+    {
+      "name": "Kaltern Caldaro",
+      "slug": "kaltern-caldaro"
+    },
+    {
+      "name": "Kalua",
+      "slug": "kalua"
+    },
+    {
+      "name": "Kavalan",
+      "slug": "kavalan"
+    },
+    {
+      "name": "Kendall-Jackson",
+      "slug": "kendall-jackson"
+    },
+    {
+      "name": "Kilchoman",
+      "slug": "kilchoman"
+    },
+    {
+      "name": "Kingston Estate Wine",
+      "slug": "kingston-estate-wine"
+    },
+    {
+      "name": "Kirker Greer Spirits",
+      "slug": "kirker-greer-spirits"
+    },
+    {
+      "name": "Kitaoka Honten",
+      "slug": "kitaoka-honten"
+    },
+    {
+      "name": "Kiyokawa",
+      "slug": "kiyokawa"
+    },
+    {
+      "name": "Kooperatiewe Wijnbouwers Vereniging",
+      "slug": "kooperatiewe-wijnbouwers-vereniging"
+    },
+    {
+      "name": "Kopke",
+      "slug": "kopke"
+    },
+    {
+      "name": "Koskenkorva",
+      "slug": "koskenkorva"
+    },
+    {
+      "name": "Krohn",
+      "slug": "krohn"
+    },
+    {
+      "name": "Krone",
+      "slug": "krone"
+    },
+    {
+      "name": "La Gavacha",
+      "slug": "la-gavacha"
+    },
+    {
+      "name": "La Maison du Vigneron",
+      "slug": "la-maison-du-vigneron"
+    },
+    {
+      "name": "La Scolca",
+      "slug": "la-scolca"
+    },
+    {
+      "name": "Lafferty & Sons",
+      "slug": "lafferty-sons"
+    },
+    {
+      "name": "Lagavulin",
+      "slug": "lagavulin"
+    },
+    {
+      "name": "Lambertz Polonia",
+      "slug": "lambertz-polonia"
+    },
+    {
+      "name": "Lanson",
+      "slug": "lanson"
+    },
+    {
+      "name": "Laphroaig",
+      "slug": "laphroaig"
+    },
+    {
+      "name": "Lasseaux",
+      "slug": "lasseaux"
+    },
+    {
+      "name": "Laurent-Perrier",
+      "slug": "laurent-perrier"
+    },
+    {
+      "name": "Lazy Dodo",
+      "slug": "lazy-dodo"
+    },
+    {
+      "name": "Le Grand Chais de France",
+      "slug": "le-grand-chais-de-france"
+    },
+    {
+      "name": "Le Salette",
+      "slug": "le-salette"
+    },
+    {
+      "name": "Lefebvre",
+      "slug": "lefebvre"
+    },
+    {
+      "name": "Legendario",
+      "slug": "legendario"
+    },
+    {
+      "name": "Lenotti",
+      "slug": "lenotti"
+    },
+    {
+      "name": "Lergenmuller",
+      "slug": "lergenmuller"
+    },
+    {
+      "name": "Les Celliers Associes",
+      "slug": "les-celliers-associes"
+    },
+    {
+      "name": "Les Grands Chais de France",
+      "slug": "les-grands-chais-de-france"
+    },
+    {
+      "name": "Lheraud",
+      "slug": "lheraud"
+    },
+    {
+      "name": "Licorera De Nicaragua",
+      "slug": "licorera-de-nicaragua"
+    },
+    {
+      "name": "Lindt&Sprungli",
+      "slug": "lindt-sprungli"
+    },
+    {
+      "name": "Liquid World",
+      "slug": "liquid-world"
+    },
+    {
+      "name": "Lir Chocolates",
+      "slug": "lir-chocolates"
+    },
+    {
+      "name": "Loch Lomond",
+      "slug": "loch-lomond"
+    },
+    {
+      "name": "Longmorn Distillery",
+      "slug": "longmorn-distillery"
+    },
+    {
+      "name": "Lotte Chilsung Beverage",
+      "slug": "lotte-chilsung-beverage"
+    },
+    {
+      "name": "Louis Changarnier",
+      "slug": "louis-changarnier"
+    },
+    {
+      "name": "Louis Roederer",
+      "slug": "louis-roederer"
+    },
+    {
+      "name": "Louis Sipp",
+      "slug": "louis-sipp"
+    },
+    {
+      "name": "Luis Pato",
+      "slug": "luis-pato"
+    },
+    {
+      "name": "Lustau",
+      "slug": "lustau"
+    },
+    {
+      "name": "Luxardo",
+      "slug": "luxardo"
+    },
+    {
+      "name": "M&H Distillery",
+      "slug": "m-h-distillery"
+    },
+    {
+      "name": "Macdonald and Muir",
+      "slug": "macdonald-and-muir"
+    },
+    {
+      "name": "Mackay & McDavitt",
+      "slug": "mackay-mcdavitt"
+    },
+    {
+      "name": "Macаllan Distillery",
+      "slug": "macallan-distillery"
+    },
+    {
+      "name": "Maison A. de Vacqueur",
+      "slug": "maison-a-de-vacqueur"
+    },
+    {
+      "name": "Maison de Negoce Charentaise",
+      "slug": "maison-de-negoce-charentaise"
+    },
+    {
+      "name": "Maison des Futailles",
+      "slug": "maison-des-futailles"
+    },
+    {
+      "name": "Maison Ferrand",
+      "slug": "maison-ferrand"
+    },
+    {
+      "name": "Maison Gamet",
+      "slug": "maison-gamet"
+    },
+    {
+      "name": "Maison Prunier",
+      "slug": "maison-prunier"
+    },
+    {
+      "name": "Maison Ruinart",
+      "slug": "maison-ruinart"
+    },
+    {
+      "name": "Maison Sichel",
+      "slug": "maison-sichel"
+    },
+    {
+      "name": "Mammut Getranke",
+      "slug": "mammut-getranke"
+    },
+    {
+      "name": "Mantlerhof",
+      "slug": "mantlerhof"
+    },
+    {
+      "name": "Marchesi Antinori",
+      "slug": "marchesi-antinori"
+    },
+    {
+      "name": "Marco Porello",
+      "slug": "marco-porello"
+    },
+    {
+      "name": "Marniskari",
+      "slug": "marniskari"
+    },
+    {
+      "name": "Martell",
+      "slug": "martell"
+    },
+    {
+      "name": "Martini",
+      "slug": "martini"
+    },
+    {
+      "name": "Maschio Beniamino",
+      "slug": "maschio-beniamino"
+    },
+    {
+      "name": "Masciarelli",
+      "slug": "masciarelli"
+    },
+    {
+      "name": "Matetic Wine Group",
+      "slug": "matetic-wine-group"
+    },
+    {
+      "name": "Medovarus",
+      "slug": "medovarus"
+    },
+    {
+      "name": "Meerlust",
+      "slug": "meerlust"
+    },
+    {
+      "name": "Merlet & Fils",
+      "slug": "merlet-fils"
+    },
+    {
+      "name": "Messias",
+      "slug": "messias"
+    },
+    {
+      "name": "Metaxa",
+      "slug": "metaxa"
+    },
+    {
+      "name": "Mezan",
+      "slug": "mezan"
+    },
+    {
+      "name": "Mezzacorona",
+      "slug": "mezzacorona"
+    },
+    {
+      "name": "Michel Redde",
+      "slug": "michel-redde"
+    },
+    {
+      "name": "Michele Satta",
+      "slug": "michele-satta"
+    },
+    {
+      "name": "Miguel Torres",
+      "slug": "miguel-torres"
+    },
+    {
+      "name": "Mijnaberd",
+      "slug": "mijnaberd"
+    },
+    {
+      "name": "Millesimes & Tradition",
+      "slug": "millesimes-tradition"
+    },
+    {
+      "name": "Minami Alps Wine",
+      "slug": "minami-alps-wine"
+    },
+    {
+      "name": "Mirabeau",
+      "slug": "mirabeau"
+    },
+    {
+      "name": "Misty Cove",
+      "slug": "misty-cove"
+    },
+    {
+      "name": "Moet & Hennessy",
+      "slug": "moet-hennessy"
+    },
+    {
+      "name": "Mohan Meakin Limited",
+      "slug": "mohan-meakin-limited"
+    },
+    {
+      "name": "Mondelez",
+      "slug": "mondelez"
+    },
+    {
+      "name": "Monster Beverage Corporation",
+      "slug": "monster-beverage-corporation"
+    },
+    {
+      "name": "Montelobos",
+      "slug": "montelobos"
+    },
+    {
+      "name": "Moosehead",
+      "slug": "moosehead"
+    },
+    {
+      "name": "Mortlach",
+      "slug": "mortlach"
+    },
+    {
+      "name": "Mossburn Distillers",
+      "slug": "mossburn-distillers"
+    },
+    {
+      "name": "Mossburn Distillers LTD",
+      "slug": "mossburn-distillers-ltd"
+    },
+    {
+      "name": "Mozart Distillerie",
+      "slug": "mozart-distillerie"
+    },
+    {
+      "name": "Musella",
+      "slug": "musella"
+    },
+    {
+      "name": "Mаker's Mark",
+      "slug": "maker-s-mark"
+    },
+    {
+      "name": "Namyang Dairy Products",
+      "slug": "namyang-dairy-products"
+    },
+    {
+      "name": "Nestle Italiana",
+      "slug": "nestle-italiana"
+    },
+    {
+      "name": "Nicolas Maillart",
+      "slug": "nicolas-maillart"
+    },
+    {
+      "name": "Nigl",
+      "slug": "nigl"
+    },
+    {
+      "name": "Nihonsakari Co",
+      "slug": "nihonsakari-co"
+    },
+    {
+      "name": "Niva Distillery",
+      "slug": "niva-distillery"
+    },
+    {
+      "name": "Nuhealth Jsc",
+      "slug": "nuhealth-jsc"
+    },
+    {
+      "name": "Nut Gallery",
+      "slug": "nut-gallery"
+    },
+    {
+      "name": "Oasi degli Angeli",
+      "slug": "oasi-degli-angeli"
+    },
+    {
+      "name": "Odevie Creative Spirits",
+      "slug": "odevie-creative-spirits"
+    },
+    {
+      "name": "Odevies",
+      "slug": "odevies"
+    },
+    {
+      "name": "Ohanyan Brandy Company",
+      "slug": "ohanyan-brandy-company"
+    },
+    {
+      "name": "Olmeca",
+      "slug": "olmeca"
+    },
+    {
+      "name": "Orangina Schweppes Polska",
+      "slug": "orangina-schweppes-polska"
+    },
+    {
+      "name": "Oremus",
+      "slug": "oremus"
+    },
+    {
+      "name": "Origin Spirits Ireland",
+      "slug": "origin-spirits-ireland"
+    },
+    {
+      "name": "OSHIN Winery",
+      "slug": "oshin-winery"
+    },
+    {
+      "name": "Ostrovica Brewery",
+      "slug": "ostrovica-brewery"
+    },
+    {
+      "name": "Ozeki Corporation",
+      "slug": "ozeki-corporation"
+    },
+    {
+      "name": "Paddy",
+      "slug": "paddy"
+    },
+    {
+      "name": "Palla Picante",
+      "slug": "palla-picante"
+    },
+    {
+      "name": "Pallini",
+      "slug": "pallini"
+    },
+    {
+      "name": "Palm",
+      "slug": "palm"
+    },
+    {
+      "name": "Papadopolou",
+      "slug": "papadopolou"
+    },
+    {
+      "name": "Parajes del Valle",
+      "slug": "parajes-del-valle"
+    },
+    {
+      "name": "Pascal Bouchard",
+      "slug": "pascal-bouchard"
+    },
+    {
+      "name": "Pasji Rep",
+      "slug": "pasji-rep"
+    },
+    {
+      "name": "Pasqua",
+      "slug": "pasqua"
+    },
+    {
+      "name": "Paul Bara",
+      "slug": "paul-bara"
+    },
+    {
+      "name": "Paul Cluver",
+      "slug": "paul-cluver"
+    },
+    {
+      "name": "Paul John",
+      "slug": "paul-john"
+    },
+    {
+      "name": "Paulaner",
+      "slug": "paulaner"
+    },
+    {
+      "name": "Penderyn",
+      "slug": "penderyn"
+    },
+    {
+      "name": "Penfolds",
+      "slug": "penfolds"
+    },
+    {
+      "name": "Penfolds Wines",
+      "slug": "penfolds-wines"
+    },
+    {
+      "name": "Perdeberg",
+      "slug": "perdeberg"
+    },
+    {
+      "name": "Pernod Ricard",
+      "slug": "pernod-ricard"
+    },
+    {
+      "name": "Peroni Nastro Azzurro",
+      "slug": "peroni-nastro-azzurro"
+    },
+    {
+      "name": "Perrier-Jouet",
+      "slug": "perrier-jouet"
+    },
+    {
+      "name": "Peter Mertes",
+      "slug": "peter-mertes"
+    },
+    {
+      "name": "Philipp Kuhn",
+      "slug": "philipp-kuhn"
+    },
+    {
+      "name": "Pietroso",
+      "slug": "pietroso"
+    },
+    {
+      "name": "Pilsner Urquell",
+      "slug": "pilsner-urquell"
+    },
+    {
+      "name": "Pivovar Samson",
+      "slug": "pivovar-samson"
+    },
+    {
+      "name": "Pivovary Staropramen s.r.o",
+      "slug": "pivovary-staropramen-s-r-o"
+    },
+    {
+      "name": "Plomari Distillery Isidoros Arvanitis",
+      "slug": "plomari-distillery-isidoros-arvanitis"
+    },
+    {
+      "name": "Poli Distillerie",
+      "slug": "poli-distillerie"
+    },
+    {
+      "name": "Polini Group",
+      "slug": "polini-group"
+    },
+    {
+      "name": "Pommery",
+      "slug": "pommery"
+    },
+    {
+      "name": "Portal del Priorat",
+      "slug": "portal-del-priorat"
+    },
+    {
+      "name": "Pringles",
+      "slug": "pringles"
+    },
+    {
+      "name": "Prinz von Hessen",
+      "slug": "prinz-von-hessen"
+    },
+    {
+      "name": "Privatbrauerei Schnitzlbaumer",
+      "slug": "privatbrauerei-schnitzlbaumer"
+    },
+    {
+      "name": "Productos el Artesano",
+      "slug": "productos-el-artesano"
+    },
+    {
+      "name": "Productos Finos de Agave",
+      "slug": "productos-finos-de-agave"
+    },
+    {
+      "name": "Productos y Destilados Noa Norte",
+      "slug": "productos-y-destilados-noa-norte"
+    },
+    {
+      "name": "Quinta da Raza",
+      "slug": "quinta-da-raza"
+    },
+    {
+      "name": "Quinta Do Portal",
+      "slug": "quinta-do-portal"
+    },
+    {
+      "name": "Quintessa",
+      "slug": "quintessa"
+    },
+    {
+      "name": "R. Lopez de Heredia Vina Tondonia",
+      "slug": "r-lopez-de-heredia-vina-tondonia"
+    },
+    {
+      "name": "R.A. Bailey & Co",
+      "slug": "r-a-bailey-co"
+    },
+    {
+      "name": "R.L. Seale & Co",
+      "slug": "r-l-seale-co"
+    },
+    {
+      "name": "Ra Nui",
+      "slug": "ra-nui"
+    },
+    {
+      "name": "Rakovnik",
+      "slug": "rakovnik"
+    },
+    {
+      "name": "Rapaura Springs",
+      "slug": "rapaura-springs"
+    },
+    {
+      "name": "Red Tree Winery",
+      "slug": "red-tree-winery"
+    },
+    {
+      "name": "Remy Martin & Co",
+      "slug": "remy-martin-co"
+    },
+    {
+      "name": "Rivetto",
+      "slug": "rivetto"
+    },
+    {
+      "name": "Robert A. Merry & Co",
+      "slug": "robert-a-merry-co"
+    },
+    {
+      "name": "Robert Mondavi",
+      "slug": "robert-mondavi"
+    },
+    {
+      "name": "Romisches Weindorf",
+      "slug": "romisches-weindorf"
+    },
+    {
+      "name": "Ron Barcelo",
+      "slug": "ron-barcelo"
+    },
+    {
+      "name": "Rossi & Rossi",
+      "slug": "rossi-rossi"
+    },
+    {
+      "name": "Rouge Society Distilling",
+      "slug": "rouge-society-distilling"
+    },
+    {
+      "name": "Royal Tokaji",
+      "slug": "royal-tokaji"
+    },
+    {
+      "name": "Rozelieures",
+      "slug": "rozelieures"
+    },
+    {
+      "name": "Rudolf Jelinek",
+      "slug": "rudolf-jelinek"
+    },
+    {
+      "name": "SABMiller",
+      "slug": "sabmiller"
+    },
+    {
+      "name": "Saget La Perriere",
+      "slug": "saget-la-perriere"
+    },
+    {
+      "name": "Sainte Neige Co",
+      "slug": "sainte-neige-co"
+    },
+    {
+      "name": "Salvadori Cesare",
+      "slug": "salvadori-cesare"
+    },
+    {
+      "name": "Salwey",
+      "slug": "salwey"
+    },
+    {
+      "name": "San Foods Co",
+      "slug": "san-foods-co"
+    },
+    {
+      "name": "Sanchez Romate",
+      "slug": "sanchez-romate"
+    },
+    {
+      "name": "Sanpellegrino",
+      "slug": "sanpellegrino"
+    },
+    {
+      "name": "Schaffler Brauerei",
+      "slug": "schaffler-brauerei"
+    },
+    {
+      "name": "Scheuerer Brauerei",
+      "slug": "scheuerer-brauerei"
+    },
+    {
+      "name": "Schlenkerla",
+      "slug": "schlenkerla"
+    },
+    {
+      "name": "Schloss Reinhartshausen",
+      "slug": "schloss-reinhartshausen"
+    },
+    {
+      "name": "Schweppes",
+      "slug": "schweppes"
+    },
+    {
+      "name": "Shandong Jinfulong Beer Co",
+      "slug": "shandong-jinfulong-beer-co"
+    },
+    {
+      "name": "Sheridan's",
+      "slug": "sheridan-s"
+    },
+    {
+      "name": "Sidney Frank Importing Co",
+      "slug": "sidney-frank-importing-co"
+    },
+    {
+      "name": "Sieur d'Arques",
+      "slug": "sieur-d-arques"
+    },
+    {
+      "name": "Silver Oak Winery",
+      "slug": "silver-oak-winery"
+    },
+    {
+      "name": "Simex Original",
+      "slug": "simex-original"
+    },
+    {
+      "name": "Simonsvlei",
+      "slug": "simonsvlei"
+    },
+    {
+      "name": "Simple",
+      "slug": "simple"
+    },
+    {
+      "name": "Skinos Mastiha Spirit",
+      "slug": "skinos-mastiha-spirit"
+    },
+    {
+      "name": "Società Agricola Colli Asolani di Bedin Enrico",
+      "slug": "societ-agricola-colli-asolani-di-bedin-enrico"
+    },
+    {
+      "name": "Sodiko",
+      "slug": "sodiko"
+    },
+    {
+      "name": "Soligo",
+      "slug": "soligo"
+    },
+    {
+      "name": "Southwestern Distillery",
+      "slug": "southwestern-distillery"
+    },
+    {
+      "name": "Spaten",
+      "slug": "spaten"
+    },
+    {
+      "name": "Spaten-Franziskaner-Bräu GmbH",
+      "slug": "spaten-franziskaner-br-u-gmbh"
+    },
+    {
+      "name": "Speciality Drinks",
+      "slug": "speciality-drinks"
+    },
+    {
+      "name": "Spirignac",
+      "slug": "spirignac"
+    },
+    {
+      "name": "Spring Creek Vintners",
+      "slug": "spring-creek-vintners"
+    },
+    {
+      "name": "Stobi",
+      "slug": "stobi"
+    },
+    {
+      "name": "Stollwerck GmbH",
+      "slug": "stollwerck-gmbh"
+    },
+    {
+      "name": "Strega Alberti Benevento",
+      "slug": "strega-alberti-benevento"
+    },
+    {
+      "name": "Summerhall Distillery",
+      "slug": "summerhall-distillery"
+    },
+    {
+      "name": "Suntory Spirits",
+      "slug": "suntory-spirits"
+    },
+    {
+      "name": "Taittinger",
+      "slug": "taittinger"
+    },
+    {
+      "name": "Tarsier Spirit",
+      "slug": "tarsier-spirit"
+    },
+    {
+      "name": "Teeling Distillery",
+      "slug": "teeling-distillery"
+    },
+    {
+      "name": "Tenuta Giustini",
+      "slug": "tenuta-giustini"
+    },
+    {
+      "name": "Tenuta San Guido",
+      "slug": "tenuta-san-guido"
+    },
+    {
+      "name": "Tenuta San Pietro",
+      "slug": "tenuta-san-pietro"
+    },
+    {
+      "name": "Tequila Orendain de Jalisco",
+      "slug": "tequila-orendain-de-jalisco"
+    },
+    {
+      "name": "Tequilera Corralejo",
+      "slug": "tequilera-corralejo"
+    },
+    {
+      "name": "Tequilera La Quemada",
+      "slug": "tequilera-la-quemada"
+    },
+    {
+      "name": "Terras de Lantano",
+      "slug": "terras-de-lantano"
+    },
+    {
+      "name": "Tessendiere & Fils",
+      "slug": "tessendiere-fils"
+    },
+    {
+      "name": "Tesseron",
+      "slug": "tesseron"
+    },
+    {
+      "name": "The Antica Distilleria Domenico Sibona",
+      "slug": "the-antica-distilleria-domenico-sibona"
+    },
+    {
+      "name": "The Arcane",
+      "slug": "the-arcane"
+    },
+    {
+      "name": "The Balvеnie",
+      "slug": "the-balvenie"
+    },
+    {
+      "name": "The Bitter Truth",
+      "slug": "the-bitter-truth"
+    },
+    {
+      "name": "The Dalmore",
+      "slug": "the-dalmore"
+    },
+    {
+      "name": "The Gospel Distellery",
+      "slug": "the-gospel-distellery"
+    },
+    {
+      "name": "The Macallan",
+      "slug": "the-macallan"
+    },
+    {
+      "name": "The Prisoner Wine Company",
+      "slug": "the-prisoner-wine-company"
+    },
+    {
+      "name": "The Ron Zacapa Co",
+      "slug": "the-ron-zacapa-co"
+    },
+    {
+      "name": "The Swedish Cider Company",
+      "slug": "the-swedish-cider-company"
+    },
+    {
+      "name": "The Tullamore Distillery",
+      "slug": "the-tullamore-distillery"
+    },
+    {
+      "name": "Tiffon",
+      "slug": "tiffon"
+    },
+    {
+      "name": "Tomatin",
+      "slug": "tomatin"
+    },
+    {
+      "name": "Top Single Service",
+      "slug": "top-single-service"
+    },
+    {
+      "name": "Torello",
+      "slug": "torello"
+    },
+    {
+      "name": "Torino Distillati",
+      "slug": "torino-distillati"
+    },
+    {
+      "name": "Torres",
+      "slug": "torres"
+    },
+    {
+      "name": "Tradicni pivovar",
+      "slug": "tradicni-pivovar"
+    },
+    {
+      "name": "Tradiční pivovar v Rakovníku",
+      "slug": "tradi-n-pivovar-v-rakovn-ku"
+    },
+    {
+      "name": "Treasury Wine Estates",
+      "slug": "treasury-wine-estates"
+    },
+    {
+      "name": "Tullibardine Distillery",
+      "slug": "tullibardine-distillery"
+    },
+    {
+      "name": "Underberg",
+      "slug": "underberg"
+    },
+    {
+      "name": "Union de Producteurs de Grangenevue et Rauzan",
+      "slug": "union-de-producteurs-de-grangenevue-et-rauzan"
+    },
+    {
+      "name": "United States Distilled Products Company",
+      "slug": "united-states-distilled-products-company"
+    },
+    {
+      "name": "Valdoglio",
+      "slug": "valdoglio"
+    },
+    {
+      "name": "Vannucci",
+      "slug": "vannucci"
+    },
+    {
+      "name": "Vanoir",
+      "slug": "vanoir"
+    },
+    {
+      "name": "VAUX",
+      "slug": "vaux"
+    },
+    {
+      "name": "Vayri Dzi",
+      "slug": "vayri-dzi"
+    },
+    {
+      "name": "Vercoope",
+      "slug": "vercoope"
+    },
+    {
+      "name": "Viaduct Spirits and Wines Ireland",
+      "slug": "viaduct-spirits-and-wines-ireland"
+    },
+    {
+      "name": "Vieira de Castro Productos Alimentares",
+      "slug": "vieira-de-castro-productos-alimentares"
+    },
+    {
+      "name": "Villa a Sesta",
+      "slug": "villa-a-sesta"
+    },
+    {
+      "name": "Villa degli Olmi",
+      "slug": "villa-degli-olmi"
+    },
+    {
+      "name": "Villars Maitre Chocolatier",
+      "slug": "villars-maitre-chocolatier"
+    },
+    {
+      "name": "Vilniaus Degtine",
+      "slug": "vilniaus-degtine"
+    },
+    {
+      "name": "Vincent Couche",
+      "slug": "vincent-couche"
+    },
+    {
+      "name": "Vinedos de Paganos",
+      "slug": "vinedos-de-paganos"
+    },
+    {
+      "name": "Voskevaz Winery",
+      "slug": "voskevaz-winery"
+    },
+    {
+      "name": "Waldemar Behn GmbH",
+      "slug": "waldemar-behn-gmbh"
+    },
+    {
+      "name": "Warsteiner Brauerei Haus Cramer",
+      "slug": "warsteiner-brauerei-haus-cramer"
+    },
+    {
+      "name": "Warwick Estate",
+      "slug": "warwick-estate"
+    },
+    {
+      "name": "Waterford Whisky",
+      "slug": "waterford-whisky"
+    },
+    {
+      "name": "Weihenstephan",
+      "slug": "weihenstephan"
+    },
+    {
+      "name": "Weingut Burg Ravensburg",
+      "slug": "weingut-burg-ravensburg"
+    },
+    {
+      "name": "Weingut Gager",
+      "slug": "weingut-gager"
+    },
+    {
+      "name": "Weinkellerei Hechtsheim GmbH",
+      "slug": "weinkellerei-hechtsheim-gmbh"
+    },
+    {
+      "name": "West Cork Distillery",
+      "slug": "west-cork-distillery"
+    },
+    {
+      "name": "Westons cider",
+      "slug": "westons-cider"
+    },
+    {
+      "name": "Whyte & Mackay Limited",
+      "slug": "whyte-mackay-limited"
+    },
+    {
+      "name": "Wild Turkey",
+      "slug": "wild-turkey"
+    },
+    {
+      "name": "Wilhelm Braun Erben",
+      "slug": "wilhelm-braun-erben"
+    },
+    {
+      "name": "William Grant & Sons",
+      "slug": "william-grant-sons"
+    },
+    {
+      "name": "Wineforces",
+      "slug": "wineforces"
+    },
+    {
+      "name": "Wineworks Marlborough",
+      "slug": "wineworks-marlborough"
+    },
+    {
+      "name": "Winzer Von Baden EG",
+      "slug": "winzer-von-baden-eg"
+    },
+    {
+      "name": "Winzergenossenschaft Herxheim am Berg",
+      "slug": "winzergenossenschaft-herxheim-am-berg"
+    },
+    {
+      "name": "Witor's",
+      "slug": "witor-s"
+    },
+    {
+      "name": "Woodford",
+      "slug": "woodford"
+    },
+    {
+      "name": "Zantho",
+      "slug": "zantho"
+    },
+    {
+      "name": "Zimmermann-Graeff & Muller",
+      "slug": "zimmermann-graeff-muller"
+    },
+    {
+      "name": "Zorzettig",
+      "slug": "zorzettig"
+    },
+    {
+      "name": "Абрау Дюрсо",
+      "slug": "abrau-dyurso"
+    },
+    {
+      "name": "Алвиз",
+      "slug": "alviz"
+    },
+    {
+      "name": "Алко-Профи",
+      "slug": "alko-profi"
+    },
+    {
+      "name": "Алкогольная производственная компания",
+      "slug": "alkogolnaya-proizvodstvennaya-kompaniya"
+    },
+    {
+      "name": "Алкогольная Сибирская Группа",
+      "slug": "alkogolnaya-sibirskaya-gruppa"
+    },
+    {
+      "name": "Арегак",
+      "slug": "aregak"
+    },
+    {
+      "name": "Аристов",
+      "slug": "aristov"
+    },
+    {
+      "name": "Архангельский ЛВЗ",
+      "slug": "arkhangelskiy-lvz"
+    },
+    {
+      "name": "Арцах Бренди Компани",
+      "slug": "arcakh-brendi-kompani"
+    },
+    {
+      "name": "Афанасий",
+      "slug": "afanasiy"
+    },
+    {
+      "name": "Балтийский продукт",
+      "slug": "baltiyskiy-produkt"
+    },
+    {
+      "name": "Бастион",
+      "slug": "bastion"
+    },
+    {
+      "name": "Башспирт",
+      "slug": "bashspirt"
+    },
+    {
+      "name": "Брестский ЛВЗ Белалко",
+      "slug": "brestskiy-lvz-belalko"
+    },
+    {
+      "name": "Варница",
+      "slug": "varnica"
+    },
+    {
+      "name": "ВВS Spirits",
+      "slug": "vvs-spirits"
+    },
+    {
+      "name": "Вина и Воды Абхазии",
+      "slug": "vina-i-vody-abkhazii"
+    },
+    {
+      "name": "Виниверия",
+      "slug": "viniveriya"
+    },
+    {
+      "name": "Винный Дом Фотисаль",
+      "slug": "vinnyy-dom-fotisal"
+    },
+    {
+      "name": "Виноградники Гай-Кодзора",
+      "slug": "vinogradniki-gay-kodzora"
+    },
+    {
+      "name": "Винодельня Бельбек",
+      "slug": "vinodelnya-belbek"
+    },
+    {
+      "name": "Винодельня Ведерников",
+      "slug": "vinodelnya-vedernikov"
+    },
+    {
+      "name": "Винодельня Олег Репин",
+      "slug": "vinodelnya-oleg-repin"
+    },
+    {
+      "name": "Винодельня Узунов",
+      "slug": "vinodelnya-uzunov"
+    },
+    {
+      "name": "Винокуренный завод Кемлянский",
+      "slug": "vinokurennyy-zavod-kemlyanskiy"
+    },
+    {
+      "name": "ВКЗ Альянс-1892",
+      "slug": "vkz-alyans-1892"
+    },
+    {
+      "name": "Вкус Года",
+      "slug": "vkus-goda"
+    },
+    {
+      "name": "Высокий Берег",
+      "slug": "vysokiy-bereg"
+    },
+    {
+      "name": "Галицкий и Галицкий",
+      "slug": "galickiy-i-galickiy"
+    },
+    {
+      "name": "ГК Таркос",
+      "slug": "gk-tarkos"
+    },
+    {
+      "name": "Глазовский ЛВЗ",
+      "slug": "glazovskiy-lvz"
+    },
+    {
+      "name": "Гранд-Стар",
+      "slug": "grand-star"
+    },
+    {
+      "name": "Грузинская пивная компания",
+      "slug": "gruzinskaya-pivnaya-kompaniya"
+    },
+    {
+      "name": "Дербентская виндельческая компания",
+      "slug": "derbentskaya-vindelcheskaya-kompaniya"
+    },
+    {
+      "name": "Дивноморье",
+      "slug": "divnomore"
+    },
+    {
+      "name": "Дубовский Виноград",
+      "slug": "dubovskiy-vinograd"
+    },
+    {
+      "name": "ЕКВВК Арарат",
+      "slug": "ekvvk-ararat"
+    },
+    {
+      "name": "Ереванский Коньячный Завод",
+      "slug": "erevanskiy-konyachnyy-zavod"
+    },
+    {
+      "name": "Иван-Купала-Торг",
+      "slug": "ivan-kupala-torg"
+    },
+    {
+      "name": "Иджеванский винно-коньячный завод",
+      "slug": "idzhevanskiy-vinno-konyachnyy-zavod"
+    },
+    {
+      "name": "Инвест Плюс",
+      "slug": "invest-plyus"
+    },
+    {
+      "name": "Инкерман",
+      "slug": "inkerman"
+    },
+    {
+      "name": "ИП Глава КФК Нарыков С.Ю.",
+      "slug": "ip-glava-kfk-narykov-s-yu"
+    },
+    {
+      "name": "ИП Шнейдерман Е.Е.",
+      "slug": "ip-shneyderman-e-e"
+    },
+    {
+      "name": "Иткульский спиртзавод",
+      "slug": "itkulskiy-spirtzavod"
+    },
+    {
+      "name": "Карельский СЗ",
+      "slug": "karelskiy-sz"
+    },
+    {
+      "name": "Кварельский погреб",
+      "slug": "kvarelskiy-pogreb"
+    },
+    {
+      "name": "Кёш",
+      "slug": "kesh"
+    },
+    {
+      "name": "Кизлярский коньячный завод",
+      "slug": "kizlyarskiy-konyachnyy-zavod"
+    },
+    {
+      "name": "КЛВЗ Кристалл",
+      "slug": "klvz-kristall"
+    },
+    {
+      "name": "Коктебель",
+      "slug": "koktebel"
+    },
+    {
+      "name": "Криница",
+      "slug": "krinica"
+    },
+    {
+      "name": "Кубань Вино",
+      "slug": "kuban-vino"
+    },
+    {
+      "name": "Ладога",
+      "slug": "ladoga"
+    },
+    {
+      "name": "Мангуп Эстейт",
+      "slug": "mangup-esteyt"
+    },
+    {
+      "name": "Мариинский ликеро-водочный завод",
+      "slug": "mariinskiy-likero-vodochnyy-zavod"
+    },
+    {
+      "name": "Маркет Лайн",
+      "slug": "market-layn"
+    },
+    {
+      "name": "Мармеко",
+      "slug": "marmeko"
+    },
+    {
+      "name": "Мартин",
+      "slug": "martin"
+    },
+    {
+      "name": "Массандра",
+      "slug": "massandra"
+    },
+    {
+      "name": "Морус",
+      "slug": "morus"
+    },
+    {
+      "name": "Мысхако",
+      "slug": "myskhako"
+    },
+    {
+      "name": "Никола Интернейшнл",
+      "slug": "nikola-interneyshnl"
+    },
+    {
+      "name": "Нобалев Групп",
+      "slug": "nobalev-grupp"
+    },
+    {
+      "name": "Новокубанское",
+      "slug": "novokubanskoe"
+    },
+    {
+      "name": "Новый крафт",
+      "slug": "novyy-kraft"
+    },
+    {
+      "name": "Новый Свет",
+      "slug": "novyy-svet"
+    },
+    {
+      "name": "Объединенные Пивоварни",
+      "slug": "obedinennye-pivovarni"
+    },
+    {
+      "name": "Онегин",
+      "slug": "onegin"
+    },
+    {
+      "name": "Опытный завод Нива",
+      "slug": "opytnyy-zavod-niva"
+    },
+    {
+      "name": "Пермалко",
+      "slug": "permalko"
+    },
+    {
+      "name": "Пит-Продукт",
+      "slug": "pit-produkt"
+    },
+    {
+      "name": "Питейный дом",
+      "slug": "piteynyy-dom"
+    },
+    {
+      "name": "ПК Арарат",
+      "slug": "pk-ararat"
+    },
+    {
+      "name": "Поместье Голубицкое",
+      "slug": "pomeste-golubickoe"
+    },
+    {
+      "name": "ПродЛайн",
+      "slug": "prodlayn"
+    },
+    {
+      "name": "Раевское",
+      "slug": "raevskoe"
+    },
+    {
+      "name": "Русские оригинальные напитки",
+      "slug": "russkie-originalnye-napitki"
+    },
+    {
+      "name": "Русский Крафт",
+      "slug": "russkiy-kraft"
+    },
+    {
+      "name": "Саранский ЛВЗ",
+      "slug": "saranskiy-lvz"
+    },
+    {
+      "name": "Сатера",
+      "slug": "satera"
+    },
+    {
+      "name": "Синергия",
+      "slug": "sinergiya"
+    },
+    {
+      "name": "Сис Натурал",
+      "slug": "sis-natural"
+    },
+    {
+      "name": "СнекМания",
+      "slug": "snekmaniya"
+    },
+    {
+      "name": "Собрание",
+      "slug": "sobranie"
+    },
+    {
+      "name": "Солнечная Долина",
+      "slug": "solnechnaya-dolina"
+    },
+    {
+      "name": "Сордис",
+      "slug": "sordis"
+    },
+    {
+      "name": "Союз-Вино",
+      "slug": "soyuz-vino"
+    },
+    {
+      "name": "Таркос",
+      "slug": "tarkos"
+    },
+    {
+      "name": "Тристория",
+      "slug": "tristoriya"
+    },
+    {
+      "name": "Тульский Винокуренный Завод",
+      "slug": "tulskiy-vinokurennyy-zavod"
+    },
+    {
+      "name": "Уральские источники",
+      "slug": "uralskie-istochniki"
+    },
+    {
+      "name": "Усадьба Дивноморское",
+      "slug": "usadba-divnomorskoe"
+    },
+    {
+      "name": "Усадьба Мезыбь",
+      "slug": "usadba-mezyb"
+    },
+    {
+      "name": "Фаворит Групп",
+      "slug": "favorit-grupp"
+    },
+    {
+      "name": "Фортуна",
+      "slug": "fortuna"
+    },
+    {
+      "name": "Фотисаль",
+      "slug": "fotisal"
+    },
+    {
+      "name": "Цимлянские вина",
+      "slug": "cimlyanskie-vina"
+    },
+    {
+      "name": "Чинебули",
+      "slug": "chinebuli"
+    },
+    {
+      "name": "Шато Пино",
+      "slug": "shato-pino"
+    },
+    {
+      "name": "Шаумян - Вин",
+      "slug": "shaumyan-vin"
+    },
+    {
+      "name": "Эльбузд",
+      "slug": "elbuzd"
+    },
+    {
+      "name": "Юникс-Beverage",
+      "slug": "yuniks-beverage"
+    },
+    {
+      "name": "Ярославский ЛВЗ",
+      "slug": "yaroslavskiy-lvz"
+    }
+  ],
+  "prodolzitelnost-vyderzki": [
+    {
+      "name": "1 год",
+      "slug": "1-god"
+    },
+    {
+      "name": "10 лет",
+      "slug": "10-let"
+    },
+    {
+      "name": "10 месяцев",
+      "slug": "10-mesyacev"
+    },
+    {
+      "name": "11 месяцев",
+      "slug": "11-mesyacev"
+    },
+    {
+      "name": "12 лет",
+      "slug": "12-let"
+    },
+    {
+      "name": "13 лет",
+      "slug": "13-let"
+    },
+    {
+      "name": "14 лет",
+      "slug": "14-let"
+    },
+    {
+      "name": "14 месяцев",
+      "slug": "14-mesyacev"
+    },
+    {
+      "name": "15 лет",
+      "slug": "15-let"
+    },
+    {
+      "name": "15 месяцев",
+      "slug": "15-mesyacev"
+    },
+    {
+      "name": "16 лет",
+      "slug": "16-let"
+    },
+    {
+      "name": "16 месяцев",
+      "slug": "16-mesyacev"
+    },
+    {
+      "name": "17 лет",
+      "slug": "17-let"
+    },
+    {
+      "name": "17 месяцев",
+      "slug": "17-mesyacev"
+    },
+    {
+      "name": "18 лет",
+      "slug": "18-let"
+    },
+    {
+      "name": "18 месяцев",
+      "slug": "18-mesyacev"
+    },
+    {
+      "name": "19 месяцев",
+      "slug": "19-mesyacev"
+    },
+    {
+      "name": "2 года",
+      "slug": "2-goda"
+    },
+    {
+      "name": "2 месяца",
+      "slug": "2-mesyaca"
+    },
+    {
+      "name": "20 лет",
+      "slug": "20-let"
+    },
+    {
+      "name": "20 месяцев",
+      "slug": "20-mesyacev"
+    },
+    {
+      "name": "21 год",
+      "slug": "21-god"
+    },
+    {
+      "name": "22 года",
+      "slug": "22-goda"
+    },
+    {
+      "name": "22 месяца",
+      "slug": "22-mesyaca"
+    },
+    {
+      "name": "23 года",
+      "slug": "23-goda"
+    },
+    {
+      "name": "24 месяца",
+      "slug": "24-mesyaca"
+    },
+    {
+      "name": "25 лет",
+      "slug": "25-let"
+    },
+    {
+      "name": "25 месяцев",
+      "slug": "25-mesyacev"
+    },
+    {
+      "name": "26 лет",
+      "slug": "26-let"
+    },
+    {
+      "name": "26 месяцев",
+      "slug": "26-mesyacev"
+    },
+    {
+      "name": "27 лет",
+      "slug": "27-let"
+    },
+    {
+      "name": "3 года",
+      "slug": "3-goda"
+    },
+    {
+      "name": "3 месяца",
+      "slug": "3-mesyaca"
+    },
+    {
+      "name": "30 лет",
+      "slug": "30-let"
+    },
+    {
+      "name": "30 месяцев",
+      "slug": "30-mesyacev"
+    },
+    {
+      "name": "33 года",
+      "slug": "33-goda"
+    },
+    {
+      "name": "35 лет",
+      "slug": "35-let"
+    },
+    {
+      "name": "35 месяцев",
+      "slug": "35-mesyacev"
+    },
+    {
+      "name": "4 года",
+      "slug": "4-goda"
+    },
+    {
+      "name": "4 месяца",
+      "slug": "4-mesyaca"
+    },
+    {
+      "name": "4 недели",
+      "slug": "4-nedeli"
+    },
+    {
+      "name": "40 лет",
+      "slug": "40-let"
+    },
+    {
+      "name": "42 месяца",
+      "slug": "42-mesyaca"
+    },
+    {
+      "name": "45 месяцев",
+      "slug": "45-mesyacev"
+    },
+    {
+      "name": "5 лет",
+      "slug": "5-let"
+    },
+    {
+      "name": "5 месяцев",
+      "slug": "5-mesyacev"
+    },
+    {
+      "name": "50 лет",
+      "slug": "50-let"
+    },
+    {
+      "name": "50 месяцев",
+      "slug": "50-mesyacev"
+    },
+    {
+      "name": "54 месяца",
+      "slug": "54-mesyaca"
+    },
+    {
+      "name": "6 лет",
+      "slug": "6-let"
+    },
+    {
+      "name": "6 месяцев",
+      "slug": "6-mesyacev"
+    },
+    {
+      "name": "6-8 месяцев",
+      "slug": "6-8-mesyacev"
+    },
+    {
+      "name": "7 лет",
+      "slug": "7-let"
+    },
+    {
+      "name": "7 месяцев",
+      "slug": "7-mesyacev"
+    },
+    {
+      "name": "8 лет",
+      "slug": "8-let"
+    },
+    {
+      "name": "8 месяцев",
+      "slug": "8-mesyacev"
+    },
+    {
+      "name": "8 недель",
+      "slug": "8-nedel"
+    },
+    {
+      "name": "80 месяцев",
+      "slug": "80-mesyacev"
+    },
+    {
+      "name": "9 месяцев",
+      "slug": "9-mesyacev"
+    },
+    {
+      "name": "Достигает 100 лет",
+      "slug": "dostigaet-100-let"
+    },
+    {
+      "name": "Достигает 23 лет",
+      "slug": "dostigaet-23-let"
+    },
+    {
+      "name": "Достигает 6 месяцев",
+      "slug": "dostigaet-6-mesyacev"
+    },
+    {
+      "name": "Не менее 1 года",
+      "slug": "ne-menee-1-goda"
+    },
+    {
+      "name": "Не менее 10 лет",
+      "slug": "ne-menee-10-let"
+    },
+    {
+      "name": "Не менее 12 лет",
+      "slug": "ne-menee-12-let"
+    },
+    {
+      "name": "Не менее 14 месяцев",
+      "slug": "ne-menee-14-mesyacev"
+    },
+    {
+      "name": "Не менее 15 лет",
+      "slug": "ne-menee-15-let"
+    },
+    {
+      "name": "Не менее 16 месяцев",
+      "slug": "ne-menee-16-mesyacev"
+    },
+    {
+      "name": "Не менее 18 месяцев",
+      "slug": "ne-menee-18-mesyacev"
+    },
+    {
+      "name": "Не менее 2 лет",
+      "slug": "ne-menee-2-let"
+    },
+    {
+      "name": "Не менее 2 месяцев",
+      "slug": "ne-menee-2-mesyacev"
+    },
+    {
+      "name": "Не менее 20 месяцев",
+      "slug": "ne-menee-20-mesyacev"
+    },
+    {
+      "name": "Не менее 24 месяцев",
+      "slug": "ne-menee-24-mesyacev"
+    },
+    {
+      "name": "Не менее 25 лет",
+      "slug": "ne-menee-25-let"
+    },
+    {
+      "name": "Не менее 3 лет",
+      "slug": "ne-menee-3-let"
+    },
+    {
+      "name": "Не менее 30 лет",
+      "slug": "ne-menee-30-let"
+    },
+    {
+      "name": "Не менее 35 лет",
+      "slug": "ne-menee-35-let"
+    },
+    {
+      "name": "Не менее 4 лет",
+      "slug": "ne-menee-4-let"
+    },
+    {
+      "name": "Не менее 4 месяцев",
+      "slug": "ne-menee-4-mesyacev"
+    },
+    {
+      "name": "Не менее 5 лет",
+      "slug": "ne-menee-5-let"
+    },
+    {
+      "name": "Не менее 6 лет",
+      "slug": "ne-menee-6-let"
+    },
+    {
+      "name": "Не менее 6 месяцев",
+      "slug": "ne-menee-6-mesyacev"
+    },
+    {
+      "name": "Не менее 7 лет",
+      "slug": "ne-menee-7-let"
+    },
+    {
+      "name": "Не менее 8 лет",
+      "slug": "ne-menee-8-let"
+    },
+    {
+      "name": "Не менее 8 месяцев",
+      "slug": "ne-menee-8-mesyacev"
+    },
+    {
+      "name": "Не менее 9 месяцев",
+      "slug": "ne-menee-9-mesyacev"
+    },
+    {
+      "name": "Непродолжительная",
+      "slug": "neprodolzhitelnaya"
+    },
+    {
+      "name": "От 3 до 12 месяцев",
+      "slug": "ot-3-do-12-mesyacev"
+    }
+  ],
+  "emkost-vyderzki": [
+    {
+      "name": "Баррик",
+      "slug": "barrik"
+    },
+    {
+      "name": "Баррик второго наполнения",
+      "slug": "barrik-vtorogo-napolneniya"
+    },
+    {
+      "name": "Баррик из-под вина Сассикайя",
+      "slug": "barrik-iz-pod-vina-sassikayya"
+    },
+    {
+      "name": "Бетон",
+      "slug": "beton"
+    },
+    {
+      "name": "Большая дубовая бочка",
+      "slug": "bolshaya-dubovaya-bochka"
+    },
+    {
+      "name": "Бочка из австрийского дуба",
+      "slug": "bochka-iz-avstriyskogo-duba"
+    },
+    {
+      "name": "Бочка из акации",
+      "slug": "bochka-iz-akacii"
+    },
+    {
+      "name": "Бочка из американского дуба",
+      "slug": "bochka-iz-amerikanskogo-duba"
+    },
+    {
+      "name": "Бочка из армянского дуба",
+      "slug": "bochka-iz-armyanskogo-duba"
+    },
+    {
+      "name": "Бочка из арцахского дуба",
+      "slug": "bochka-iz-arcakhskogo-duba"
+    },
+    {
+      "name": "Бочка из венгерского дуба",
+      "slug": "bochka-iz-vengerskogo-duba"
+    },
+    {
+      "name": "Бочка из дуба Иберика",
+      "slug": "bochka-iz-duba-iberika"
+    },
+    {
+      "name": "Бочка из европейского дуба",
+      "slug": "bochka-iz-evropeyskogo-duba"
+    },
+    {
+      "name": "Бочка из испанского дуба",
+      "slug": "bochka-iz-ispanskogo-duba"
+    },
+    {
+      "name": "Бочка из каштана",
+      "slug": "bochka-iz-kashtana"
+    },
+    {
+      "name": "Бочка из ландского дуба",
+      "slug": "bochka-iz-landskogo-duba"
+    },
+    {
+      "name": "Бочка из славонского дуба",
+      "slug": "bochka-iz-slavonskogo-duba"
+    },
+    {
+      "name": "Бочка из французского дуба",
+      "slug": "bochka-iz-francuzskogo-duba"
+    },
+    {
+      "name": "Бочка из японского дуба Мизунара",
+      "slug": "bochka-iz-yaponskogo-duba-mizunara"
+    },
+    {
+      "name": "Бочка из-под бренди",
+      "slug": "bochka-iz-pod-brendi"
+    },
+    {
+      "name": "Бочка из-под бурбона",
+      "slug": "bochka-iz-pod-burbona"
+    },
+    {
+      "name": "Бочка из-под вина",
+      "slug": "bochka-iz-pod-vina"
+    },
+    {
+      "name": "Бочка из-под вина Пиколит",
+      "slug": "bochka-iz-pod-vina-pikolit"
+    },
+    {
+      "name": "Бочка из-под коньяка",
+      "slug": "bochka-iz-pod-konyaka"
+    },
+    {
+      "name": "Бочка из-под модейры",
+      "slug": "bochka-iz-pod-modeyry"
+    },
+    {
+      "name": "Бочка из-под пива",
+      "slug": "bochka-iz-pod-piva"
+    },
+    {
+      "name": "Бочка из-под портвейна",
+      "slug": "bochka-iz-pod-portveyna"
+    },
+    {
+      "name": "Бочка из-под рома",
+      "slug": "bochka-iz-pod-roma"
+    },
+    {
+      "name": "Бочка из-под французских юго-западных вин",
+      "slug": "bochka-iz-pod-francuzskikh-yugo-zapadnykh-vin"
+    },
+    {
+      "name": "Бочка из-под хереса",
+      "slug": "bochka-iz-pod-kheresa"
+    },
+    {
+      "name": "Бочка из-под хереса Москатель",
+      "slug": "bochka-iz-pod-kheresa-moskatel"
+    },
+    {
+      "name": "Бочка из-под хереса Олоросо",
+      "slug": "bochka-iz-pod-kheresa-oloroso"
+    },
+    {
+      "name": "Бочка из-под хереса Педро Хименес",
+      "slug": "bochka-iz-pod-kheresa-pedro-khimenes"
+    },
+    {
+      "name": "Бочка из-под хереса Фино",
+      "slug": "bochka-iz-pod-kheresa-fino"
+    },
+    {
+      "name": "В бочках из Шведского дуба",
+      "slug": "v-bochkakh-iz-shvedskogo-duba"
+    },
+    {
+      "name": "В бутылке",
+      "slug": "v-butylke"
+    },
+    {
+      "name": "Глиняная амфора",
+      "slug": "glinyanaya-amfora"
+    },
+    {
+      "name": "Дубовая бочка",
+      "slug": "dubovaya-bochka"
+    },
+    {
+      "name": "Кавказский дуб",
+      "slug": "kavkazskiy-dub"
+    },
+    {
+      "name": "Карабахский дуб",
+      "slug": "karabakhskiy-dub"
+    },
+    {
+      "name": "На дрожжевом осадке",
+      "slug": "na-drozhzhevom-osadke"
+    },
+    {
+      "name": "Нержавеющая сталь",
+      "slug": "nerzhaveyushchaya-stal"
+    },
+    {
+      "name": "Новая бочка из американского дуба",
+      "slug": "novaya-bochka-iz-amerikanskogo-duba"
+    },
+    {
+      "name": "Новый баррик",
+      "slug": "novyy-barrik"
+    },
+    {
+      "name": "Старая дубовая бочка",
+      "slug": "staraya-dubovaya-bochka"
+    },
+    {
+      "name": "Цементный чан",
+      "slug": "cementnyy-chan"
+    }
+  ],
+  "temperatura-podaci": [
+    {
+      "name": "10–12",
+      "slug": "10-12"
+    },
+    {
+      "name": "12–14",
+      "slug": "12-14"
+    },
+    {
+      "name": "14–16",
+      "slug": "14-16"
+    },
+    {
+      "name": "16–18",
+      "slug": "16-18"
+    },
+    {
+      "name": "18–20",
+      "slug": "18-20"
+    },
+    {
+      "name": "20–22",
+      "slug": "20-22"
+    },
+    {
+      "name": "4–6",
+      "slug": "4-6"
+    },
+    {
+      "name": "6–8",
+      "slug": "6-8"
+    },
+    {
+      "name": "8–10",
+      "slug": "8-10"
+    },
+    {
+      "name": "8–12",
+      "slug": "8-12"
+    }
+  ],
+  "metod-proizvodstva": [
+    {
+      "name": "Ансестраль",
+      "slug": "ansestral"
+    },
+    {
+      "name": "Классический",
+      "slug": "klassicheskiy"
+    },
+    {
+      "name": "Низовое брожение",
+      "slug": "nizovoe-brozhenie"
+    },
+    {
+      "name": "Промышленный",
+      "slug": "promyshlennyy"
+    },
+    {
+      "name": "Сельскохозяйственный",
+      "slug": "selskokhozyaystvennyy"
+    },
+    {
+      "name": "Шарма",
+      "slug": "sharma"
+    }
+  ],
+  "vid": [
+    {
+      "name": "Абсент",
+      "slug": "absent"
+    },
+    {
+      "name": "Арманьяк",
+      "slug": "armanyak"
+    },
+    {
+      "name": "Биттер",
+      "slug": "bitter"
+    },
+    {
+      "name": "Бренди",
+      "slug": "brendi"
+    },
+    {
+      "name": "Бурбон",
+      "slug": "burbon"
+    },
+    {
+      "name": "Вермут",
+      "slug": "vermut"
+    },
+    {
+      "name": "Вино газированное",
+      "slug": "vino-gazirovannoe"
+    },
+    {
+      "name": "Вино игристое",
+      "slug": "vino-igristoe"
+    },
+    {
+      "name": "Вино игристое безалкогольное",
+      "slug": "vino-igristoe-bezalkogolnoe"
+    },
+    {
+      "name": "Вино игристое жемчужное",
+      "slug": "vino-igristoe-zhemchuzhnoe"
+    },
+    {
+      "name": "Вино крепленое",
+      "slug": "vino-kreplenoe"
+    },
+    {
+      "name": "Вино тихое",
+      "slug": "vino-tikhoe"
+    },
+    {
+      "name": "Вино тихое безалкогольное",
+      "slug": "vino-tikhoe-bezalkogolnoe"
+    },
+    {
+      "name": "Виски ароматизированный",
+      "slug": "viski-aromatizirovannyy"
+    },
+    {
+      "name": "Виски зерновой",
+      "slug": "viski-zernovoy"
+    },
+    {
+      "name": "Виски купажированный",
+      "slug": "viski-kupazhirovannyy"
+    },
+    {
+      "name": "Виски купажированный солодовый",
+      "slug": "viski-kupazhirovannyy-solodovyy"
+    },
+    {
+      "name": "Виски однозерновой",
+      "slug": "viski-odnozernovoy"
+    },
+    {
+      "name": "Виски односолодовый",
+      "slug": "viski-odnosolodovyy"
+    },
+    {
+      "name": "Водка классическая",
+      "slug": "vodka-klassicheskaya"
+    },
+    {
+      "name": "Водка особая",
+      "slug": "vodka-osobaya"
+    },
+    {
+      "name": "Граппа",
+      "slug": "grappa"
+    },
+    {
+      "name": "Джин",
+      "slug": "dzhin"
+    },
+    {
+      "name": "Джин Лондон драй",
+      "slug": "dzhin-london-dray"
+    },
+    {
+      "name": "Джин Олд Том",
+      "slug": "dzhin-old-tom"
+    },
+    {
+      "name": "Джин современного стиля",
+      "slug": "dzhin-sovremennogo-stilya"
+    },
+    {
+      "name": "Дистиллят",
+      "slug": "distillyat"
+    },
+    {
+      "name": "Кальвадос",
+      "slug": "kalvados"
+    },
+    {
+      "name": "Коньяк",
+      "slug": "konyak"
+    },
+    {
+      "name": "Ликер",
+      "slug": "liker"
+    },
+    {
+      "name": "Медовуха",
+      "slug": "medovukha"
+    },
+    {
+      "name": "Мескаль",
+      "slug": "meskal"
+    },
+    {
+      "name": "Настойка горькая",
+      "slug": "nastoyka-gorkaya"
+    },
+    {
+      "name": "Настойка сладкая",
+      "slug": "nastoyka-sladkaya"
+    },
+    {
+      "name": "Пиво светлое нефильтрованное",
+      "slug": "pivo-svetloe-nefiltrovannoe"
+    },
+    {
+      "name": "Пиво светлое нефильтрованное безалкогольное",
+      "slug": "pivo-svetloe-nefiltrovannoe-bezalkogolnoe"
+    },
+    {
+      "name": "Пиво светлое фильтрованное",
+      "slug": "pivo-svetloe-filtrovannoe"
+    },
+    {
+      "name": "Пиво светлое фильтрованное безалкогольное",
+      "slug": "pivo-svetloe-filtrovannoe-bezalkogolnoe"
+    },
+    {
+      "name": "Пиво темное нефильтрованное",
+      "slug": "pivo-temnoe-nefiltrovannoe"
+    },
+    {
+      "name": "Пиво темное фильтрованное",
+      "slug": "pivo-temnoe-filtrovannoe"
+    },
+    {
+      "name": "Плодово-ягодный алкогольный напиток",
+      "slug": "plodovo-yagodnyy-alkogolnyy-napitok"
+    },
+    {
+      "name": "Ржаной виски",
+      "slug": "rzhanoy-viski"
+    },
+    {
+      "name": "Ром ароматизированный",
+      "slug": "rom-aromatizirovannyy"
+    },
+    {
+      "name": "Ром белый",
+      "slug": "rom-belyy"
+    },
+    {
+      "name": "Ром выдержанный",
+      "slug": "rom-vyderzhannyy"
+    },
+    {
+      "name": "Ром золотой",
+      "slug": "rom-zolotoy"
+    },
+    {
+      "name": "Ром пряный",
+      "slug": "rom-pryanyy"
+    },
+    {
+      "name": "Ром темный",
+      "slug": "rom-temnyy"
+    },
+    {
+      "name": "Ром чёрный",
+      "slug": "rom-chernyy"
+    },
+    {
+      "name": "Саке",
+      "slug": "sake"
+    },
+    {
+      "name": "Сидр грушевый сухой",
+      "slug": "sidr-grushevyy-sukhoy"
+    },
+    {
+      "name": "Сидр яблочный полусладкий",
+      "slug": "sidr-yablochnyy-polusladkiy"
+    },
+    {
+      "name": "Сидр яблочный полусухой",
+      "slug": "sidr-yablochnyy-polusukhoy"
+    },
+    {
+      "name": "Сидр яблочный сладкий",
+      "slug": "sidr-yablochnyy-sladkiy"
+    },
+    {
+      "name": "Сидр яблочный сухой",
+      "slug": "sidr-yablochnyy-sukhoy"
+    },
+    {
+      "name": "Соджу",
+      "slug": "sodzhu"
+    },
+    {
+      "name": "Текила 100% Агава",
+      "slug": "tekila-100-agava"
+    },
+    {
+      "name": "Текила Mixta",
+      "slug": "tekila-mixta"
+    },
+    {
+      "name": "Теннесси-виски",
+      "slug": "tennessi-viski"
+    },
+    {
+      "name": "Шнапс",
+      "slug": "shnaps"
+    }
+  ],
+  "strana": [
+    {
+      "name": "Абхазия",
+      "slug": "abkhaziya"
+    },
+    {
+      "name": "Австралия",
+      "slug": "avstraliya"
+    },
+    {
+      "name": "Австрия",
+      "slug": "avstriya"
+    },
+    {
+      "name": "Аргентина",
+      "slug": "argentina"
+    },
+    {
+      "name": "Армения",
+      "slug": "armeniya"
+    },
+    {
+      "name": "Барбадос",
+      "slug": "barbados"
+    },
+    {
+      "name": "Беларусь",
+      "slug": "belarus"
+    },
+    {
+      "name": "Бельгия",
+      "slug": "belgiya"
+    },
+    {
+      "name": "Болгария",
+      "slug": "bolgariya"
+    },
+    {
+      "name": "Бразилия",
+      "slug": "braziliya"
+    },
+    {
+      "name": "Венгрия",
+      "slug": "vengriya"
+    },
+    {
+      "name": "Вьетнам",
+      "slug": "vetnam"
+    },
+    {
+      "name": "Гватемала",
+      "slug": "gvatemala"
+    },
+    {
+      "name": "Германия",
+      "slug": "germaniya"
+    },
+    {
+      "name": "Гренландия",
+      "slug": "grenlandiya"
+    },
+    {
+      "name": "Греция",
+      "slug": "greciya"
+    },
+    {
+      "name": "Грузия",
+      "slug": "gruziya"
+    },
+    {
+      "name": "Доминиканская Республика",
+      "slug": "dominikanskaya-respublika"
+    },
+    {
+      "name": "Израиль",
+      "slug": "izrail"
+    },
+    {
+      "name": "Индия",
+      "slug": "indiya"
+    },
+    {
+      "name": "Ирландия",
+      "slug": "irlandiya"
+    },
+    {
+      "name": "Исландия",
+      "slug": "islandiya"
+    },
+    {
+      "name": "Испания",
+      "slug": "ispaniya"
+    },
+    {
+      "name": "Италия",
+      "slug": "italiya"
+    },
+    {
+      "name": "Казахстан",
+      "slug": "kazakhstan"
+    },
+    {
+      "name": "Канада",
+      "slug": "kanada"
+    },
+    {
+      "name": "Китай",
+      "slug": "kitay"
+    },
+    {
+      "name": "Колумбия",
+      "slug": "kolumbiya"
+    },
+    {
+      "name": "Корея, Республика",
+      "slug": "koreya-respublika"
+    },
+    {
+      "name": "Куба",
+      "slug": "kuba"
+    },
+    {
+      "name": "Литва",
+      "slug": "litva"
+    },
+    {
+      "name": "Люксембург",
+      "slug": "lyuksemburg"
+    },
+    {
+      "name": "Маврикий",
+      "slug": "mavrikiy"
+    },
+    {
+      "name": "Мексика",
+      "slug": "meksika"
+    },
+    {
+      "name": "Нидерланды",
+      "slug": "niderlandy"
+    },
+    {
+      "name": "Никарагуа",
+      "slug": "nikaragua"
+    },
+    {
+      "name": "Новая Зеландия",
+      "slug": "novaya-zelandiya"
+    },
+    {
+      "name": "Панама",
+      "slug": "panama"
+    },
+    {
+      "name": "Польша",
+      "slug": "polsha"
+    },
+    {
+      "name": "Португалия",
+      "slug": "portugaliya"
+    },
+    {
+      "name": "Республика Македония",
+      "slug": "respublika-makedoniya"
+    },
+    {
+      "name": "Россия",
+      "slug": "rossiya"
+    },
+    {
+      "name": "Сербия",
+      "slug": "serbiya"
+    },
+    {
+      "name": "Словакия",
+      "slug": "slovakiya"
+    },
+    {
+      "name": "Словения",
+      "slug": "sloveniya"
+    },
+    {
+      "name": "Соединенное Королевство",
+      "slug": "soedinennoe-korolevstvo"
+    },
+    {
+      "name": "Соединенные Штаты",
+      "slug": "soedinennye-shtaty"
+    },
+    {
+      "name": "Тайвань (Китай)",
+      "slug": "tayvan-kitay"
+    },
+    {
+      "name": "Узбекистан",
+      "slug": "uzbekistan"
+    },
+    {
+      "name": "Уругвай",
+      "slug": "urugvay"
+    },
+    {
+      "name": "Финляндия",
+      "slug": "finlyandiya"
+    },
+    {
+      "name": "Франция",
+      "slug": "franciya"
+    },
+    {
+      "name": "Чешская Республика",
+      "slug": "cheshskaya-respublika"
+    },
+    {
+      "name": "Чили",
+      "slug": "chili"
+    },
+    {
+      "name": "Швейцария",
+      "slug": "shveycariya"
+    },
+    {
+      "name": "Швеция",
+      "slug": "shveciya"
+    },
+    {
+      "name": "Шри-Ланка",
+      "slug": "shri-lanka"
+    },
+    {
+      "name": "Южная Африка",
+      "slug": "yuzhnaya-afrika"
+    },
+    {
+      "name": "Ямайка",
+      "slug": "yamayka"
+    },
+    {
+      "name": "Япония",
+      "slug": "yaponiya"
+    }
+  ],
+  "region": [
+    {
+      "name": "San Luis Potosi",
+      "slug": "san-luis-potosi"
+    },
+    {
+      "name": "Абруццо",
+      "slug": "abrucco"
+    },
+    {
+      "name": "Абруццо, Коллине Пескарези",
+      "slug": "abrucco-kolline-peskarezi"
+    },
+    {
+      "name": "Абруццо, Монтепульчано Д'Абруццо",
+      "slug": "abrucco-montepulchano-d-abrucco"
+    },
+    {
+      "name": "Абруццо, Треббьяно Д'Абруццо",
+      "slug": "abrucco-trebbyano-d-abrucco"
+    },
+    {
+      "name": "Абруццо, Черазуоло Д'Абруццо",
+      "slug": "abrucco-cherazuolo-d-abrucco"
+    },
+    {
+      "name": "Абхазия",
+      "slug": "abkhaziya"
+    },
+    {
+      "name": "Австралия",
+      "slug": "avstraliya"
+    },
+    {
+      "name": "Австрия",
+      "slug": "avstriya"
+    },
+    {
+      "name": "Аделаидские холмы",
+      "slug": "adelaidskie-kholmy"
+    },
+    {
+      "name": "Аконкагуа",
+      "slug": "akonkagua"
+    },
+    {
+      "name": "Альминская долина",
+      "slug": "alminskaya-dolina"
+    },
+    {
+      "name": "Андалусия",
+      "slug": "andalusiya"
+    },
+    {
+      "name": "Апулия",
+      "slug": "apuliya"
+    },
+    {
+      "name": "Апулия, Примитиво ди Мандурия",
+      "slug": "apuliya-primitivo-di-manduriya"
+    },
+    {
+      "name": "Апулия, Саленто",
+      "slug": "apuliya-salento"
+    },
+    {
+      "name": "Арагацотн",
+      "slug": "aragacotn"
+    },
+    {
+      "name": "Арагон",
+      "slug": "aragon"
+    },
+    {
+      "name": "Арагон, Калатаюд",
+      "slug": "aragon-kalatayud"
+    },
+    {
+      "name": "Арагон, Кариньена",
+      "slug": "aragon-karinena"
+    },
+    {
+      "name": "Араратская долина",
+      "slug": "araratskaya-dolina"
+    },
+    {
+      "name": "Армавир",
+      "slug": "armavir"
+    },
+    {
+      "name": "Арманьяк",
+      "slug": "armanyak"
+    },
+    {
+      "name": "Армения",
+      "slug": "armeniya"
+    },
+    {
+      "name": "Баден",
+      "slug": "baden"
+    },
+    {
+      "name": "Баз-Арманьяк",
+      "slug": "baz-armanyak"
+    },
+    {
+      "name": "Байррада",
+      "slug": "bayrrada"
+    },
+    {
+      "name": "Бейраш",
+      "slug": "beyrash"
+    },
+    {
+      "name": "Бордо",
+      "slug": "bordo"
+    },
+    {
+      "name": "Бордо, Грав",
+      "slug": "bordo-grav"
+    },
+    {
+      "name": "Бордо, Марго",
+      "slug": "bordo-margo"
+    },
+    {
+      "name": "Бордо, О Медок",
+      "slug": "bordo-o-medok"
+    },
+    {
+      "name": "Бордо, Пессак-Леоньян",
+      "slug": "bordo-pessak-leonyan"
+    },
+    {
+      "name": "Бордо, Пойяк",
+      "slug": "bordo-poyyak"
+    },
+    {
+      "name": "Бордо, Помроль",
+      "slug": "bordo-pomrol"
+    },
+    {
+      "name": "Бордо, Сен-Жульен",
+      "slug": "bordo-sen-zhulen"
+    },
+    {
+      "name": "Бордо, Сент-Круа-Дю-Мон",
+      "slug": "bordo-sent-krua-dyu-mon"
+    },
+    {
+      "name": "Бордо, Сент-Эмильон",
+      "slug": "bordo-sent-emilon"
+    },
+    {
+      "name": "Бордо, Сент-Эмильон Гран Крю",
+      "slug": "bordo-sent-emilon-gran-kryu"
+    },
+    {
+      "name": "Бордо, Сент-Эстеф",
+      "slug": "bordo-sent-estef"
+    },
+    {
+      "name": "Бордо, Сотерн",
+      "slug": "bordo-sotern"
+    },
+    {
+      "name": "Бургенланд",
+      "slug": "burgenland"
+    },
+    {
+      "name": "Бургундия",
+      "slug": "burgundiya"
+    },
+    {
+      "name": "Бургундия, Божоле",
+      "slug": "burgundiya-bozhole"
+    },
+    {
+      "name": "Бургундия, Бургонь",
+      "slug": "burgundiya-burgon"
+    },
+    {
+      "name": "Бургундия, Кот де Бон",
+      "slug": "burgundiya-kot-de-bon"
+    },
+    {
+      "name": "Бургундия, Креман де Бургонь",
+      "slug": "burgundiya-kreman-de-burgon"
+    },
+    {
+      "name": "Бургундия, Мерсо",
+      "slug": "burgundiya-merso"
+    },
+    {
+      "name": "Бургундия, Поммар",
+      "slug": "burgundiya-pommar"
+    },
+    {
+      "name": "Бургундия, Пти Шабли",
+      "slug": "burgundiya-pti-shabli"
+    },
+    {
+      "name": "Бургундия, Пюлиньи-Монраше",
+      "slug": "burgundiya-pyulini-monrashe"
+    },
+    {
+      "name": "Бургундия, Шабли",
+      "slug": "burgundiya-shabli"
+    },
+    {
+      "name": "Бургундия, Шассань-Монраше",
+      "slug": "burgundiya-shassan-monrashe"
+    },
+    {
+      "name": "Вайоц Дзор",
+      "slug": "vayoc-dzor"
+    },
+    {
+      "name": "Валенсия",
+      "slug": "valensiya"
+    },
+    {
+      "name": "Великобритания",
+      "slug": "velikobritaniya"
+    },
+    {
+      "name": "Венето",
+      "slug": "veneto"
+    },
+    {
+      "name": "Венето, Азоло Просекко",
+      "slug": "veneto-azolo-prosekko"
+    },
+    {
+      "name": "Венето, Амароне делла Вальполичелла классико",
+      "slug": "veneto-amarone-della-valpolichella-klassiko"
+    },
+    {
+      "name": "Венето, Вальдоббядене Просекко Суперьоре",
+      "slug": "veneto-valdobbyadene-prosekko-superore"
+    },
+    {
+      "name": "Венето, Вальполичелла",
+      "slug": "veneto-valpolichella"
+    },
+    {
+      "name": "Венето, Просекко",
+      "slug": "veneto-prosekko"
+    },
+    {
+      "name": "Венето, Просекко Тревизо",
+      "slug": "veneto-prosekko-trevizo"
+    },
+    {
+      "name": "Венето, Речото делла Вальполичелла Классико",
+      "slug": "veneto-rechoto-della-valpolichella-klassiko"
+    },
+    {
+      "name": "Венето, Суперьоре ди Картице Вальдоббьядене",
+      "slug": "veneto-superore-di-kartice-valdobbyadene"
+    },
+    {
+      "name": "Венеция",
+      "slug": "veneciya"
+    },
+    {
+      "name": "Вестерн Кейп",
+      "slug": "vestern-keyp"
+    },
+    {
+      "name": "Вестерн Кейп, Стелленбош",
+      "slug": "vestern-keyp-stellenbosh"
+    },
+    {
+      "name": "Вестерн Кейп, Элгин",
+      "slug": "vestern-keyp-elgin"
+    },
+    {
+      "name": "Винью Верде",
+      "slug": "vinyu-verde"
+    },
+    {
+      "name": "Волгоградская обасть",
+      "slug": "volgogradskaya-obast"
+    },
+    {
+      "name": "Галилея",
+      "slug": "galileya"
+    },
+    {
+      "name": "Галисия",
+      "slug": "galisiya"
+    },
+    {
+      "name": "Германия",
+      "slug": "germaniya"
+    },
+    {
+      "name": "Греция",
+      "slug": "greciya"
+    },
+    {
+      "name": "Дагестан",
+      "slug": "dagestan"
+    },
+    {
+      "name": "Долина Баросса",
+      "slug": "dolina-barossa"
+    },
+    {
+      "name": "Долина Кафейат",
+      "slug": "dolina-kafeyat"
+    },
+    {
+      "name": "Долина Луары",
+      "slug": "dolina-luary"
+    },
+    {
+      "name": "Долина Луары, Креман де Луар",
+      "slug": "dolina-luary-kreman-de-luar"
+    },
+    {
+      "name": "Долина Луары, Мюскаде Севр э Мен",
+      "slug": "dolina-luary-myuskade-sevr-e-men"
+    },
+    {
+      "name": "Долина Луары, Пуйи-Фюме",
+      "slug": "dolina-luary-puyi-fyume"
+    },
+    {
+      "name": "Долина Луары, Турень",
+      "slug": "dolina-luary-turen"
+    },
+    {
+      "name": "Долина Напа",
+      "slug": "dolina-napa"
+    },
+    {
+      "name": "Долина Роны",
+      "slug": "dolina-rony"
+    },
+    {
+      "name": "Долина Роны, Кот Роти",
+      "slug": "dolina-rony-kot-roti"
+    },
+    {
+      "name": "Долина Роны, Кроз Эрмитаж",
+      "slug": "dolina-rony-kroz-ermitazh"
+    },
+    {
+      "name": "Долина Роны, Сен Жозеф",
+      "slug": "dolina-rony-sen-zhozef"
+    },
+    {
+      "name": "Долина Роны, Шатонёф-дю-Пап",
+      "slug": "dolina-rony-shatonef-dyu-pap"
+    },
+    {
+      "name": "Долина Уко",
+      "slug": "dolina-uko"
+    },
+    {
+      "name": "Долина Юко",
+      "slug": "dolina-yuko"
+    },
+    {
+      "name": "Дору",
+      "slug": "doru"
+    },
+    {
+      "name": "Жюра",
+      "slug": "zhyura"
+    },
+    {
+      "name": "Ирландия",
+      "slug": "irlandiya"
+    },
+    {
+      "name": "Италия",
+      "slug": "italiya"
+    },
+    {
+      "name": "Италия, Милан",
+      "slug": "italiya-milan"
+    },
+    {
+      "name": "Калифорния",
+      "slug": "kaliforniya"
+    },
+    {
+      "name": "Калифорния, Долина Напа",
+      "slug": "kaliforniya-dolina-napa"
+    },
+    {
+      "name": "Калифорния, Долина Русской реки",
+      "slug": "kaliforniya-dolina-russkoy-reki"
+    },
+    {
+      "name": "Калифорния, Контра-Коста",
+      "slug": "kaliforniya-kontra-kosta"
+    },
+    {
+      "name": "Калифорния, Мендосино",
+      "slug": "kaliforniya-mendosino"
+    },
+    {
+      "name": "Калифорния, Сонома",
+      "slug": "kaliforniya-sonoma"
+    },
+    {
+      "name": "Кальвадос",
+      "slug": "kalvados"
+    },
+    {
+      "name": "Кампания",
+      "slug": "kampaniya"
+    },
+    {
+      "name": "Кампания, Беневентано Бьянко",
+      "slug": "kampaniya-beneventano-byanko"
+    },
+    {
+      "name": "Картли",
+      "slug": "kartli"
+    },
+    {
+      "name": "Кастилия и Леон, Торо",
+      "slug": "kastiliya-i-leon-toro"
+    },
+    {
+      "name": "Кастилия Ла Манча",
+      "slug": "kastiliya-la-mancha"
+    },
+    {
+      "name": "Кастилия Леон",
+      "slug": "kastiliya-leon"
+    },
+    {
+      "name": "Каталония",
+      "slug": "kataloniya"
+    },
+    {
+      "name": "Каталония, Кава",
+      "slug": "kataloniya-kava"
+    },
+    {
+      "name": "Каталония, Корпиннат",
+      "slug": "kataloniya-korpinnat"
+    },
+    {
+      "name": "Каталония, Корпиннат Виньяс Де Кан Марти",
+      "slug": "kataloniya-korpinnat-vinyas-de-kan-marti"
+    },
+    {
+      "name": "Каталония, Пенедес",
+      "slug": "kataloniya-penedes"
+    },
+    {
+      "name": "Каталония, Приорат",
+      "slug": "kataloniya-priorat"
+    },
+    {
+      "name": "Кахетия",
+      "slug": "kakhetiya"
+    },
+    {
+      "name": "Коньяк",
+      "slug": "konyak"
+    },
+    {
+      "name": "Кот де Гасконь",
+      "slug": "kot-de-gaskon"
+    },
+    {
+      "name": "Кот де Прованс",
+      "slug": "kot-de-provans"
+    },
+    {
+      "name": "Кот дю Рон, Шатонеф дю Пап",
+      "slug": "kot-dyu-ron-shatonef-dyu-pap"
+    },
+    {
+      "name": "Краснодарский край",
+      "slug": "krasnodarskiy-kray"
+    },
+    {
+      "name": "Крым",
+      "slug": "krym"
+    },
+    {
+      "name": "Кьянти",
+      "slug": "kyanti"
+    },
+    {
+      "name": "Лангедок-Руссийон",
+      "slug": "langedok-russiyon"
+    },
+    {
+      "name": "Ломбардия, Франчакорта",
+      "slug": "lombardiya-franchakorta"
+    },
+    {
+      "name": "Лоуленд",
+      "slug": "loulend"
+    },
+    {
+      "name": "Люксембург",
+      "slug": "lyuksemburg"
+    },
+    {
+      "name": "Македония",
+      "slug": "makedoniya"
+    },
+    {
+      "name": "Мальборо",
+      "slug": "malboro"
+    },
+    {
+      "name": "Марке",
+      "slug": "marke"
+    },
+    {
+      "name": "Мексика",
+      "slug": "meksika"
+    },
+    {
+      "name": "Мексика, Халиско",
+      "slug": "meksika-khalisko"
+    },
+    {
+      "name": "Мендоса",
+      "slug": "mendosa"
+    },
+    {
+      "name": "Нижняя Австрия",
+      "slug": "nizhnyaya-avstriya"
+    },
+    {
+      "name": "Нижняя Австрия, Вахау",
+      "slug": "nizhnyaya-avstriya-vakhau"
+    },
+    {
+      "name": "Нижняя Австрия, Кремшталь",
+      "slug": "nizhnyaya-avstriya-kremshtal"
+    },
+    {
+      "name": "Нижняя Волга",
+      "slug": "nizhnyaya-volga"
+    },
+    {
+      "name": "Новая Зеландия",
+      "slug": "novaya-zelandiya"
+    },
+    {
+      "name": "Оахака",
+      "slug": "oakhaka"
+    },
+    {
+      "name": "Пенедес",
+      "slug": "penedes"
+    },
+    {
+      "name": "Приорат",
+      "slug": "priorat"
+    },
+    {
+      "name": "Прованс",
+      "slug": "provans"
+    },
+    {
+      "name": "Прованс, Бондоль",
+      "slug": "provans-bondol"
+    },
+    {
+      "name": "Пфальц",
+      "slug": "pfalc"
+    },
+    {
+      "name": "Пьемонт",
+      "slug": "pemont"
+    },
+    {
+      "name": "Пьемонт, Асти",
+      "slug": "pemont-asti"
+    },
+    {
+      "name": "Пьемонт, Барбареско",
+      "slug": "pemont-barbaresko"
+    },
+    {
+      "name": "Пьемонт, Гави",
+      "slug": "pemont-gavi"
+    },
+    {
+      "name": "Пьемонт, Ланге",
+      "slug": "pemont-lange"
+    },
+    {
+      "name": "Пьемонт, Роэро Арнеис",
+      "slug": "pemont-roero-arneis"
+    },
+    {
+      "name": "Пэи д'Ож",
+      "slug": "pei-d-ozh"
+    },
+    {
+      "name": "Рача-Лечхуми",
+      "slug": "racha-lechkhumi"
+    },
+    {
+      "name": "Рейнгау",
+      "slug": "reyngau"
+    },
+    {
+      "name": "Риас Байшас",
+      "slug": "rias-bayshas"
+    },
+    {
+      "name": "Риверина",
+      "slug": "riverina"
+    },
+    {
+      "name": "Риоха",
+      "slug": "riokha"
+    },
+    {
+      "name": "Риоха, Риоха Алавеса",
+      "slug": "riokha-riokha-alavesa"
+    },
+    {
+      "name": "Россия",
+      "slug": "rossiya"
+    },
+    {
+      "name": "Россия, Мариинск",
+      "slug": "rossiya-mariinsk"
+    },
+    {
+      "name": "Ростовская область",
+      "slug": "rostovskaya-oblast"
+    },
+    {
+      "name": "Ростовская область, Долина Дона",
+      "slug": "rostovskaya-oblast-dolina-dona"
+    },
+    {
+      "name": "Руэда",
+      "slug": "rueda"
+    },
+    {
+      "name": "Савойя",
+      "slug": "savoyya"
+    },
+    {
+      "name": "Сальта",
+      "slug": "salta"
+    },
+    {
+      "name": "Сальта, Долина Кафейат",
+      "slug": "salta-dolina-kafeyat"
+    },
+    {
+      "name": "Сан Хуан",
+      "slug": "san-khuan"
+    },
+    {
+      "name": "Сансер",
+      "slug": "sanser"
+    },
+    {
+      "name": "Сардиния",
+      "slug": "sardiniya"
+    },
+    {
+      "name": "Сардиния, Верментино ди Сардинья",
+      "slug": "sardiniya-vermentino-di-sardinya"
+    },
+    {
+      "name": "Сардиния, Каннонау ди Сардинья",
+      "slug": "sardiniya-kannonau-di-sardinya"
+    },
+    {
+      "name": "Свартлэнд",
+      "slug": "svartlend"
+    },
+    {
+      "name": "Сетубал",
+      "slug": "setubal"
+    },
+    {
+      "name": "Сицилия",
+      "slug": "siciliya"
+    },
+    {
+      "name": "Сицилия. Терре Сичилиане",
+      "slug": "siciliya-terre-sichiliane"
+    },
+    {
+      "name": "Словения",
+      "slug": "sloveniya"
+    },
+    {
+      "name": "США, Калифорния",
+      "slug": "ssha-kaliforniya"
+    },
+    {
+      "name": "Тавушский район",
+      "slug": "tavushskiy-rayon"
+    },
+    {
+      "name": "Таманский полуостров",
+      "slug": "tamanskiy-poluostrov"
+    },
+    {
+      "name": "Токай",
+      "slug": "tokay"
+    },
+    {
+      "name": "Тоскана",
+      "slug": "toskana"
+    },
+    {
+      "name": "Тоскана, Болгери",
+      "slug": "toskana-bolgeri"
+    },
+    {
+      "name": "Тоскана, Кьянти Клаcсико",
+      "slug": "toskana-kyanti-klacsiko"
+    },
+    {
+      "name": "Тоскана, Кьянти Суперьоре",
+      "slug": "toskana-kyanti-superore"
+    },
+    {
+      "name": "Трентино Альто Адидже, Трентино",
+      "slug": "trentino-alto-adidzhe-trentino"
+    },
+    {
+      "name": "Трентино-Альто-Адидже",
+      "slug": "trentino-alto-adidzhe"
+    },
+    {
+      "name": "Трентино-Альто-Адидже, Альто Адидже",
+      "slug": "trentino-alto-adidzhe-alto-adidzhe"
+    },
+    {
+      "name": "Трентино-Альто-Адидже, Виньети делле Доломити",
+      "slug": "trentino-alto-adidzhe-vineti-delle-dolomiti"
+    },
+    {
+      "name": "Трентино-Альто-Адидже, Тренто",
+      "slug": "trentino-alto-adidzhe-trento"
+    },
+    {
+      "name": "Умбрия",
+      "slug": "umbriya"
+    },
+    {
+      "name": "Уругвай",
+      "slug": "urugvay"
+    },
+    {
+      "name": "Франция",
+      "slug": "franciya"
+    },
+    {
+      "name": "Франция, Анжера",
+      "slug": "franciya-anzhera"
+    },
+    {
+      "name": "Франция, Коньяк",
+      "slug": "franciya-konyak"
+    },
+    {
+      "name": "Фриули-Венеция-Джулия",
+      "slug": "friuli-veneciya-dzhuliya"
+    },
+    {
+      "name": "Фриули-Венеция-Джулия, Фриули Колли Ориентали",
+      "slug": "friuli-veneciya-dzhuliya-friuli-kolli-orientali"
+    },
+    {
+      "name": "Хайленд",
+      "slug": "khaylend"
+    },
+    {
+      "name": "Халиско",
+      "slug": "khalisko"
+    },
+    {
+      "name": "Хумилья",
+      "slug": "khumilya"
+    },
+    {
+      "name": "Центральная Долина",
+      "slug": "centralnaya-dolina"
+    },
+    {
+      "name": "Центральная долина, Рапель",
+      "slug": "centralnaya-dolina-rapel"
+    },
+    {
+      "name": "Чехия, Карловы Вары",
+      "slug": "chekhiya-karlovy-vary"
+    },
+    {
+      "name": "Шампань",
+      "slug": "shampan"
+    },
+    {
+      "name": "Шотландия",
+      "slug": "shotlandiya"
+    },
+    {
+      "name": "Эльзас",
+      "slug": "elzas"
+    },
+    {
+      "name": "Эльзас, Креман д'Эльзас",
+      "slug": "elzas-kreman-d-elzas"
+    },
+    {
+      "name": "Эльзас, Эльзас Гран Крю",
+      "slug": "elzas-elzas-gran-kryu"
+    },
+    {
+      "name": "Эмилия-Романия",
+      "slug": "emiliya-romaniya"
+    },
+    {
+      "name": "Юго-Восточная Австралия",
+      "slug": "yugo-vostochnaya-avstraliya"
+    },
+    {
+      "name": "Юго-Запад",
+      "slug": "yugo-zapad"
+    },
+    {
+      "name": "Южная Австралия",
+      "slug": "yuzhnaya-avstraliya"
+    },
+    {
+      "name": "Южная Австралия, Долина Баросса",
+      "slug": "yuzhnaya-avstraliya-dolina-barossa"
+    },
+    {
+      "name": "Япония",
+      "slug": "yaponiya"
+    }
+  ],
+  "gastronomiceskie-socetaniya-c-syrami": [
+    {
+      "name": "Ароматные сыры",
+      "slug": "aromatnye-syry"
+    },
+    {
+      "name": "Выдержанные сыры",
+      "slug": "vyderzhannye-syry"
+    },
+    {
+      "name": "Козьи сыры",
+      "slug": "kozi-syry"
+    },
+    {
+      "name": "Молодые сыры",
+      "slug": "molodye-syry"
+    },
+    {
+      "name": "Мягкие сыры",
+      "slug": "myagkie-syry"
+    },
+    {
+      "name": "Полутвердые сыры",
+      "slug": "polutverdye-syry"
+    },
+    {
+      "name": "Сыры с белой плесенью",
+      "slug": "syry-s-beloy-plesenyu"
+    },
+    {
+      "name": "Сыры с голубой плесенью",
+      "slug": "syry-s-goluboy-plesenyu"
+    },
+    {
+      "name": "Твердые сыры",
+      "slug": "tverdye-syry"
+    }
+  ],
+  "gastronomiceskie-socetaniya-s-myasom-pticei": [
+    {
+      "name": "Баранина",
+      "slug": "baranina"
+    },
+    {
+      "name": "Блюда из мяса и дичи высокой тепловой обработки",
+      "slug": "blyuda-iz-myasa-i-dichi-vysokoy-teplovoy-obrabotki"
+    },
+    {
+      "name": "Блюда из мяса и дичи деликатной тепловой обработки",
+      "slug": "blyuda-iz-myasa-i-dichi-delikatnoy-teplovoy-obrabotki"
+    },
+    {
+      "name": "Блюда из мяса и дичи средней тепловой обработки",
+      "slug": "blyuda-iz-myasa-i-dichi-sredney-teplovoy-obrabotki"
+    },
+    {
+      "name": "Вяленое мясо",
+      "slug": "vyalenoe-myaso"
+    },
+    {
+      "name": "Говядина",
+      "slug": "govyadina"
+    },
+    {
+      "name": "Индейка",
+      "slug": "indeyka"
+    },
+    {
+      "name": "Карпаччо",
+      "slug": "karpachcho"
+    },
+    {
+      "name": "Кролик",
+      "slug": "krolik"
+    },
+    {
+      "name": "Крупная дичь",
+      "slug": "krupnaya-dich"
+    },
+    {
+      "name": "Курица",
+      "slug": "kurica"
+    },
+    {
+      "name": "Мелкая дичь",
+      "slug": "melkaya-dich"
+    },
+    {
+      "name": "Мясные блюда с мятным соусом",
+      "slug": "myasnye-blyuda-s-myatnym-sousom"
+    },
+    {
+      "name": "Мясные закуски",
+      "slug": "myasnye-zakuski"
+    },
+    {
+      "name": "Мясо на гриле",
+      "slug": "myaso-na-grile"
+    },
+    {
+      "name": "Паштеты",
+      "slug": "pashtety"
+    },
+    {
+      "name": "Свинина",
+      "slug": "svinina"
+    },
+    {
+      "name": "Стейки",
+      "slug": "steyki"
+    },
+    {
+      "name": "Стейки rare",
+      "slug": "steyki-rare"
+    },
+    {
+      "name": "Стейки well",
+      "slug": "steyki-well"
+    },
+    {
+      "name": "Телятина",
+      "slug": "telyatina"
+    },
+    {
+      "name": "Утка",
+      "slug": "utka"
+    },
+    {
+      "name": "Фуа-гра",
+      "slug": "fua-gra"
+    },
+    {
+      "name": "Хамон",
+      "slug": "khamon"
+    }
+  ],
+  "gastronomiceskie-socetaniya-s-ryboi": [
+    {
+      "name": "Блюда из рыбы",
+      "slug": "blyuda-iz-ryby"
+    },
+    {
+      "name": "Жареная рыба",
+      "slug": "zharenaya-ryba"
+    },
+    {
+      "name": "Красная рыба",
+      "slug": "krasnaya-ryba"
+    },
+    {
+      "name": "Морская рыба",
+      "slug": "morskaya-ryba"
+    },
+    {
+      "name": "Речная рыба",
+      "slug": "rechnaya-ryba"
+    },
+    {
+      "name": "Рыба запеченная в духовке",
+      "slug": "ryba-zapechennaya-v-dukhovke"
+    },
+    {
+      "name": "Рыба на гриле",
+      "slug": "ryba-na-grile"
+    },
+    {
+      "name": "Рыба под сливочным соусом",
+      "slug": "ryba-pod-slivochnym-sousom"
+    }
+  ],
+  "gastronomiceskie-socetaniya-s-moreproduktami": [
+    {
+      "name": "Блюда из морепродуктов",
+      "slug": "blyuda-iz-moreproduktov"
+    },
+    {
+      "name": "Крабы",
+      "slug": "kraby"
+    },
+    {
+      "name": "Красная икра",
+      "slug": "krasnaya-ikra"
+    },
+    {
+      "name": "Креветки",
+      "slug": "krevetki"
+    },
+    {
+      "name": "Лангустины",
+      "slug": "langustiny"
+    },
+    {
+      "name": "Лобстеры",
+      "slug": "lobstery"
+    },
+    {
+      "name": "Мидии",
+      "slug": "midii"
+    },
+    {
+      "name": "Морские гребешки",
+      "slug": "morskie-grebeshki"
+    },
+    {
+      "name": "Осьминоги",
+      "slug": "osminogi"
+    },
+    {
+      "name": "Ракообразные",
+      "slug": "rakoobraznye"
+    },
+    {
+      "name": "Салат с морепродуктами",
+      "slug": "salat-s-moreproduktami"
+    },
+    {
+      "name": "Устрицы",
+      "slug": "ustricy"
+    },
+    {
+      "name": "Черная икра",
+      "slug": "chernaya-ikra"
+    }
+  ],
+  "drugie-gastronomiceskie-socetaniya": [
+    {
+      "name": "Аперитив",
+      "slug": "aperitiv"
+    },
+    {
+      "name": "Блюда азиатской кухни",
+      "slug": "blyuda-aziatskoy-kukhni"
+    },
+    {
+      "name": "Блюда из белых грибов",
+      "slug": "blyuda-iz-belykh-gribov"
+    },
+    {
+      "name": "Блюда из мяса и дичи деликатной тепловой обработки",
+      "slug": "blyuda-iz-myasa-i-dichi-delikatnoy-teplovoy-obrabotki"
+    },
+    {
+      "name": "Блюда кавказской кухни",
+      "slug": "blyuda-kavkazskoy-kukhni"
+    },
+    {
+      "name": "Блюда мексиканской кухни",
+      "slug": "blyuda-meksikanskoy-kukhni"
+    },
+    {
+      "name": "Блюда русской кухни",
+      "slug": "blyuda-russkoy-kukhni"
+    },
+    {
+      "name": "Бургеры",
+      "slug": "burgery"
+    },
+    {
+      "name": "В составе коктейлей",
+      "slug": "v-sostave-kokteyley"
+    },
+    {
+      "name": "В чистом виде",
+      "slug": "v-chistom-vide"
+    },
+    {
+      "name": "Десерты",
+      "slug": "deserty"
+    },
+    {
+      "name": "Дижестив",
+      "slug": "dizhestiv"
+    },
+    {
+      "name": "Запеченные овощи",
+      "slug": "zapechennye-ovoshchi"
+    },
+    {
+      "name": "Козьи сыры",
+      "slug": "kozi-syry"
+    },
+    {
+      "name": "Кофе",
+      "slug": "kofe"
+    },
+    {
+      "name": "Лазанья",
+      "slug": "lazanya"
+    },
+    {
+      "name": "Легкие салаты",
+      "slug": "legkie-salaty"
+    },
+    {
+      "name": "Мясные закуски",
+      "slug": "myasnye-zakuski"
+    },
+    {
+      "name": "Паста",
+      "slug": "pasta"
+    },
+    {
+      "name": "Паэлья",
+      "slug": "paelya"
+    },
+    {
+      "name": "Пицца",
+      "slug": "picca"
+    },
+    {
+      "name": "Ризотто",
+      "slug": "rizotto"
+    },
+    {
+      "name": "Снэки",
+      "slug": "sneki"
+    },
+    {
+      "name": "Со льдом",
+      "slug": "so-ldom"
+    },
+    {
+      "name": "Сыровяленое мясо",
+      "slug": "syrovyalenoe-myaso"
+    },
+    {
+      "name": "Шоколад",
+      "slug": "shokolad"
+    }
+  ],
+  "vid-upakovki": [
+    {
+      "name": "Бочонок",
+      "slug": "bochonok"
+    },
+    {
+      "name": "Бумажная упаковка",
+      "slug": "bumazhnaya-upakovka"
+    },
+    {
+      "name": "Вакуумная упаковка",
+      "slug": "vakuumnaya-upakovka"
+    },
+    {
+      "name": "Газонаполненная упаковка",
+      "slug": "gazonapolnennaya-upakovka"
+    },
+    {
+      "name": "Деревянная коробка",
+      "slug": "derevyannaya-korobka"
+    },
+    {
+      "name": "Железная банка",
+      "slug": "zheleznaya-banka"
+    },
+    {
+      "name": "Картонная упаковка",
+      "slug": "kartonnaya-upakovka"
+    },
+    {
+      "name": "Металлическая упаковка",
+      "slug": "metallicheskaya-upakovka"
+    },
+    {
+      "name": "Набор",
+      "slug": "nabor"
+    },
+    {
+      "name": "Пластиковая бутылка",
+      "slug": "plastikovaya-butylka"
+    },
+    {
+      "name": "Пластиковая упаковка",
+      "slug": "plastikovaya-upakovka"
+    },
+    {
+      "name": "Стеклянная бутылка",
+      "slug": "steklyannaya-butylka"
+    },
+    {
+      "name": "Стеклянная упаковка",
+      "slug": "steklyannaya-upakovka"
+    },
+    {
+      "name": "Тетрапак",
+      "slug": "tetrapak"
+    },
+    {
+      "name": "Туба",
+      "slug": "tuba"
+    },
+    {
+      "name": "Флоу-пак",
+      "slug": "flou-pak"
+    }
+  ],
+  "dopolnitelno": [
+    {
+      "name": "Новинка",
+      "slug": "novinka"
+    },
+    {
+      "name": "Рекомендуем",
+      "slug": "rekomenduem"
+    }
+  ]
+}
