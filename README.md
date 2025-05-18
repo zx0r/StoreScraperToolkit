@@ -120,3 +120,28 @@ alkoteka_scraper.py         # Main scraper script (entry point)
 🖼️ Изображение: https://web.alkoteka.com/resize/350_500/product/14/25/63433_image.png
 ------------------------------------------------------------
 ```
+📊 Data Analysis with Pandas
+
+```bash
+import os
+import pandas as pd
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+
+# Loading data from NDJSON
+file_path = 'result/alkoteka_vino_all_20250518.ndjson'
+df = pd.read_json(file_path, lines=True)
+
+# General information
+print("Dimensions:", df.shape)
+print("Columns:", df.columns.tolist())
+print("Data types:\n", df.dtypes)
+print("First rows:\n", df.head(3))
+print("Last rows:\n", df.tail(3))
+
+# Checking for missing values
+print("Gaps:\n", df.isnull().sum())
+
+# Statistics on numeric columns
+print("Statistics:\n", df.describe())
+```
