@@ -122,7 +122,7 @@ alkoteka_scraper.py         # Main scraper script (entry point)
 ```
 📊 Data Analysis with Pandas
 
-```bash
+```python
 import os
 import pandas as pd
 # import seaborn as sns
@@ -144,4 +144,52 @@ print("Gaps:\n", df.isnull().sum())
 
 # Statistics on numeric columns
 print("Statistics:\n", df.describe())
+```
+
+```text
+Dimension: (1019, 25)
+Columns: ['uuid', 'name', 'slug', 'category_slug', 'rate', 'vendor_code', 'subname', 'new', 'recomended', 'price', 'prev_price', 'status', 'quantity_total', 'axioma', 'enogram', 'has_online_price', 'quantity', 'favorite', 'image_url', 'product_url', 'action_labels', 'filter_labels', 'available', 'warning', 'category']
+
+Data types: 
+uuid                 object
+name                 object
+slug                 object
+category_slug        object
+rate                float64
+vendor_code           int64
+subname              object
+new                    bool
+recomended             bool
+price                 int64
+prev_price          float64
+status               object
+quantity_total        int64
+axioma                 bool
+enogram                bool
+has_online_price       bool
+quantity              int64
+favorite               bool
+image_url            object
+product_url          object
+action_labels        object
+filter_labels        object
+available              bool
+warning              object
+category             object
+dtype: object
+
+                                    uuid                                 name  \
+0  016e998b-cd04-11eb-80cf-00155d03900a        Бельбек Розе Каберне Совиньон   
+1  1ec5f71d-09eb-11ea-8100-00155d2fc707                      Шапийон Сьендра   
+2  30ec359d-b94c-11eb-80ce-00155d03900a  Джулиана Вичини Треббьяно д`Абруццо   
+
+                                          slug category_slug  rate  \
+0            belbek-roze-kaberne-sovinon_55714   vino-tikhoe   NaN   
+1                        shapiyon-sendra_45707   vino-tikhoe   NaN   
+2  dzhuliana-vichini-trebbyano-d-abrucco_55292   vino-tikhoe   NaN   
+
+   vendor_code                              subname    new  recomended  price  \
+0        55714                                 None  False        True   1330   
+1        45707                    Chapillon Siendra  False        True   1995   
+2        55292  Giuliana Vicini Trebbiano d’Abruzzo  False        True   1495  
 ```
