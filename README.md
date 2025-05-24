@@ -1,4 +1,4 @@
-### 🛠️ Alkoteka Product Scraper – One-File CLI Tool
+### 🛠️ StoreScraperToolkit – CLI Tool
 
 A fully asynchronous, CLI-driven Python tool for scraping product listings from the Alkoteka marketplace using their official public API. Built for speed, resilience, and integration-ready output.
 
